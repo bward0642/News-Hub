@@ -23,7 +23,7 @@
   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUkM0eXpNcGZ3TGFYUURycnhZWGZrRFowSHpsVkFqX0ZyUjZURHQ1WUFtaDgxZUMtbWJlQ0tiUnd2amhaelpBQU9KN1prUDNJQXd2SkhPUmhEV3BSekZaLVYyRlp1a0h3N3BsSnVGdnNLeXVka0lIc2JYZHlZNTBGTE01b0JHNENTOVRlbEdDLTRyRVBKejFrcnBZbmRPNVlFZzVPTmRtMTlIVWtNU2RRVTVfeTZ2aGstM0dFMg?oc=5",
   "summary": "",
   "source_id": "gn-fafsa",
-  "source_name": "washingtonpost.com",
+  "source_name": "The Washington Post",
   "official": false,
   "published": "2026-09-28",
   "topics": [
@@ -95,7 +95,7 @@
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakw5STQya01JQmZBcjJ5OG9DY3hQOXhVTE9JMUh1TEMxX2piM2EwZHRZRjdEQ0xlT2VJLXVtUWF5RzFVZ3UySHJQT3VSUDV4NjJWWEhqSktDOWVkNElFSHVRaTNzTXI2aDBJMV9lclpJQVlwdFcyNFNUcmRpaTQ2dlR1Q1k1LVE2bzZYMnZiUmRuUTJQdXAwU3VKcHNtQzFJVjJEbUR3ajVjaUxoSWJJVjRtM0pkbGV1OVJtbEpUZ0xQeVJhVzcwN2lhZEtZTk1KZG9LdEVoSQ?oc=5",
   "summary": "",
   "source_id": "gn-student-loans",
-  "source_name": "Forbes",
+  "source_name": "forbes.com",
   "official": false,
   "published": "2026-09-28",
   "topics": [
@@ -144,6 +144,24 @@
   "first_seen": "2026-09-28"
  },
  {
+  "id": "1c8e53ba4e49",
+  "title": "New mobile classroom will bring financial literacy lessons to Triad students",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVY0WWtuYWVRNDRaUmk4OC1OSDNtbFRPUTlrODNQNUczQUs3VTRlLWJrTGdmdGFDeDdQakJVWXdfaDRNN21hdnVrUi1EWGJPdkd6WVE5LWstMklYLWNvTXBFZGtvdXhiOVgxakxHVXU4dmdUd0J6b2RkRW1aU1Q4TS11a29MYkVtOWFvNG9aVkVVbmNtaFBzLVlTSE1jdEVZdHNSamJtQld0aWJNS2lxN1hoUFdGTjA?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "WXII",
+  "official": false,
+  "published": "2026-09-28",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-09-28"
+ },
+ {
   "id": "4ce825589d39",
   "title": "NBK honors 104 schools participating in ‘Bankee’ for 2025–2026 Academic Year",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNby11b0RTMEIwMUpIRzBzUEN0cGhrSjRXUm9Zb0ZZZnY5R3NWR09La3YwVmpYTW5DUzRJLURfQXhxTG1xV0htYndNWnFNbWF3R01OYUxUbWk0YmVGNGwtNTRLRUdFNmZqZUo4dWs4R2hjOFFtLUs3ZnRDVlJPeVJjLXNwejM0U0hrSkhXT1NYVDhHRG9JNHJkUzFKM2h6eHk1S0RrdlY0bjJxTm1WdUpLTGRHbGpxTnlyZ0dHZ2RuNHNxdE1xd2pmXzFR0gHOAUFVX3lxTE1BbmFFMDhjT1FfMy1TbjJ2ZUNQWVp5X1ZUVDdRYkJVSS1yYUxlYjBLNmY0QXZiNXkxeGIzRUZDd2NfWTNNVHd4Rk9uRjVLSnlaZWFKLVdEQW41a1BYNlo0UUVlQmtWU2lfSXhPel9PLUFxeU81Qk53VlhvNzJ3V3JUUjFGLURwZURNMVg5Q2ZxOTZpcXV6V3FYOURxNFhGUFNHTnQ2UkJ6NkdMUmk5UlQyMHFzY3pfNFhRbVNrQktva0hDRjljOU9td0Z5QzJn?oc=5",
@@ -167,7 +185,7 @@
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNkZ6bnQ4eGNnWkJjcXE2S0tONTc0ZEc0eWFlRVZKTVRsVkJVeDMxUzVOSlpOdlk2dnVFdll1UDN4WFBnT2dCNGxuMGc2Zmx3NE80eWQxSEdxTE5wcXNUNjhJVExuRUJTZmNPbHNHSnU3b1J1ZjVaTGZrN1VKdzVmUmRhRmJUdHRzN0N2NDBTVWFVOW03cVU1alNKcnJ4Yzdydk1pcnJVaF9RZ1NHTnc?oc=5",
   "summary": "",
   "source_id": "gn-student-loans",
-  "source_name": "kstp.com",
+  "source_name": "5 EYEWITNESS NEWS",
   "official": false,
   "published": "2026-09-28",
   "topics": [
@@ -226,6 +244,24 @@
   "published": "2026-09-28",
   "topics": [
    "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-09-28"
+ },
+ {
+  "id": "c04bb87245ee",
+  "title": "Junior Achievement of Triad partners with Toyota, Truliant to expand financial literacy",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDBweTFocDhNSUtOVGJDWHZVWmFOMlNpNE11WVktSUd0RklVSHRseV9xSnltWjdvQ01KbjM3Q1ltYzRiZTRhVW9YLTBGc1YxcW1RSThHY0hXNmxzb3NFRHJZX0lvMnl3T3lXY2JOZGFEV3NWTE1XMG82NE9VLVVjekp6ckM1QnkwNk5mM2p4Y2I1Qkx4UE9fTkNJeDdORmFTMU9pdTVBNFRKMHBxOGJPOGkxUHl3dw?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "WXLV",
+  "official": false,
+  "published": "2026-09-28",
+  "topics": [
+   "teaching"
   ],
   "urgent": false,
   "doc_type": null,
@@ -396,6 +432,24 @@
   "first_seen": "2026-09-28"
  },
  {
+  "id": "67c1af917f78",
+  "title": "Federal financial aid changes affect student borrowers nationwide",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzMwY3lWd2RCR2gwT0JabWxzaTJ6blZoMF93X1kwb0V5VlE3eXB1T0tPdjA0WVVSdnF6OTNfZ1BNRzVIQjhoaXVBa1J4dE5vdkluYWNfZF82TWJRV1dJcUtaTXZzeExiRGlnYXdUMGk1QmZfOHBMX1ZMSmVTZ1BBVnExU3RZVE42X0p1YWkxN0VqaXFoREY1bkdSWERxejd0eFJXbTVGVV9zNzhzSzNKWmlFZ1Q?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "thechannels.org",
+  "official": false,
+  "published": "2026-09-28",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-09-28"
+ },
+ {
   "id": "f03507700870",
   "title": "Feather River College hosts financial aid workshop",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSURLV0ZuX3RSRmRWM2RiNXV1ZTVDVTRZYmtXZVNPMXp2ZTVxckJxUGRDNUY2MGY4UFNHNXBJRHJFRTVncF9uZ0Z4Mk9hX3MwUXlzZE1NcWtHWXJWVGVlQ1BZY0FVTmFBaTJDMkt2M2hVWklUMVN6aEdOd2ttZmdHbDRNdHIwRmlZTTRzQw?oc=5",
@@ -528,7 +582,7 @@
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUNnc1pZcnZhb2Y5d2kzYW9mYkY5TW52QXBpQm9lNWVnOFg3TmVTeDdfd2VmYTUxRXRzaVQ0aTFhMXhwd0RBYXVHMFkxVW9ValAxblNySTkwM0UwTHpRRXN3OHh2TGdYaFF4OUowSXdVQU5IMjhhbk9HRXNicjBQUmloRk02dTJDRmpTQzdYcXc2dlNoV0Z1cg?oc=5",
   "summary": "",
   "source_id": "gn-credit",
-  "source_name": "American Banker",
+  "source_name": "americanbanker.com",
   "official": false,
   "published": "2026-09-28",
   "topics": [
@@ -582,7 +636,7 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd1BmNFo4SmFKZ0U2aUR3WFJBTnFiX0J6ZG94MHEyUnZGanpGVktMcHNJc0toSkhzTXQ1dTJnWF9GcTNhSU9EZy1Ld3duX1dXUnhobGRfUjVZb2lxelVjdHpwYmpEdjE0ejc0MURsd3ZHcmtvWnhGY25qeTJIME9DbVhUcVA2NUo4Y1FqOVpmeDlwTWxKR21KNDFQd2RTdGNzdU8wYWVSNlFZcUVYSVF1VFVXMFR2Tm1Dc1F5dFJoeXlkaXlEaTk3eE9wa0xVOUY4NVJOYVh3UE11XzQ?oc=5",
   "summary": "",
   "source_id": "gn-student-loans",
-  "source_name": "kiro7.com",
+  "source_name": "KIRO 7 News Seattle",
   "official": false,
   "published": "2026-09-27",
   "topics": [
@@ -600,7 +654,7 @@
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE9za2NyRHVhV0xUQWpvYUwxSWdWY3ZQS2x4Vk1oOHBoR2tDTnpTM3F3azBuSndUWmJkcERqWjlUMUwzeEEzS1JPY20tME9zcUlhaGZLeTNheVZ1LUhqbEUtTmU0SDF2RS0wNVVqa1EwODF6dDY4ZFNNblVNLXNFYnNn?oc=5",
   "summary": "",
   "source_id": "gn-teaching",
-  "source_name": "This Is Reno",
+  "source_name": "thisisreno.com",
   "official": false,
   "published": "2026-09-27",
   "topics": [
@@ -672,7 +726,7 @@
   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZVk5ZVVTR2ZXS3ByWkx4cEpvRlRrZkg3OUJ3cWt2OGVWN3Z5ZzlIMTF4N2VNOGtvVHNEaEFHd1NHZlNhN3lCX0VJQVFuOTdIRGJMN3NUTDNoMlZTNjBfcWEySmZzbmpXRTJOVnFWTlZrQlhDSEh2QlRncFZTMGN5UFlOU1ozc1BPcFg2QVVTOFYxa19zbXpySTAweW1tc3Nha3dWN3dIWUk1TEExa2NmRWJ3bG1JbXpFQlVGNXFONDFfNjhuSVJTSg?oc=5",
   "summary": "",
   "source_id": "gn-fafsa",
-  "source_name": "Forbes",
+  "source_name": "forbes.com",
   "official": false,
   "published": "2026-09-27",
   "topics": [
@@ -848,6 +902,24 @@
   "first_seen": "2026-09-28"
  },
  {
+  "id": "ae274764f4e5",
+  "title": "Student loan borrowers allege canceled debts were reported on credit reports",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZkw3aXBxOU42TmRzZnBtdlFGMXJ6NnJwUUszcHE4ZHM1RjVXUVNuQ2lGSnhfN25mOFNYaUFKNWFtQ1E4Qm93NHdEVFB0MVRlSmYxRm1TX1YzU010VWItOTBQMmxzMmdzTlVOenBBNDlFQXdKSmZBUHNjVkszbjA4dUU1bFhpaHIxUXFIVWZjNWFYNzlaejRFQnprcEY3cm9OdTY2NFlack5udXhPZldabG9WRlZCNzdPODFjOEJLSEM3RVU1dURldXNQOA?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "KVUE",
+  "official": false,
+  "published": "2026-09-25",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-09-28"
+ },
+ {
   "id": "adc6f07dbf9a",
   "title": "Society for Financial Education and Professional Development, Inc.",
   "url": "https://www.jumpstart.org/financial-fridays/110026/",
@@ -890,6 +962,24 @@
   "summary": "",
   "source_id": "gn-student-loans",
   "source_name": "Bloomberg Law News",
+  "official": false,
+  "published": "2026-09-25",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-09-28"
+ },
+ {
+  "id": "7faa77b0d478",
+  "title": "Florida TODAY: Student loan rule, Brightline bankruptcy, Publix BOGO",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOG5GcEJsODhEYkZNcnVkeUV0T2FVTC15ZVhhTENRWFJObDZQX0NyNmI0cDJJSXZoSzdJME9pSmVZVkNBRmJSV2VKY1pMaVZxdXRBTE1EXzk1VGdFZjdCV0xvY2E4YzdkdjA4dk1LVEZqQ3AtdEt1ek9zZFU5dF9sUmhKU21uZVY0UVBERlJtZWZHWm11YURVMmpjWGx5ZVFtVldDcTNDbkdyM3I2a2g3MVM4SmJJZzVaanllTE9BNGozVmZkMHdYVVREQ19KcGJKblJv?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "The Palm Beach Post",
   "official": false,
   "published": "2026-09-25",
   "topics": [
@@ -997,7 +1087,7 @@
   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNjA4NnlRRWkwOEhYRHpOMW9NNVRQbkpNQXFFQUFIQ1hYaU8zNy1lc1djMUV0bVVqcXF1RGEtMElNSmZ0eV9oOTlLQVdvU2xsSDhCb3VTeXB1cXpmejZLSlBqdk50aTc2a3pCbS1MbVRsR1d3QUVXcjloX0p4ZmdRMjF0di00UjEwbW94a2dWYXpNZjM3VlRSRnk1QjN2TmNHMG0tbk1VUzlkRXBMTUtvQ3gtejkxN3gxWkVmQ29RSmppa3luUjFDRWZhV2RPYjIxVUNEdzZB?oc=5",
   "summary": "",
   "source_id": "gn-student-loans",
-  "source_name": "marketwatch.com",
+  "source_name": "MarketWatch",
   "official": false,
   "published": "2026-09-24",
   "topics": [
@@ -1107,7 +1197,7 @@
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW9yYU9MdlBEaWhEYU0yZ0I5cUJoWWZKVGhOOFJIcHYyN1p2amJaaUpSekhFYzkyV1J5TVpiUmJicndvb2NhdEFqLUJTRGFMQlJIemxlNWFpc0dIZFB2TnZodEttMXRJTHRjMURvRVpRWWNPbTZqaUJTNEwwM1lCbHNEdW9IeE5WdldYVmlFdHJPaGxmcnVVM25FTi1Ia1l2Y1p5SUI0dF96WnJMQWlkRTdVcjNZX1Q4RXc?oc=5",
   "summary": "",
   "source_id": "gn-student-loans",
-  "source_name": "WHEC.com",
+  "source_name": "whec.com",
   "official": false,
   "published": "2026-09-24",
   "topics": [

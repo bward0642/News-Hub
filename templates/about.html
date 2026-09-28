@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}How it works · {{ site_name }}{% endblock %}
+{% block content %}
+<section class="prose">
+  <h2>How this hub works</h2>
+  <p>Every <strong>Monday morning</strong> the hub automatically collects the past week’s updates from official sources (StudentAid.gov, the Federal Register, CFPB, FTC, the Federal Reserve, FDIC), financial-education organizations (Jump$tart, Council for Economic Education, EVERFI, MyMoney.gov), consumer advocates (National Consumer Law Center, TICAS), and U.S. news coverage.</p>
+  <p>Each item is sorted into a topic by keywords. Items that mention deadlines, new rules or effective dates get a <span class="badge urgent">Heads up</span> badge.</p>
+  <ul>
+    <li><span class="badge official">Official</span> government agencies and established nonprofits.</li>
+    <li><span class="badge news">News</span> news articles found via Google News. Useful for context, but confirm details with an official source.</li>
+  </ul>
+
+  <h2>Adding your expertise</h2>
+  <p>Staff notes and teaching tips live in one simple file, <code>config/staff_notes.yaml</code>.</p>
+  <ol>
+    <li>On any news item, click <strong>＋ Add staff note</strong>. A ready-made snippet is copied to your clipboard.</li>
+    <li>{% if edit_notes_url %}<a href="{{ edit_notes_url }}" target="_blank" rel="noopener">Open the staff notes file</a>{% else %}Open <code>config/staff_notes.yaml</code> on GitHub{% endif %} and click the pencil (edit) icon.</li>
+    <li>Paste the snippet under <code>notes:</code>, write your note, and click <strong>Commit changes</strong>.</li>
+    <li>The site rebuilds in about a minute, and your note appears on the item (pinned notes go to the top of the home page).</li>
+  </ol>
+
+  <h2>Need an update right now?</h2>
+  <p>{% if run_url %}<a href="{{ run_url }}" target="_blank" rel="noopener">Open the update workflow</a>{% else %}In GitHub, open <strong>Actions → Weekly update</strong>{% endif %}, click <strong>Run workflow</strong>, and the site refreshes in a few minutes.</p>
+
+  <h2>Important</h2>
+  <p>This hub gathers headlines automatically and does not give advice. Always confirm details on the official source before advising a client.</p>
+</section>
+{% endblock %}

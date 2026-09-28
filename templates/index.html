@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% from "_macros.html" import card, filters %}
+{% block content %}
+<section class="intro">
+  <h2>This week’s briefing</h2>
+  <p class="muted">{{ week_label }} · {{ week_total }} item{{ '' if week_total == 1 else 's' }} across {{ topics|length }} topics</p>
+</section>
+
+<div class="layout">
+<div class="main-col">
+
+{% if alerts %}
+<section class="alerts" aria-labelledby="alerts-h">
+  <h2 id="alerts-h">⚠️ Heads up: possible deadlines &amp; rule changes</h2>
+  <ul>
+  {% for it in alerts %}
+    <li><a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+      <span class="muted">({{ it.source_name }}, {{ it.date_label }})</span></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if pinned %}
+<section class="pinned" aria-labelledby="pinned-h">
+  <h2 id="pinned-h">📌 Pinned by staff</h2>
+  {% for it in pinned %}{{ card(it, topic_by_id, true) }}{% endfor %}
+</section>
+{% endif %}
+
+{{ filters(topics, "Search this week…") }}
+
+{% for s in sections %}
+<section class="topic" id="{{ s.topic.id }}" data-topic-section="{{ s.topic.id }}">
+  <h2 class="topic-h"><span aria-hidden="true">{{ s.topic.icon }}</span> {{ s.topic.name }} <span class="count">{{ s.count }}</span></h2>
+  {% if not s.count %}<p class="empty">Nothing new this week.</p>{% endif %}
+  {% if s.official %}
+    <h3 class="sub-h">Official updates</h3>
+    {% for it in s.official %}{{ card(it, topic_by_id) }}{% endfor %}
+  {% endif %}
+  {% if s.news %}
+    <h3 class="sub-h">In the news</h3>
+    {% for it in s.news[:6] %}{{ card(it, topic_by_id) }}{% endfor %}
+    {% if s.news|length > 6 %}
+    <details class="more">
+      <summary>Show {{ s.news|length - 6 }} more news stories</summary>
+      {% for it in s.news[6:] %}{{ card(it, topic_by_id) }}{% endfor %}
+    </details>
+    {% endif %}
+  {% endif %}
+</section>
+{% endfor %}
+</div>
+
+<aside class="side-col">
+  {% if key_dates %}
+  <section class="panel">
+    <h2>📅 Key dates</h2>
+    <ul class="dates">
+    {% for k in key_dates %}
+      <li><strong>{{ k.date_label }}</strong> · {{ k.label }}<br><a href="{{ k.item.url }}" target="_blank" rel="noopener">{{ k.item.title|truncate(90) }}</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if tips %}
+  <section class="panel">
+    <h2>💡 Teaching tips</h2>
+    {% for t in tips %}
+      <div class="tip">
+        <h3>{% if t.link %}<a href="{{ t.link }}" target="_blank" rel="noopener">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h3>
+        <p>{{ t.tip }}</p>
+      </div>
+    {% endfor %}
+    <p><a href="resources.html#tips">All tips →</a></p>
+  </section>
+  {% endif %}
+
+  <section class="panel">
+    <h2>🔎 Check these sites weekly</h2>
+    <p class="muted small">These don’t offer a news feed, so give them a quick look.</p>
+    <ul class="plain">
+    {% for l in sidebar_links %}<li><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.title }}</a></li>{% endfor %}
+    </ul>
+  </section>
+</aside>
+</div>
+{% endblock %}

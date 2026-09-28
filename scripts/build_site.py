@@ -9,7 +9,6 @@ import shutil
 from collections import OrderedDict
 from datetime import date, datetime, timedelta
 from pathlib import Path
-from urllib.parse import urlencode
 from zoneinfo import ZoneInfo
 
 import yaml
@@ -35,30 +34,6 @@ def pretty_date(iso: str | None) -> str:
     return d.strftime("%b %-d, %Y")
 
 
-def load_json(path: Path, default):
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
-
-
-def make_form_linker(form_cfg: dict):
-    """Return a function that builds a pre-filled Google Form link, or None if not set up."""
-    url = (form_cfg.get("form_url") or "").strip()
-    fields = form_cfg.get("fields") or {}
-    choices = form_cfg.get("choices") or {}
-    if not url:
-        return lambda *a, **k: None
-    url = url.split("?")[0]
-
-    def link(kind: str, story_url: str = "", headline: str = "") -> str:
-        params = {"usp": "pp_url"}
-        for key, value in (("kind", choices.get(kind, "")), ("link", story_url), ("headline", headline)):
-            entry = str(fields.get(key) or "").strip()
-            if entry and value:
-                params[entry if entry.startswith("entry.") else f"entry.{entry}"] = value
-        return f"{url}?{urlencode(params)}"
-
-    return link
-
-
 def week_start(iso: str) -> date:
     d = date.fromisoformat(iso)
     return d - timedelta(days=d.weekday())  # Monday
@@ -68,11 +43,6 @@ def main() -> None:
     topics_cfg = load_yaml("topics.yaml")
     topics = topics_cfg["topics"]
     topic_by_id = {t["id"]: t for t in topics}
-    notes_cfg = load_yaml("staff_notes.yaml")          # admin-only notes & tips
-    form_cfg = load_yaml("staff_form.yaml")
-    submitted = load_json(ROOT / "data" / "staff_notes.json", {"notes": [], "tips": []})  # approved via form
-    form_link = make_form_linker(form_cfg)
-    pin_days = int(form_cfg.get("pin_days") or 21)
     resources = load_yaml("resources.yaml").get("groups", [])
 
     items = json.loads((ROOT / "data" / "items.json").read_text(encoding="utf-8"))
@@ -81,19 +51,10 @@ def main() -> None:
 
     now = datetime.now(TZ)
     today = now.date()
-    pin_cutoff = (today - timedelta(days=pin_days)).isoformat()
 
-    # Attach staff notes (matched by link). A story can collect notes from several people.
-    notes_by_url: dict[str, list] = {}
-    for n in (notes_cfg.get("notes") or []) + (submitted.get("notes") or []):
-        if n.get("url") and n.get("note"):
-            n = dict(n, date_label=pretty_date(n.get("added")))
-            notes_by_url.setdefault(n["url"].strip(), []).append(n)
     for it in items:
         it["topics"] = [t for t in it["topics"] if t in topic_by_id] or [topics[0]["id"]]
         it["primary"] = it["topics"][0]
-        it["notes"] = sorted(notes_by_url.get(it["url"], []), key=lambda n: str(n.get("added", "")))
-        it["note_form"] = form_link("note", it["url"], it["title"])
         it["date_label"] = pretty_date(it["published"])
     cutoff = (today - timedelta(days=THIS_WEEK_DAYS)).isoformat()
 
@@ -112,11 +73,6 @@ def main() -> None:
         })
 
     alerts = sorted((it for it in this_week if it["urgent"]), key=rank)[:8]
-    # Pinned notes stay at the top for `pin_days` (admin notes without a date stay until unpinned).
-    def pinned_now(n):
-        return n.get("pin") and (not n.get("added") or str(n["added"]) >= pin_cutoff)
-    pinned = sorted((it for it in items if any(pinned_now(n) for n in it["notes"])),
-                    key=lambda it: max(str(n.get("added", "")) for n in it["notes"]), reverse=True)
 
     # Upcoming dates from official rules/notices (effective dates, comment deadlines).
     key_dates = []
@@ -127,7 +83,7 @@ def main() -> None:
                                   "label": label, "item": it})
     key_dates.sort(key=lambda k: k["date"])
 
-    tips = sorted((notes_cfg.get("tips") or []) + (submitted.get("tips") or []),
+    tips = sorted(load_yaml("tips.yaml").get("tips") or [],
                   key=lambda t: str(t.get("added", "")), reverse=True)
 
     archive = OrderedDict()
@@ -147,8 +103,6 @@ def main() -> None:
         "updated_label": now.strftime("%A, %B %-d, %Y at %-I:%M %p ET"),
         "week_label": f"{pretty_date((today - timedelta(days=THIS_WEEK_DAYS)).isoformat())} – {pretty_date(today.isoformat())}",
         "failures": last_run.get("failures", []),
-        "tip_form": form_link("tip"),
-        "approval_note": form_cfg.get("approval_note") or "",
         "sidebar_links": [l for g in resources for l in g["links"] if l.get("sidebar")],
     }
 
@@ -159,11 +113,10 @@ def main() -> None:
 
     pages = {
         "index.html": ("index.html", dict(page="home", sections=sections, alerts=alerts,
-                                          pinned=pinned, tips=tips[:3], key_dates=key_dates[:8],
+                                          tips=tips[:3], key_dates=key_dates[:8],
                                           week_total=len(this_week))),
         "archive.html": ("archive.html", dict(page="archive", weeks=archive_weeks, total=len(items))),
         "resources.html": ("resources.html", dict(page="resources", groups=resources, tips=tips)),
-        "about.html": ("about.html", dict(page="about")),
     }
     for out_name, (tpl, ctx) in pages.items():
         html = env.get_template(tpl).render(**common, **ctx)

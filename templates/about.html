@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}How it works · {{ site_name }}{% endblock %}
+{% block content %}
+<section class="prose">
+  <h2>How this hub works</h2>
+  <p>Every <strong>Monday morning</strong> the hub automatically collects the past week’s updates from official sources (StudentAid.gov, the Federal Register, CFPB, FTC, the Federal Reserve, FDIC), financial-education organizations (Jump$tart, Council for Economic Education, EVERFI, MyMoney.gov), consumer advocates (National Consumer Law Center, TICAS), and U.S. news coverage.</p>
+  <p>Each item is sorted into a topic by keywords. Items that mention deadlines, new rules or effective dates get a <span class="badge urgent">Heads up</span> badge.</p>
+  <ul>
+    <li><span class="badge official">Official</span> government agencies and established nonprofits.</li>
+    <li><span class="badge news">News</span> news articles found via Google News. Useful for context, but confirm details with an official source.</li>
+  </ul>
+
+  <h2>Adding your expertise</h2>
+  <p>Staff can share what a story means for our clients, or pass along a teaching tip. No account or special access is needed.</p>
+  <ol>
+    <li>Click <strong>＋ Add staff note</strong> under any story. A short form opens with the story already filled in.{% if tip_form %} For a general tip, use <a href="{{ tip_form }}" target="_blank" rel="noopener">Suggest a teaching tip</a>.{% endif %}</li>
+    <li>Write your note, add your name, and submit.</li>
+    <li>An admin reviews it. Once approved, it appears on the site within about an hour.</li>
+  </ol>
+  <p class="muted">Please don’t include client names or other personal details. Notes are visible to anyone who has the site’s link.</p>
+  {% if not tip_form %}<p class="muted"><em>The note form hasn’t been connected yet. Ask the site admin.</em></p>{% endif %}
+
+  <h2>Who can change the site?</h2>
+  <p>Only site admins can change the website’s design, news sources, topics and settings. Staff contribute through the note form, and every submission is reviewed before it is published.</p>
+
+  <h2>Important</h2>
+  <p>This hub gathers headlines automatically and does not give advice. Always confirm details on the official source before advising a client.</p>
+</section>
+{% endblock %}

@@ -1,0 +1,24 @@
+# Connects the site's "Add staff note" and "Suggest a teaching tip" buttons to your Google Form.
+# Admin setup is in README.md → "Set up the staff notes form". Leave form_url blank to hide the buttons.
+
+# The form's public link. Open the form → Send → link icon, and paste it here.
+# It should end in /viewform, e.g. https://docs.google.com/forms/d/e/1FAIpQLS.../viewform
+form_url: ""
+
+# Field IDs used to pre-fill the form. Get them from the form's ⋮ menu → "Get pre-filled link":
+# type anything into these three questions, click "Get link", and copy the entry.NNNN numbers.
+fields:
+  kind: ""       # "What are you adding?"   e.g. entry.1234567890
+  link: ""       # "Link"                   e.g. entry.2345678901
+  headline: ""   # "Headline"               e.g. entry.3456789012
+
+# Exact wording of the two choices for "What are you adding?" (must match the form).
+choices:
+  note: Note on a news story
+  tip: Teaching tip
+
+# Shown to staff next to the buttons.
+approval_note: Notes and tips appear on the site after an admin reviews them.
+
+# How long a pinned note stays at the top of the home page.
+pin_days: 21

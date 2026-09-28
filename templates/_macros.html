@@ -1,0 +1,35 @@
+{% macro card(it, topic_by_id, show_topic=false) -%}
+<article class="card{% if it.urgent %} is-urgent{% endif %}{% if it.notes %} has-note{% endif %}"
+  data-topics="{{ it.topics|join(' ') }}" data-text="{{ (it.title ~ ' ' ~ it.summary ~ ' ' ~ it.source_name)|lower }}">
+  <div class="meta">
+    {% if it.official %}<span class="badge official">Official</span>{% else %}<span class="badge news">News</span>{% endif %}
+    {% if it.urgent %}<span class="badge urgent">Heads up</span>{% endif %}
+    {% if it.doc_type %}<span class="badge doc">{{ it.doc_type }}</span>{% endif %}
+    <span class="source">{{ it.source_name }}</span>
+    <time datetime="{{ it.published }}">{{ it.date_label }}</time>
+  </div>
+  <h3 class="card-title"><a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a></h3>
+  {% if it.summary %}<p class="summary">{{ it.summary }}</p>{% endif %}
+  {% for n in it.notes %}
+  <div class="note">
+    <p class="note-label">Staff note{% if n.author %} · {{ n.author }}{% endif %}{% if n.date_label %} · {{ n.date_label }}{% endif %}</p>
+    <p>{{ n.note }}</p>
+  </div>
+  {% endfor %}
+  <div class="card-foot">
+    {% for t in it.topics %}{% if show_topic or not loop.first %}<span class="chip-sm">{{ topic_by_id[t].icon }} {{ topic_by_id[t].name }}</span>{% endif %}{% endfor %}
+    {% if it.note_form %}<a class="linkbtn" href="{{ it.note_form }}" target="_blank" rel="noopener" title="Share what this means for our clients (reviewed before it appears)">＋ Add staff note</a>{% endif %}
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro filters(topics, placeholder) -%}
+<div class="filters" role="search">
+  <div class="chips" role="group" aria-label="Filter by topic">
+    <button type="button" class="chip" data-filter="all" aria-pressed="true">All</button>
+    {% for t in topics %}<button type="button" class="chip" data-filter="{{ t.id }}" aria-pressed="false">{{ t.icon }} {{ t.name }}</button>{% endfor %}
+  </div>
+  <input type="search" class="search" placeholder="{{ placeholder }}" aria-label="Search">
+</div>
+<p class="no-results" hidden>No items match your filter.</p>
+{%- endmacro %}

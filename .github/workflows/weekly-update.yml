@@ -2,18 +2,12 @@ name: Weekly update
 
 on:
   schedule:
-    - cron: "0 10 * * 1"   # Mondays 10:00 UTC (6 AM Eastern in summer, 5 AM in winter)
-  workflow_dispatch:        # "Run workflow" button for an update on demand
-  push:                     # staff edits to notes/tips/config rebuild the site (no news fetch)
-    branches: [main]
-    paths:
-      - "config/**"
-      - "templates/**"
-      - "static/**"
-      - "scripts/build_site.py"
+    - cron: "0 10 * * 1"    # Mondays 10:00 UTC (6 AM Eastern in summer, 5 AM in winter): full news update
+    - cron: "15 * * * *"    # every hour: publish newly approved staff notes & tips
+  workflow_dispatch:         # "Run workflow" button: full update on demand (use after editing config)
 
 permissions:
-  contents: write   # save this week's news back to data/items.json
+  contents: write   # save news & approved notes back to data/
   pages: write
   id-token: write
 
@@ -24,6 +18,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      publish: ${{ steps.decide.outputs.publish }}
+    env:
+      # Full run = Monday schedule or the manual button. Otherwise it's the hourly notes check.
+      FULL_RUN: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 10 * * 1' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -34,12 +33,28 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Fetch approved staff notes
+        id: notes
+        env:
+          NOTES_CSV_URL: ${{ secrets.NOTES_CSV_URL }}
+        run: python scripts/fetch_notes.py
+
       - name: Fetch this week's news
-        if: github.event_name != 'push'
+        if: env.FULL_RUN == 'true'
         run: python scripts/fetch_news.py
 
-      - name: Save news history
-        if: github.event_name != 'push'
+      - name: Decide whether to publish
+        id: decide
+        run: |
+          if [ "$FULL_RUN" = "true" ] || [ "${{ steps.notes.outputs.changed }}" = "true" ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "No newly approved notes; nothing to publish."
+          fi
+
+      - name: Save data
+        if: steps.decide.outputs.publish == 'true'
         run: |
           git config user.name "news-hub-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,20 +62,23 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to save."
           else
-            git commit -m "Weekly news update $(date -u +%Y-%m-%d)"
+            git commit -m "Update news & staff notes $(date -u +%Y-%m-%d)"
             git pull --rebase origin main
             git push
           fi
 
       - name: Build site
+        if: steps.decide.outputs.publish == 'true'
         run: python scripts/build_site.py
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.decide.outputs.publish == 'true'
         with:
           path: site
 
   deploy:
     needs: build
+    if: needs.build.outputs.publish == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

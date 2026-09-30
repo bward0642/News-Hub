@@ -1,0 +1,129 @@
+# Keeps the hub's news coverage neutral and non-partisan.
+# Applies to news and commentary on every tab. Official sources (government agencies,
+# the Federal Register, bill trackers, established nonprofits) are exempt.
+
+# Outlets skipped entirely (matched against the publisher name Google News reports).
+blocked_outlets:
+  - Fox News
+  - Fox Business
+  - MSNBC
+  - Breitbart
+  - The Daily Wire
+  - Daily Wire
+  - Newsmax
+  - HuffPost
+  - Townhall
+  - The Federalist
+  - Daily Kos
+  - Mother Jones
+  - TheBlaze
+  - The Blaze
+  - Washington Examiner
+  - Raw Story
+  - Salon
+  - Salon.com
+  - One America News Network
+  - OAN
+  - The Nation
+  - National Review
+  - Jacobin
+  - The Daily Caller
+  - Daily Caller
+  - The Gateway Pundit
+  - Palmer Report
+  - Occupy Democrats
+  - RedState
+  - The American Conservative
+  - The New Republic
+  - Common Dreams
+  - PJ Media
+
+# The same outlets by web address (catches them in regular feeds and links).
+blocked_domains:
+  - foxnews.com
+  - foxbusiness.com
+  - msnbc.com
+  - breitbart.com
+  - dailywire.com
+  - newsmax.com
+  - huffpost.com
+  - townhall.com
+  - thefederalist.com
+  - dailykos.com
+  - motherjones.com
+  - theblaze.com
+  - washingtonexaminer.com
+  - rawstory.com
+  - salon.com
+  - oann.com
+  - thenation.com
+  - nationalreview.com
+  - jacobin.com
+  - dailycaller.com
+  - thegatewaypundit.com
+  - palmerreport.com
+  - redstate.com
+  - theamericanconservative.com
+  - newrepublic.com
+  - commondreams.org
+  - pjmedia.com
+
+# Headlines using any of these words/phrases are skipped (charged or partisan framing).
+charged_words:
+  - slams
+  - slammed
+  - blasts
+  - blasted
+  - rips
+  - ripped into
+  - destroys
+  - radical
+  - radicals
+  - war on
+  - outrage
+  - outraged
+  - bombshell
+  - caves
+  - doubles down
+  - woke
+  - MAGA
+  - far-left
+  - far-right
+  - socialist
+  - socialists
+  - extremist
+  - extremists
+  - Democrat
+  - Democrats
+  - Democratic
+  - Dems
+  - Republican
+  - Republicans
+  - GOP
+  - liberals
+  - conservatives
+  - leftist
+  - leftists
+  - right-wing
+  - left-wing
+  - partisan
+
+# Opinion pieces are skipped on the news tabs (the Market Watch commentary section allows
+# market analysis, but still applies the lists above).
+opinion_markers:
+  - "Opinion:"
+  - "Opinion |"
+  - Op-Ed
+  - Op-ed
+  - Editorial
+  - Letter to the editor
+  - Letters to the editor
+  - "Column:"
+  - "Guest column"
+opinion_url_paths:
+  - /opinion/
+  - /opinions/
+  - /op-ed/
+  - /editorial/
+  - /editorials/
+  - /letters/

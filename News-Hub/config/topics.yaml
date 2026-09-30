@@ -1,0 +1,123 @@
+# Topics shown on the site, in display order.
+# An item is tagged with every topic whose keywords appear in its title or summary.
+# Keywords are case-insensitive and match whole words/phrases.
+
+topics:
+  - id: student-loans
+    name: Student Loans
+    icon: "🎓"
+    keywords:
+      - student loan
+      - student loans
+      - student debt
+      - loan forgiveness
+      - forgiveness
+      - PSLF
+      - public service loan
+      - income-driven
+      - IDR
+      - SAVE plan
+      - repayment assistance plan
+      - repayment plan
+      - loan servicer
+      - servicer
+      - MOHELA
+      - Nelnet
+      - Aidvantage
+      - EdFinancial
+      - loan default
+      - in default
+      - defaulted loans
+      - wage garnishment
+      - Parent PLUS
+      - Grad PLUS
+      - borrower defense
+      - Direct Loan
+      - federal student aid
+
+  - id: fafsa
+    name: FAFSA & Financial Aid
+    icon: "📝"
+    keywords:
+      - FAFSA
+      - Pell
+      - Pell Grant
+      - financial aid
+      - Student Aid Index
+      - SAI
+      - scholarship
+      - scholarships
+      - work-study
+      - Title IV
+      - cost of attendance
+      - tuition
+
+  - id: consumer-credit
+    name: Consumer Credit & Banking
+    icon: "💳"
+    keywords:
+      - credit score
+      - credit report
+      - credit card
+      - credit cards
+      - overdraft
+      - bank fees
+      - junk fees
+      - debt collector
+      - debt collection
+      - payday
+      - buy now, pay later
+      - buy now pay later
+      - BNPL
+      - identity theft
+      - scam
+      - scams
+      - fraud
+      - consumer protection
+      - CFPB
+      - checking account
+      - savings account
+      - medical debt
+      - auto loan
+      - mortgage
+      - Equal Credit Opportunity
+
+  - id: teaching
+    name: Teaching Tips & Resources
+    icon: "💡"
+    keywords:
+      - financial literacy
+      - financial education
+      - financial capability
+      - money management
+      - budgeting
+      - curriculum
+      - lesson plan
+      - lesson plans
+      - classroom
+      - educators
+      - teachers
+      - workshop
+      - webinar
+      - personal finance
+
+# Items mentioning any of these are flagged "Heads up" and listed in the alert banner.
+urgent_keywords:
+  - deadline
+  - act by
+  - must act
+  - last day
+  - expires
+  - apply by
+  - final rule
+  - interim final rule
+  - effective date
+  - takes effect
+  - will end
+  - resume
+  - resumes
+  - collections
+  - garnishment
+  - new rule
+  - proposed rule
+  - comment period

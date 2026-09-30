@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% from "_macros.html" import card, filters %}
+{% block title %}Archive · {{ site_name }}{% endblock %}
+{% block content %}
+<section class="intro">
+  <h2>Archive</h2>
+  <p class="muted">{{ total }} items from the past year, grouped by week. Filter by topic or search any word.</p>
+</section>
+{{ filters(topics, "Search the archive (e.g. PSLF, overdraft, FAFSA)…") }}
+{% for w in weeks %}
+<section class="week" id="{{ w.id }}">
+  <details {% if loop.index <= 2 %}open{% endif %}>
+    <summary><h2>{{ w.label }} <span class="count">{{ w.entries|length }}</span></h2></summary>
+    {% for it in w.entries %}{{ card(it, topic_by_id, true) }}{% endfor %}
+  </details>
+</section>
+{% endfor %}
+{% endblock %}

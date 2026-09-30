@@ -1,0 +1,642 @@
+{
+ "fetched_at": "2026-09-30T17:43:52+00:00",
+ "default_state": "PA",
+ "legiscan_connected": false,
+ "states": {
+  "US": "Federal",
+  "AL": "Alabama",
+  "AK": "Alaska",
+  "AZ": "Arizona",
+  "AR": "Arkansas",
+  "CA": "California",
+  "CO": "Colorado",
+  "CT": "Connecticut",
+  "DE": "Delaware",
+  "DC": "District of Columbia",
+  "FL": "Florida",
+  "GA": "Georgia",
+  "HI": "Hawaii",
+  "ID": "Idaho",
+  "IL": "Illinois",
+  "IN": "Indiana",
+  "IA": "Iowa",
+  "KS": "Kansas",
+  "KY": "Kentucky",
+  "LA": "Louisiana",
+  "ME": "Maine",
+  "MD": "Maryland",
+  "MA": "Massachusetts",
+  "MI": "Michigan",
+  "MN": "Minnesota",
+  "MS": "Mississippi",
+  "MO": "Missouri",
+  "MT": "Montana",
+  "NE": "Nebraska",
+  "NV": "Nevada",
+  "NH": "New Hampshire",
+  "NJ": "New Jersey",
+  "NM": "New Mexico",
+  "NY": "New York",
+  "NC": "North Carolina",
+  "ND": "North Dakota",
+  "OH": "Ohio",
+  "OK": "Oklahoma",
+  "OR": "Oregon",
+  "PA": "Pennsylvania",
+  "RI": "Rhode Island",
+  "SC": "South Carolina",
+  "SD": "South Dakota",
+  "TN": "Tennessee",
+  "TX": "Texas",
+  "UT": "Utah",
+  "VT": "Vermont",
+  "VA": "Virginia",
+  "WA": "Washington",
+  "WV": "West Virginia",
+  "WI": "Wisconsin",
+  "WY": "Wyoming"
+ },
+ "items": [
+  {
+   "id": "afcb60323d92",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Telemarketing Sales Rule Fees",
+   "summary": "The Federal Trade Commission (\"Commission\") is amending its Telemarketing Sales Rule (\"TSR\") by updating the fees charged to entities accessing the National Do Not Call Registry (\"Registry\") as required by the Do-Not-Call Registry Fee Extension Act of 2007. Effective 2026-10-01.",
+   "status": "enacted",
+   "status_label": "Final rule · takes effect 2026-10-01",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-08-26",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17428/telemarketing-sales-rule-fees",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "08c4be1fc851",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies: Institutional Eligibility Under the Higher Education Act of 1965, as Amended, Student Assistance General Provisions",
+   "summary": "The Department proposes to revise the existing accrediting agency recognition regulations at 34 CFR part 602 to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden. Comments due 2026-09-21.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-08-20",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/08/20/2026-17001/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
+   "topics": [
+    "student-loans"
+   ]
+  },
+  {
+   "id": "513fddfbbbb4",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Petition for Rulemaking of the National Consumers League, Campaign for Fairer Gambling, the National Council for Problem Gambling, the Public Health Advocacy Institute, and Truth in Advertising, Inc.",
+   "summary": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from the National Consumers League, Campaign for Fairer Gambling, the National Council for Problem Gambling, the Public Health Advocacy Institute, and Truth in Advertising, Inc., and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice… Comments due 2026-08-27.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-07-28",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15182/petition-for-rulemaking-of-the-national-consumers-league-campaign-for-fairer-gambling-the-national",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "e05575aa7c96",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Accountability in Higher Education and Access Through Demand- Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability",
+   "summary": "The Secretary of Education (Secretary) amends the regulations governing institutional eligibility, general provisions, and the William D. Ford Direct Loan (Direct Loan) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs) to implement statutory changes to the title IV, HEA programs included in the Working Families Tax Cuts Act (WFTCA) signed into law by President Trump on July 4, 2025. These changes include revisions to program eligibility… Effective 2027-07-01.",
+   "status": "enacted",
+   "status_label": "Final rule · takes effect 2027-07-01",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-07-01",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/07/01/2026-13286/accountability-in-higher-education-and-access-through-demand--driven-workforce-pell-student-tuition",
+   "topics": [
+    "fafsa",
+    "student-loans"
+   ]
+  },
+  {
+   "id": "38cf1d62e7c4",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Equal Credit Opportunity (Regulation B); Special Purpose Credit Programs; Rescission",
+   "summary": "The Consumer Financial Protection Bureau (Bureau) is rescinding an advisory opinion issued in December 2020 regarding Regulation B, which implements the Equal Credit Opportunity Act (ECOA), as it applies to certain aspects of special purpose credit programs designed and implemented by for-profit organizations to meet special social needs.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-06-17",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2026/06/17/2026-12149/equal-credit-opportunity-regulation-b-special-purpose-credit-programs-rescission",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "8ac3f0972611",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants",
+   "summary": "The Secretary of Education (Secretary) amends the regulations governing institutional eligibility, general provisions, and the Federal Pell Grant (Pell Grant) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The final regulations implement statutory changes to the title IV, HEA programs included in the Working Families Tax Cuts Act (WFTCA), signed into law by President Trump on July 4, 2025. In the NPRM, we referenced the WFTCA as the… Effective 2026-07-20.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-05-19",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "e6c84bca1225",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Reimagining and Improving Student Education-Federal Student Loan Program Final Regulations",
+   "summary": "The Secretary amends the regulations for the Federal student loan programs authorized under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs) to implement the statutory changes to the title IV, HEA programs included in Public Law 119-21, the Working Families Tax Cuts Act signed into law by President Trump on July 4, 2025. The Department previously referred to the Working Families Tax Cuts Act as the \"One Big Beautiful Bill Act,\" including in the Notice… Effective 2026-07-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-05-01",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08556/reimagining-and-improving-student-education-federal-student-loan-program-final-regulations",
+   "topics": [
+    "student-loans",
+    "fafsa"
+   ]
+  },
+  {
+   "id": "24c2d263b2d7",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)",
+   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is revising certain provisions of Regulation B, subpart B, which implements changes to the Equal Credit Opportunity Act made by section 1071 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. The Bureau is amending coverage of certain credit transactions and financial institutions; the small business definition; inclusion of certain data points and how others are collected; and the compliance date. The Bureau believes… Effective 2026-06-30.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-05-01",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2026/05/01/2026-08494/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "eb543d9c1147",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Equal Credit Opportunity Act (Regulation B)",
+   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing a final rule that amends provisions related to disparate impact, discouragement of applicants or prospective applicants, and special purpose credit programs under Regulation B, the regulation implementing the Equal Credit Opportunity Act (ECOA or Act). The amendments facilitate compliance with ECOA by clarifying the obligations imposed by the statute. Effective 2026-07-21.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-04-22",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2026/04/22/2026-07804/equal-credit-opportunity-act-regulation-b",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "c54cc65f1fbb",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability",
+   "summary": "The Secretary of Education (Secretary) proposes to amend the regulations governing institutional eligibility, general provisions regulations, and the William D. Ford Direct Loan (Direct Loan) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The proposed regulations would implement statutory changes to the title IV, HEA programs included in the One Big Beautiful Bill Act (OBBB), signed by President Trump on July 4, 2025. The OBBB made… Comments due 2026-05-20.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-04-20",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07666/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-student-tuition",
+   "topics": [
+    "fafsa",
+    "student-loans"
+   ]
+  },
+  {
+   "id": "a94dd6de2d70",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Rule on Unfair or Deceptive Fees in Online Food Delivery Services",
+   "summary": "The Federal Trade Commission (\"Commission\") proposes to commence a rulemaking proceeding to address certain unfair or deceptive acts or practices relating to fees and charges for food and grocery items ordered through online delivery platforms. The Commission is soliciting written comment, data, and argument concerning the need for such a rulemaking to prevent persons, entities, and organizations from engaging in such unfair or deceptive acts or practices. Comments due 2026-05-18.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-04-16",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/04/16/2026-07473/rule-on-unfair-or-deceptive-fees-in-online-food-delivery-services",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "4ebb2bf5d2bf",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Excise Tax on Remittance Transfers",
+   "summary": "This document contains proposed regulations that would provide rules and definitions related to the excise tax imposed on certain remittance transfers that occur after December 31, 2025. The proposed regulations would affect certain remittance transfer providers and certain individuals sending remittance transfers. Comments due 2026-06-12.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-04-13",
+   "source_name": "Treasury Department, Internal Revenue Service",
+   "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07085/excise-tax-on-remittance-transfers",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "40bcd7587dad",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Clarification of Deposit Insurance Coverage for Branches of U.S. Banks in the Federated States of Micronesia, the Marshall Islands, and Palau",
+   "summary": "The Federal Deposit Insurance Corporation (FDIC) is adopting a final rule to provide that the FDIC will insure deposits of all branches of U.S.-insured depository institutions (IDIs) in the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau, whether operating presently or in the future. This final rule follows an interim final rule with request for comment issued by the FDIC in August 2024. Effective 2026-04-22.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-03-23",
+   "source_name": "Federal Deposit Insurance Corporation",
+   "url": "https://www.federalregister.gov/documents/2026/03/23/2026-05652/clarification-of-deposit-insurance-coverage-for-branches-of-us-banks-in-the-federated-states-of",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "3bcb37d4d921",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Rule Concerning the Use of Prenotification Negative Option Plans",
+   "summary": "The Federal Trade Commission (\"FTC\" or \"Commission\") seeks public comment on the need for amendments to the Commission's \"Rule Concerning the Use of Prenotification Negative Option Plans\" (i.e., \"Negative Option Rule\" or \"Rule\") to help consumers avoid recurring payments for products and services they did not intend to order and to allow them to cancel such payments without unwarranted obstacles. Comments due 2026-04-13.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-03-13",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "c1553738a860",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Rule on Unfair or Deceptive Rental Housing Fee Practices",
+   "summary": "The Federal Trade Commission (\"Commission\") proposes to commence a rulemaking proceeding to address unfair or deceptive acts or practices relating to advertised rent and other fees and charges in the rental housing industry. To assist the Commission in determining the existence and prevalence of any such potentially unfair or deceptive practices and exploring ways to address them, the Commission is soliciting written comment, including data and argument, concerning such fees and charges… Comments due 2026-04-13.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-03-13",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/03/13/2026-04907/rule-on-unfair-or-deceptive-rental-housing-fee-practices",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "565e00e1f55e",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS",
+   "summary": "The Secretary of Education (Secretary) proposes to amend the regulations governing institutional eligibility, general provisions, and the Federal Pell Grant (Pell Grant) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The proposed regulations would implement statutory changes to the title IV, HEA programs included in the One Big Beautiful Bill Act (OBBB), signed into law by President Trump on July 4, 2025. The OBBB made numerous changes… Comments due 2026-04-08.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-03-09",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/03/09/2026-04520/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "e9b1d5413d2b",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Equal Credit Opportunity Act (Regulation B)",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-02-25",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2026/02/25/C1-2025-19864/equal-credit-opportunity-act-regulation-b",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "afbf05f4c0af",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Revision of the Negative Option Rule, Withdrawal of the CARS Rule, Removal of the Non-Compete Rule To Conform These Rules to Federal Court Decisions",
+   "summary": "In light of Federal court decisions, the Federal Trade Commission (\"FTC\" or \"Commission\") is taking final action to conform three of its recent rules to the results ordered by the courts. First, the Commission is revising its recently amended \"Rule Concerning Recurring Subscriptions and Other Negative Option Programs\" (\"Negative Option Rule\") to recodify the text of the Negative Option Rule as it existed before the effective date of the Commission's 2024 final rule amending it. Second, the… Effective 2026-02-12.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-02-12",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/02/12/2026-02866/revision-of-the-negative-option-rule-withdrawal-of-the-cars-rule-removal-of-the-non-compete-rule-to",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "530502c8e15b",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Reimagining and Improving Student Education",
+   "summary": "The Secretary proposes to amend the regulations for the Federal student loan programs authorized under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs) to implement the statutory changes to the title IV, HEA programs included in the One Big Beautiful Bill Act (OBBB) signed into law by President Trump on July 4, 2025. These changes include establishing new loan limits for graduate students, professional students, and parents, and phasing out the… Comments due 2026-03-02.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-01-30",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education",
+   "topics": [
+    "fafsa",
+    "student-loans"
+   ]
+  },
+  {
+   "id": "126cd87e050d",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Truth in Lending Act (Regulation Z) Adjustment to Asset-Size Exemption Threshold",
+   "summary": "The Consumer Financial Protection Bureau (Bureau) is amending the official commentary to its Regulation Z in order to make annual adjustments to the asset-size thresholds exempting certain creditors from the requirement to establish an escrow account for a higher-priced mortgage loan (HPML). The exemption threshold for creditors and their affiliates that regularly extended covered transactions secured by first liens is adjusted to $2.785 billion and the exemption threshold for certain insured… Effective 2026-01-07.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-01-07",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2026/01/07/2026-00085/truth-in-lending-act-regulation-z-adjustment-to-asset-size-exemption-threshold",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "6ca3232a9a78",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Debt Collection Authorities Under the Debt Collection Improvement Act of 1996",
+   "summary": "The Department of the Treasury (\"Treasury\"), Bureau of the Fiscal Service (\"Fiscal Service\"), proposes to revise its existing regulations regarding the Treasury Offset Program (\"TOP\") for several reasons, including to: restore statutory flexibility that was unnecessarily restricted; implement new authorities; eliminate repetitive and unnecessary language; reword certain provisions for clarity, consistent with the requirements of the Plain Writing Act of 2010 and Executive Order 12866; and… Comments due 2026-02-23.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2025-12-23",
+   "source_name": "Treasury Department, Fiscal Service",
+   "url": "https://www.federalregister.gov/documents/2025/12/23/2025-23704/debt-collection-authorities-under-the-debt-collection-improvement-act-of-1996",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "18c8b18cdfc2",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Truth in Lending (Regulation Z)",
+   "summary": "The Board and the Bureau (collectively, Agencies) are publishing final rules amending the official interpretations for the Agencies' regulations that implement the Truth in Lending Act (TILA). The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd- Frank Act) amended TILA by requiring that the dollar threshold for exempt consumer credit transactions be adjusted annually by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers… Effective 2026-01-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-12-15",
+   "source_name": "Federal Reserve System, Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22814/truth-in-lending-regulation-z",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "2946da4a3545",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Consumer Leasing (Regulation M)",
+   "summary": "The Board and the Bureau (collectively, Agencies) are finalizing amendments to the official interpretations for the Agencies' regulations that implement the Consumer Leasing Act (CLA). The Dodd- Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) amended the CLA by requiring that the dollar threshold for exempt consumer leases be adjusted annually by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). Based on the… Effective 2026-01-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-12-15",
+   "source_name": "Federal Reserve System, Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22813/consumer-leasing-regulation-m",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "a628097d3b7a",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Truth in Lending (Regulation Z) Annual Threshold Adjustments (Credit Cards, HOEPA, and Qualified Mortgages)",
+   "summary": "The Consumer Financial Protection Bureau (Bureau) is issuing this final rule amending the regulation text and official interpretations for Regulation Z, which implements the Truth in Lending Act (TILA). The Bureau calculates the dollar amounts for provisions in Regulation Z annually; this final rule revises the amounts for provisions implementing TILA and its amendments, including the Home Ownership and Equity Protection Act of 1994 (HOEPA), and the Dodd-Frank Wall Street Reform and Consumer… Effective 2026-01-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-12-15",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22773/truth-in-lending-regulation-z-annual-threshold-adjustments-credit-cards-hoepa-and-qualified",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "3b174f8c933a",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Fair Credit Reporting Act Disclosures",
+   "summary": "The Consumer Financial Protection Bureau (Bureau) is issuing this final rule amending an appendix for Regulation V, which implements the Fair Credit Reporting Act (FCRA). The Bureau is required to calculate annually the dollar amount of the maximum allowable charge for disclosures by a consumer reporting agency to a consumer pursuant to section 609 of the FCRA; this final rule establishes the maximum allowable charge for the 2026 calendar year. Effective 2026-01-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-12-15",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/12/15/2025-22772/fair-credit-reporting-act-disclosures",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "4caa2b79f610",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Petition for Rulemaking of Consumer Federation of America and the American Economic Liberties Project",
+   "summary": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Consumer Federation of America and the American Economic Liberties Project and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition. Comments due 2026-01-02.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2025-12-03",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2025/12/03/2025-21887/petition-for-rulemaking-of-consumer-federation-of-america-and-the-american-economic-liberties",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "88d436b8738b",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)",
+   "summary": "The Consumer Financial Protection Bureau (CFPB or Bureau) proposes revisions to certain provisions of Regulation B, subpart B, implementing changes to the Equal Credit Opportunity Act made by section 1071 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. The Bureau is reconsidering coverage of certain credit transactions and financial institutions; the small business definition; inclusion of certain data points and how others are collected; and the compliance date. The CFPB… Comments due 2025-12-15.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2025-11-13",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/11/13/2025-19865/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "af33fccdb2dd",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Equal Credit Opportunity Act (Regulation B)",
+   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing a proposed rule for public comment that amends provisions related to disparate impact, discouragement of applicants or prospective applicants, and special purpose credit programs under Regulation B, the regulation implementing the Equal Credit Opportunity Act (ECOA or Act). The amendments would facilitate compliance with ECOA by clarifying the obligations imposed by the statute. Comments due 2025-12-15.",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2025-11-13",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/11/13/2025-19864/equal-credit-opportunity-act-regulation-b",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "7d2faed18c04",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "William D. Ford Federal Direct Loan (Direct Loan) Program",
+   "summary": "The Secretary establishes new regulations on the Public Service Loan Forgiveness (PSLF) program in the William D. Ford Federal Direct Loan (Direct Loan) program under 34 CFR 685.219 by adding or clarifying provisions to exclude employers that engage in specific enumerated illegal activities such that they have a substantial illegal purpose, including defining obligations and processes tied to making such a determination of an employer, clarifying that borrowers will receive full credit for work… Effective 2026-07-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-10-31",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2025/10/31/2025-19729/william-d-ford-federal-direct-loan-direct-loan-program",
+   "topics": [
+    "student-loans"
+   ]
+  },
+  {
+   "id": "5ceab242df00",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections; Withdrawal of Proposed Rule",
+   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections, published on February 1, 2023 (Proposed Rule), and is providing this notice of withdrawal. The Bureau has determined that legislative rulemaking is not necessary or appropriate at this time to address the subject matter of the Proposed Rule. The Bureau…",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2025-10-29",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/10/29/2025-19690/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "303cccd36737",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Fair Credit Reporting Act; Preemption of State Laws",
+   "summary": "The Consumer Financial Protection Bureau (Bureau) is issuing this interpretive rule to clarify that the Fair Credit Reporting Act (FCRA) generally preempts State laws that touch on broad areas of credit reporting, consistent with Congress's intent to create national standards for the credit reporting system. This interpretive rule replaces a July 2022 interpretive rule that the Bureau withdrew in May 2025.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-10-28",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/10/28/2025-19671/fair-credit-reporting-act-preemption-of-state-laws",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "ecfc96dc5011",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "kind": "rule",
+   "number": "",
+   "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates",
+   "summary": "The Consumer Financial Protection Bureau (CFPB or Bureau) is finalizing its June 18, 2025 interim final rule amending Regulation B to extend the compliance dates set forth in its 2023 small business lending rule, as amended by a 2024 interim final rule, and to make other date-related conforming adjustments. Effective 2025-12-01.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2025-10-02",
+   "source_name": "Consumer Financial Protection Bureau",
+   "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19370/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance",
+   "topics": [
+    "consumer-credit"
+   ]
+  }
+ ],
+ "failures": []
+}

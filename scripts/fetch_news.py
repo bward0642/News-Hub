@@ -8,130 +8,16 @@ Usage:  python scripts/fetch_news.py [--days 8]
 from __future__ import annotations
 
 import argparse
-import calendar
-import hashlib
-import html
 import json
-import re
 import sys
-import warnings
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
-from urllib.parse import quote_plus, urljoin
 
-warnings.filterwarnings("ignore")  # quiet urllib3/LibreSSL noise on older Macs
+from common import (ROOT, Neutrality, build_classifier, fetch_federal_register,
+                    fetch_google_news, fetch_rss, item_id, load_yaml, phrase_regex)
 
-import feedparser
-import requests
-import yaml
-
-ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "items.json"
 KEEP_DAYS = 400  # history kept for the archive
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh) FinancialLiteracyNewsHub/1.0",
-    "Accept": "application/rss+xml, application/xml, application/json, text/xml, */*",
-}
-TIMEOUT = (10, 30)
-
-
-def load_yaml(name: str) -> dict:
-    return yaml.safe_load((ROOT / "config" / name).read_text(encoding="utf-8")) or {}
-
-
-def clean_text(raw: str | None, limit: int = 400) -> str:
-    """Strip HTML tags/entities and collapse whitespace; trim to `limit` chars at a word."""
-    if not raw:
-        return ""
-    text = re.sub(r"<[^>]+>", " ", raw)
-    text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    if len(text) > limit:
-        text = text[:limit].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
-    return text
-
-
-def item_id(url: str) -> str:
-    return hashlib.sha1(url.encode("utf-8")).hexdigest()[:12]
-
-
-def entry_date(entry) -> datetime | None:
-    for key in ("published_parsed", "updated_parsed"):
-        parsed = entry.get(key)
-        if parsed:
-            return datetime.fromtimestamp(calendar.timegm(parsed), tz=timezone.utc)
-    return None
-
-
-# ---------------------------------------------------------------- fetchers
-
-def fetch_rss(url: str) -> list[dict]:
-    resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-    resp.raise_for_status()
-    feed = feedparser.parse(resp.content)
-    items = []
-    for e in feed.entries:
-        link = urljoin(url, e.get("link") or "")  # some feeds use relative links
-        title = clean_text(e.get("title"), 300)
-        if not link or not title:
-            continue
-        src = e.get("source") or {}
-        items.append({
-            "title": title,
-            "url": link,
-            "publisher_url": src.get("href", ""),
-            "summary": clean_text(e.get("summary") or e.get("description")),
-            "published": entry_date(e),
-        })
-    return items
-
-
-def fetch_google_news(query: str) -> list[dict]:
-    url = ("https://news.google.com/rss/search?q=" + quote_plus(query + " when:7d")
-           + "&hl=en-US&gl=US&ceid=US:en")
-    items = fetch_rss(url)
-    for it in items:
-        # Google titles look like "Headline - Publisher"; split the publisher off.
-        head, sep, publisher = it["title"].rpartition(" - ")
-        if sep and head:
-            it["title"], it["publisher"] = head, publisher
-        # Google's summary is just the headline again, so drop it.
-        if it["summary"].startswith(it["title"][:40]):
-            it["summary"] = ""
-    return items
-
-
-def fetch_federal_register(agency: str, since: datetime) -> list[dict]:
-    params = {
-        "conditions[agencies][]": agency,
-        "conditions[publication_date][gte]": since.strftime("%Y-%m-%d"),
-        "order": "newest",
-        "per_page": 50,
-        "fields[]": ["title", "html_url", "abstract", "publication_date", "type",
-                     "effective_on", "comments_close_on"],
-    }
-    resp = requests.get("https://www.federalregister.gov/api/v1/documents.json",
-                        params=params, headers=HEADERS, timeout=TIMEOUT)
-    resp.raise_for_status()
-    items = []
-    for d in resp.json().get("results", []):
-        extra = []
-        if d.get("effective_on"):
-            extra.append(f"Effective {d['effective_on']}.")
-        if d.get("comments_close_on"):
-            extra.append(f"Comments due {d['comments_close_on']}.")
-        summary = clean_text(d.get("abstract"), 500)
-        items.append({
-            "title": clean_text(d["title"], 300),
-            "url": d["html_url"],
-            "summary": (summary + " " + " ".join(extra)).strip(),
-            "published": datetime.strptime(d["publication_date"], "%Y-%m-%d").replace(tzinfo=timezone.utc),
-            "doc_type": d.get("type"),  # Rule, Proposed Rule, Notice...
-            "effective_on": d.get("effective_on"),
-            "comments_close_on": d.get("comments_close_on"),
-        })
-    return items
 
 
 def fetch_source(src: dict, since: datetime) -> list[dict]:
@@ -143,49 +29,6 @@ def fetch_source(src: dict, since: datetime) -> list[dict]:
     if kind == "federal_register":
         return fetch_federal_register(src["agency"], since)
     raise ValueError(f"unknown source type {kind!r}")
-
-
-# ---------------------------------------------------------------- classify
-
-def phrase_regex(words: list[str]) -> re.Pattern | None:
-    words = [w for w in words if w]
-    if not words:
-        return None
-    alts = "|".join(re.escape(w) for w in sorted(words, key=len, reverse=True))
-    return re.compile(rf"(?<![\w-])(?:{alts})(?![\w-])", re.IGNORECASE)
-
-
-# "by September 30", "before Oct. 1", "until December 31" -> treat as a deadline
-DEADLINE_RE = re.compile(
-    r"\b(?:by|before|until|through|no later than)\s+"
-    r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2}\b",
-    re.IGNORECASE)
-
-
-def build_classifier(topics_cfg: dict):
-    topic_res = [(t["id"], phrase_regex(t.get("keywords", []))) for t in topics_cfg["topics"]]
-    urgent_re = phrase_regex(topics_cfg.get("urgent_keywords", []))
-
-    def classify(item: dict, default_topic: str | None) -> tuple[list[str], bool]:
-        text = f"{item['title']} {item.get('summary', '')}"
-        # Most keyword hits first (title hits count double); ties keep config order.
-        title = item["title"]
-        scored = []
-        for order, (tid, rx) in enumerate(topic_res):
-            if not rx:
-                continue
-            hits = len(rx.findall(text)) + len(rx.findall(title))
-            if hits:
-                scored.append((-hits, order, tid))
-        topics = [tid for _, _, tid in sorted(scored)]
-        if not topics and default_topic:
-            topics = [default_topic]
-        urgent = bool(urgent_re and urgent_re.search(text)) or bool(DEADLINE_RE.search(text))
-        if item.get("doc_type") in ("Rule", "Proposed Rule"):
-            urgent = True
-        return topics, urgent
-
-    return classify
 
 
 # ---------------------------------------------------------------- main
@@ -200,6 +43,7 @@ def main() -> int:
     classify = build_classifier(load_yaml("topics.yaml"))
     exclude_re = phrase_regex(sources_cfg.get("exclude_titles", []))
     blocked_publishers = {p.lower() for p in sources_cfg.get("exclude_publishers", [])}
+    neutral = Neutrality()
     allowed_domains = tuple(d.lower() for d in sources_cfg.get("allowed_publisher_domains", []))
 
     def publisher_ok(it: dict) -> bool:
@@ -214,7 +58,9 @@ def main() -> int:
     existing: dict[str, dict] = {}
     if DATA_FILE.exists():
         for it in json.loads(DATA_FILE.read_text(encoding="utf-8")):
-            existing[it["id"]] = it
+            # Re-check history too, so filter changes also clean up the archive.
+            if it.get("official") or neutral.ok(it):
+                existing[it["id"]] = it
 
     sources = sources_cfg["sources"]
     results: dict[str, list[dict] | Exception] = {}
@@ -247,6 +93,8 @@ def main() -> int:
             if exclude_re and exclude_re.search(it["title"]):
                 continue
             if src["type"] == "google_news" and not publisher_ok(it):
+                continue
+            if not src.get("official") and not neutral.ok(it):
                 continue
             topics, urgent = classify(it, src.get("default_topic"))
             if not topics:

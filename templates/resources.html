@@ -18,15 +18,12 @@
 {% endfor %}
 </div>
 <section class="panel" id="tips">
-  <h2>💡 Teaching tips from our staff</h2>
+  <h2>💡 Teaching tips</h2>
   {% for t in tips %}
   <div class="tip">
     <h3>{% if t.link %}<a href="{{ t.link }}" target="_blank" rel="noopener">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h3>
     <p>{{ t.tip }}</p>
-    {% if t.author %}<p class="muted small">— {{ t.author }}</p>{% endif %}
   </div>
   {% else %}<p class="muted">No tips yet.</p>{% endfor %}
-  {% if tip_form %}<p><a class="button" href="{{ tip_form }}" target="_blank" rel="noopener">＋ Suggest a teaching tip</a></p>
-  {% if approval_note %}<p class="muted small">{{ approval_note }}</p>{% endif %}{% endif %}
 </section>
 {% endblock %}

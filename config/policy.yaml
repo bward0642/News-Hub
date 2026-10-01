@@ -1,0 +1,117 @@
+# Policy tab settings: enacted and in-progress policy, federal and state.
+
+# State shown first (staff can switch; the site remembers their choice).
+default_state: PA
+
+# Only show policy with activity in the last N months.
+months: 12
+
+# ---- Federal rules (Federal Register; free, no key) ----
+# Final rules show as "Enacted", proposed rules as "In progress".
+# Only rules matching the site's topic keywords (config/topics.yaml) are kept.
+federal_register:
+  agencies:
+    - education-department
+    - consumer-financial-protection-bureau
+    - treasury-department
+    - internal-revenue-service
+    - federal-deposit-insurance-corporation
+    - comptroller-of-the-currency
+    - national-credit-union-administration
+    - federal-trade-commission
+    - federal-reserve-system
+  # A rule is kept only if its TITLE contains one of these (keeps out bank-regulation
+  # rules that don't affect individual clients).
+  title_keywords: [student, students, borrower, borrowers, loan forgiveness, Higher Education,
+                   Title IV, Pell, FAFSA, financial aid, Direct Loan, repayment, PSLF,
+                   Public Service Loan, consumer, consumers, Equal Credit Opportunity,
+                   Regulation B, Regulation E, Regulation F, Regulation V, Regulation X, Regulation Z,
+                   Truth in Lending, Electronic Fund Transfer, Fair Credit Reporting,
+                   Fair Debt Collection, debt collection, credit card, overdraft, payday,
+                   small-dollar, remittance, prepaid, earned wage, buy now, deposit insurance coverage,
+                   Telemarketing, Negative Option, Unfair or Deceptive, impersonation, junk fees,
+                   hidden fees, tax credit, earned income, "529 plan", ABLE account, savings account]
+  # Topic used when a kept rule doesn't match a topic keyword.
+  default_topics:
+    education-department: student-loans
+    default: consumer-credit
+  # Rules whose titles contain these are skipped (routine or unrelated).
+  exclude_titles: [Title IX, Foreign, Waiver and Extension of the Project Period, Technical Amendment,
+                   Technical Amendments, Correction, Correcting Amendment, Delay of Effective Date,
+                   Civil Monetary Penalty Inflation Adjustment, Sunshine Act]
+
+# ---- Congress (GovInfo; free, no key) ----
+# Enacted federal laws, and bills as they move through Congress. Kept when the TITLE
+# matches title_keywords above (plus the extra words below).
+govinfo:
+  public_laws: https://www.govinfo.gov/rss/plaw.xml
+  bills: https://www.govinfo.gov/rss/bills.xml     # latest 100 bill versions; coverage builds up weekly
+  # Congress titles are matched against THIS list (stricter than the rule keywords above,
+  # because bill titles like "... Tax Credit Act" or "Consumer Fuel Costs" are rarely relevant).
+  title_keywords: [student loan, student loans, student debt, student aid, student borrower,
+                   student borrowers, borrower, borrowers, loan forgiveness, PSLF, Public Service Loan,
+                   Higher Education Act, Pell, FAFSA, financial aid, financial literacy,
+                   personal finance, Consumer Financial Protection, credit report, credit reporting,
+                   credit card, credit cards, overdraft, debt collection, debt collector, medical debt,
+                   payday, earned wage, buy now pay later, "buy now, pay later", Truth in Lending,
+                   Fair Credit Reporting, Equal Credit Opportunity, junk fees, "529 plan", ABLE account,
+                   earned income tax credit, child tax credit, savings account, emergency savings]
+  # Bill version code (in the title, e.g. "H.R. 1234 (IH)") → status shown.
+  versions:
+    IH: Introduced
+    IS: Introduced
+    RH: Reported by committee
+    RS: Reported by committee
+    RCH: Reported by committee
+    RCS: Reported by committee
+    RFH: Passed a chamber
+    RFS: Passed a chamber
+    EH: Passed a chamber
+    ES: Passed a chamber
+    EAH: Passed a chamber
+    EAS: Passed a chamber
+    ENR: Passed Congress (sent to the President)
+
+# ---- State policy in the news (Google News; free, no key) ----
+# One news search per state. Items are NEWS COVERAGE, not official status: the status
+# shown is read from the headline, and staff should confirm with the state legislature.
+state_news:
+  first_run_days: 60      # how far back to look the first time
+  days: 14                # how far back to look on later weekly runs
+  max_per_state: 15
+  topic_phrases: ['"student loan"', '"student loans"', '"student debt"', '"financial literacy"',
+                  '"personal finance"', FAFSA, '"financial aid"', '"medical debt"', overdraft,
+                  '"debt collection"', '"earned wage"', '"buy now, pay later"', '"credit report"',
+                  '"payday"']
+  # The headline must contain one of these to count as policy news.
+  policy_words: [bill, bills, law, laws, legislation, legislative, legislature, legislator,
+                 legislators, lawmaker, lawmakers, senate, house, assembly, governor, signed, signs,
+                 act, measure, proposal, proposed, rule, rules, ordinance, mandate, requirement,
+                 require, requires, ban, bans, regulation, regulations]
+  # Status read from the headline (checked in this order).
+  status_phrases:
+    enacted: [signed into law, signs, signed, new law, becomes law, became law, takes effect,
+              took effect, now law, goes into effect, went into effect, enacted, now requires,
+              now require, now required, now mandatory, new requirement]
+    advancing: [passes, passed, approves, approved, advances, advanced, clears, cleared,
+                heads to governor, sent to governor, votes to]
+    proposed: [introduce, introduces, introduced, propose, proposes, proposed, would, aims to, seeks, seeking,
+               plans, considering, pushes, push for, calls for, bill to]
+  # National outlets whose names contain a state or city name; they only count for a state
+  # when the headline itself names that state.
+  national_outlets: [The New York Times, New York Times, New York Post, New York Magazine,
+                     The Washington Post, Washington Post, The Washington Times, Washington Times,
+                     Los Angeles Times, The Wall Street Journal]
+  # Extra names or abbreviations that identify a state in headlines or outlet names.
+  state_aliases:
+    PA: [Pa., PennLive, Spotlight PA, Harrisburg]
+    NY: [N.Y., Albany]
+    CA: [Calif., Sacramento]
+    NJ: [N.J., Trenton]
+    MA: [Mass., Beacon Hill]
+    IL: [Ill., Springfield]
+    MI: [Mich., Lansing]
+    OH: [Columbus]
+    TX: [Austin]
+    FL: [Fla., Tallahassee]
+    DC: ["D.C.", "Washington, D.C."]

@@ -17,9 +17,12 @@
   --official-bg: #e3ebf7;
   --news: #4a5260;
   --news-bg: #eef0f3;
-  --note-bg: #fffbea;
-  --note-line: #e6d788;
   --band: #f4f6fa;
+  --spark: #7a8494;
+  --enacted: #1d6b3f;
+  --enacted-bg: #e2f2e8;
+  --passed: #0d6570;
+  --passed-bg: #dcf1f2;
   --radius: 8px;
   --shadow: 0 1px 3px rgba(4, 30, 66, .07);
   color-scheme: light;
@@ -82,8 +85,6 @@ ul.plain { list-style: none; padding: 0; }
 .alerts h2 { margin: 0 0 6px; font-size: 1.05rem; color: var(--urgent); }
 .alerts ul { margin: 0; padding-left: 20px; }
 .alerts li { margin: 5px 0; }
-.pinned { margin-bottom: 20px; }
-.pinned > h2 { font-size: 1.1rem; margin: 0 0 10px; }
 
 /* Filters */
 .filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; margin: 8px 0 12px; position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 8px 0; }
@@ -114,14 +115,8 @@ ul.plain { list-style: none; padding: 0; }
 .card-title a { color: var(--ink); text-decoration: none; }
 .card-title a:hover { color: var(--link); text-decoration: underline; }
 .summary { margin: 0 0 6px; font-size: .93rem; color: var(--muted); }
-.note + .note { margin-top: 6px; }
-.note { background: var(--note-bg); border: 1px solid var(--note-line); border-radius: 8px; padding: 8px 12px; margin: 8px 0; }
-.note p { margin: 0; font-size: .93rem; }
-.note-label { font-size: .75rem !important; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; margin-bottom: 2px !important; }
 .card-foot { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .chip-sm { font-size: .75rem; background: var(--accent); color: var(--brand); padding: 1px 8px; border-radius: 999px; }
-.linkbtn { margin-left: auto; font-size: .8rem; font-weight: 500; color: var(--link); text-decoration: none; padding: 2px 0; }
-.linkbtn:hover { text-decoration: underline; }
 details.more > summary { cursor: pointer; color: var(--link); font-weight: 500; margin: 6px 0 10px; }
 
 /* Archive */
@@ -143,10 +138,50 @@ code { background: var(--accent); padding: 1px 5px; border-radius: 4px; font-siz
 .footer p { margin: 6px 0; }
 
 
+/* Market Watch */
+.brief ul { margin: 0; padding-left: 20px; }
+.brief li { margin: 4px 0; }
+.brief { margin-bottom: 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; margin: 12px 0 24px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; box-shadow: var(--shadow); display: flex; flex-direction: column; }
+.tile-label { font-size: .88rem; font-weight: 600; margin: 0; color: var(--muted); }
+.tile-label a { color: inherit; text-decoration: none; }
+.tile-label a:hover { text-decoration: underline; }
+.tile-value { font-size: 1.75rem; font-weight: 650; margin: 2px 0 0; color: var(--ink); font-variant-numeric: tabular-nums; }
+.tile-delta { margin: 0 0 6px; font-size: .9rem; color: var(--ink); font-variant-numeric: tabular-nums; }
+.tile-range, .tile-asof { margin: 0; font-size: .78rem; }
+.tile-why { margin: 8px 0 0; font-size: .85rem; color: var(--muted); border-top: 1px solid var(--line); padding-top: 8px; }
+.spark { position: relative; margin: 2px 0 2px; }
+.spark svg { display: block; width: 100%; height: auto; max-width: 100%; overflow: visible; }
+.spark-line { fill: none; stroke: var(--spark); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+.spark-last { fill: var(--brand); stroke: var(--surface); stroke-width: 2; }
+.spark-focus { fill: var(--ink); stroke: var(--surface); stroke-width: 2; }
+.spark-tip { position: absolute; top: -34px; transform: translateX(-50%); background: var(--ink); color: var(--surface); font-size: .75rem; padding: 3px 8px; border-radius: 6px; white-space: nowrap; pointer-events: none; z-index: 3; font-variant-numeric: tabular-nums; }
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+.list li { margin: 10px 0; line-height: 1.4; }
+@media (max-width: 760px) { .two-col { grid-template-columns: 1fr; } }
+
+/* Policy */
+.policy-controls { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin: 4px 0 6px; }
+.field { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: .9rem; }
+.field select { font: inherit; font-weight: 400; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); max-width: 100%; }
+.policy-count { margin: 4px 0 8px; }
+.notice { background: var(--band); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px; font-size: .92rem; }
+.badge.jur { background: var(--news-bg); color: var(--ink); }
+.badge.status-enacted { background: var(--enacted-bg); color: var(--enacted); }
+.badge.status-passed { background: var(--passed-bg); color: var(--passed); }
+.badge.status-progress { background: var(--official-bg); color: var(--official); }
+.policy-card .small { margin: 2px 0 6px; }
+@media (max-width: 640px) {
+  .policy-controls { align-items: stretch; }
+  .field { width: 100%; }
+  .field select { flex: 1; min-width: 0; }
+}
+
 /* Print: a clean handout for team meetings */
 @media print {
   :root { --bg: #fff; --surface: #fff; --ink: #000; --muted: #333; }
-  nav, .filters, .linkbtn, .side-col, .skip, .no-results { display: none !important; }
+  nav, .filters, .policy-controls, .side-col, .skip, .no-results, .spark-tip { display: none !important; }
   .masthead { background: none; color: #000; border-bottom: 2px solid #000; }
   .layout { display: block; }
   .card { break-inside: avoid; box-shadow: none; }
@@ -165,3 +200,10 @@ code { background: var(--accent); padding: 1px 5px; border-radius: 4px; font-siz
   .brand { font-size: 1.35rem; }
   nav a { padding: 5px 10px; }
 }
+
+/* Policy: federal vs. state news sections */
+.section-h { font-size: 1.35rem; margin: 26px 0 4px; }
+.section-sub { font-size: .9rem; font-weight: 400; }
+.policy-news { margin-top: 10px; }
+.policy-news .notice { margin: 6px 0 14px; }
+.state-link { display: inline-block; margin-top: 4px; font-weight: 600; }

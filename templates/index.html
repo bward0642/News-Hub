@@ -21,13 +21,6 @@
 </section>
 {% endif %}
 
-{% if pinned %}
-<section class="pinned" aria-labelledby="pinned-h">
-  <h2 id="pinned-h">📌 Pinned by staff</h2>
-  {% for it in pinned %}{{ card(it, topic_by_id, true) }}{% endfor %}
-</section>
-{% endif %}
-
 {{ filters(topics, "Search this week…") }}
 
 {% for s in sections %}
@@ -74,15 +67,6 @@
       </div>
     {% endfor %}
     <p><a href="resources.html#tips">All tips →</a></p>
-  </section>
-  {% endif %}
-
-  {% if tip_form %}
-  <section class="panel">
-    <h2>✍️ Share your expertise</h2>
-    <p class="small">Add a note to any story with <strong>＋ Add staff note</strong>, or send the team a teaching tip.</p>
-    <p><a class="button" href="{{ tip_form }}" target="_blank" rel="noopener">＋ Suggest a teaching tip</a></p>
-    {% if approval_note %}<p class="muted small">{{ approval_note }}</p>{% endif %}
   </section>
   {% endif %}
 

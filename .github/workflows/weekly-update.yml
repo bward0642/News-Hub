@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # "Run workflow" button: update on demand (use after editing config)
 
 permissions:
-  contents: write   # save this week's news back to data/items.json
+  contents: write   # save this week's news, market and policy data back to data/
   pages: write
   id-token: write
 
@@ -30,6 +30,12 @@ jobs:
       - name: Fetch this week's news
         run: python scripts/fetch_news.py
 
+      - name: Fetch market data
+        run: python scripts/fetch_markets.py
+
+      - name: Fetch policy updates
+        run: python scripts/fetch_policy.py
+
       - name: Save news history
         run: |
           git config user.name "news-hub-bot"
@@ -38,7 +44,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to save."
           else
-            git commit -m "Weekly news update $(date -u +%Y-%m-%d)"
+            git commit -m "Weekly update $(date -u +%Y-%m-%d)"
             git pull --rebase origin main
             git push
           fi

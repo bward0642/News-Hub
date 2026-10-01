@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T18:09:07+00:00",
+ "fetched_at": "2026-10-01T15:27:14+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -56,6 +56,44 @@
   "WY": "Wyoming"
  },
  "items": [
+  {
+   "id": "9a370eedbc7c",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Rule on Impersonation of Government and Businesses",
+   "summary": "The Federal Trade Commission (\"FTC\" or \"Commission\") proposes to commence a rulemaking proceeding to prevent certain unfair or deceptive acts or practices by search engine, social media, and other digital marketplace platforms that further government and business impersonation scams to defraud consumers. The Commission is soliciting written comment, data, and arguments concerning the need for such rulemaking. Comments due 2026-11-30.",
+   "status": "in_progress",
+   "status_label": "Proposed rule · comments due 2026-11-30",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-10-01",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20143/rule-on-impersonation-of-government-and-businesses",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "ac8410bb5a6b",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "NM",
+   "jurisdiction_name": "New Mexico",
+   "number": "",
+   "title": "Lawmakers promised student loan relief for New Mexico doctors. A tiny fraction got it.",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-01",
+   "source_name": "Santa Fe New Mexican",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPREhGdVRzMjNXZFdYSFVMb2lRa2hmZDU5U0tLYnFoOTdBV2o4SUVuai11RXRYczJaZnJmaHFyeTZvMTRRRGFQQjVyS2xtTVFXOHI3QW9qWEM3UUVGNTFjQnhMaEJtRUtaMTFoN3FfSGRBWkFmUkNuaXYzaXRFOXFGV2tPRzU5UWM1WDQwRURneXNvdy1kY0xEODJSQkF4enA5XzhRLTlreG1GbE9XdzFWSWROcExuZGd0bHpGOERFRFI2eGRoQldoUV9sT0tBQ2Jabi1Ib0ZyanpSNnVBTjV2SUtmTllSSGIxcndtR3FpU2xoRUFwU2o4bndYVkFZTzFTVkhYR2lCQ0pDNGJwUlVHNEFB?oc=5",
+   "topics": [
+    "student-loans"
+   ]
+  },
   {
    "id": "5f3e8d7d1647",
    "kind": "news",
@@ -161,7 +199,7 @@
    "title": "Telemarketing Sales Rule Fees",
    "summary": "The Federal Trade Commission (\"Commission\") is amending its Telemarketing Sales Rule (\"TSR\") by updating the fees charged to entities accessing the National Do Not Call Registry (\"Registry\") as required by the Do-Not-Call Registry Fee Extension Act of 2007. Effective 2026-10-01.",
    "status": "enacted",
-   "status_label": "Final rule · takes effect 2026-10-01",
+   "status_label": "Final rule",
    "last_action": "Published as a final rule",
    "last_action_date": "2026-08-26",
    "source_name": "Federal Trade Commission",

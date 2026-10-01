@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-30T18:09:05+00:00",
+ "fetched_at": "2026-10-01T15:26:13+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -140,7 +140,8 @@
     ]
    ],
    "spark_start_label": "Jun 29, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/SP500"
+   "source_url": "https://fred.stlouisfed.org/series/SP500",
+   "stale": true
   },
   {
    "id": "DJIA",
@@ -281,7 +282,8 @@
     ]
    ],
    "spark_start_label": "Jun 29, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/DJIA"
+   "source_url": "https://fred.stlouisfed.org/series/DJIA",
+   "stale": true
   },
   {
    "id": "NASDAQCOM",
@@ -422,7 +424,8 @@
     ]
    ],
    "spark_start_label": "Jun 29, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/NASDAQCOM"
+   "source_url": "https://fred.stlouisfed.org/series/NASDAQCOM",
+   "stale": true
   },
   {
    "id": "DGS10",
@@ -563,7 +566,8 @@
     ]
    ],
    "spark_start_label": "Jun 29, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/DGS10"
+   "source_url": "https://fred.stlouisfed.org/series/DGS10",
+   "stale": true
   },
   {
    "id": "DFF",
@@ -704,7 +708,8 @@
     ]
    ],
    "spark_start_label": "Jun 28, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/DFF"
+   "source_url": "https://fred.stlouisfed.org/series/DFF",
+   "stale": true
   },
   {
    "id": "MORTGAGE30US",
@@ -781,7 +786,8 @@
     ]
    ],
    "spark_start_label": "Week of Jun 25, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+   "source_url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+   "stale": true
   },
   {
    "id": "GASREGW",
@@ -858,7 +864,8 @@
     ]
    ],
    "spark_start_label": "Week of Jun 29, 2026",
-   "source_url": "https://fred.stlouisfed.org/series/GASREGW"
+   "source_url": "https://fred.stlouisfed.org/series/GASREGW",
+   "stale": true
   },
   {
    "id": "CPIAUCSL",
@@ -927,7 +934,8 @@
     ]
    ],
    "spark_start_label": "August 2025",
-   "source_url": "https://fred.stlouisfed.org/series/CPIAUCSL"
+   "source_url": "https://fred.stlouisfed.org/series/CPIAUCSL",
+   "stale": true
   },
   {
    "id": "UNRATE",
@@ -996,7 +1004,8 @@
     ]
    ],
    "spark_start_label": "August 2025",
-   "source_url": "https://fred.stlouisfed.org/series/UNRATE"
+   "source_url": "https://fred.stlouisfed.org/series/UNRATE",
+   "stale": true
   },
   {
    "id": "TERMCBCCALLNS",
@@ -1049,20 +1058,11 @@
     ]
    ],
    "spark_start_label": "August 2024",
-   "source_url": "https://fred.stlouisfed.org/series/TERMCBCCALLNS"
+   "source_url": "https://fred.stlouisfed.org/series/TERMCBCCALLNS",
+   "stale": true
   }
  ],
- "brief": [
-  "The S&P 500 fell 1.2% over the week, to 7,671.",
-  "The Dow fell 1.0% over the week, to 51,350.",
-  "The Nasdaq fell 1.6% over the week, to 26,798.",
-  "The 10-year Treasury yield rose 0.28 points over the week, to 5.24%.",
-  "The federal funds rate was unchanged at 3.88%.",
-  "The average 30-year fixed mortgage rate rose 0.08 points from the previous week, to 7.03%.",
-  "The average price of regular gas fell 1 cent from the previous week, to $4.46.",
-  "Year-over-year inflation (CPI) rose 0.1 points from the previous month, to 3.4%.",
-  "The unemployment rate was unchanged at 4.1%."
- ],
+ "brief": [],
  "releases": [
   {
    "title": "Personal Income and Outlays, August 2026",
@@ -1087,25 +1087,25 @@
    "source_name": "Bureau of Economic Analysis",
    "official": true,
    "published": "2026-09-24"
-  },
-  {
-   "title": "CPI for all items increases 0.4% in August; gasoline rises",
-   "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
-   "summary": "In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent, seasonally adjusted (SA), and rose 3.4 percent over the last 12 months, not seasonally adjusted (NSA). The index for all items less food and energy rose 0.3 percent in August (SA), up 2.4 percent over the year (NSA).",
-   "source_name": "Bureau of Labor Statistics — Consumer prices",
-   "official": true,
-   "published": "2026-09-11"
-  },
-  {
-   "title": "Payroll employment increases by 162,000 in August; unemployment rate unchanged at 4.1%",
-   "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
-   "summary": "Total nonfarm payroll employment increased by 162,000 in August, and the unemployment rate was unchanged at 4.1 percent. Employment increased in food services and drinking places and in local government education. The information industry lost jobs.",
-   "source_name": "Bureau of Labor Statistics — Jobs report",
-   "official": true,
-   "published": "2026-09-04"
   }
  ],
  "fed": [
+  {
+   "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
+   "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
+   "summary": "Speech At \"Navigating Trust, AI and Storytelling in a World of Data,\" FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Cook, The Dual Mandate in Rural America",
+   "url": "https://www.federalreserve.gov/newsevents/speech/cook20260930a.htm",
+   "summary": "Speech At the 2026 Investing in Rural America Conference, Federal Reserve Bank of Richmond, Asheville, North Carolina",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-09-30"
+  },
   {
    "title": "Waller, Payments in the Age of AI Agents",
    "url": "https://www.federalreserve.gov/newsevents/speech/waller20260928a.htm",
@@ -1131,22 +1131,6 @@
    "published": "2026-09-29"
   },
   {
-   "title": "Cook, An Update on AI and the Economy",
-   "url": "https://www.federalreserve.gov/newsevents/speech/cook20260928a.htm",
-   "summary": "Speech At the Oakland Tech Week Opening Keynote, cohosted by the Kapor Center, Oakland, California",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "Barr, A Long-Term View on the Costs of Shelter",
-   "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
-   "summary": "Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-09-23"
-  },
-  {
    "title": "Federal Reserve issues FOMC statement",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
    "summary": "Federal Reserve issues FOMC statement",
@@ -1156,6 +1140,70 @@
   }
  ],
  "commentary": [
+  {
+   "title": "Is 'Buy and Hold' Really the Best Investing Strategy? What You Lose From Missing the Market's 30 Best (and Worst) Days",
+   "url": "https://www.kiplinger.com/investing/is-buy-and-hold-really-the-best-investing-strategy",
+   "summary": "Pulling out of the market to avoid lows means you'll miss out on the next highs. But there's another side to the story — and it might alter your perspective.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "What to Expect From the September Jobs Report",
+   "url": "https://www.kiplinger.com/investing/economy/what-to-expect-from-the-september-jobs-report",
+   "summary": "The September jobs report will be released Friday morning. Here's what we expect the data to show.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "AI Stocks: Why AI Is a Supply Chain, Not an Industry",
+   "url": "https://www.kiplinger.com/investing/why-ai-is-a-supply-chain-rather-than-an-industry",
+   "summary": "AI is an interconnected supply chain, so owning different \"AI stocks\" often just means you're placing the same bet on the spending of a few big tech players.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Rising bond yields rattle markets worldwide and offset hopes for AI stocks",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYk9UOHVzWW1JMmt1TkdhcFJlaEkyRUZ2bFFzQnY5VlEwa25wX2x3MjladFRXam5xRlhzNHk5bzRtUU1MSnVXUjNlVGxkVXV0Yi00OVYzeDBrcXhUUWczMVNqM0lBZWJUV2J5bmt2UHZZMEtEcFh4NmNsOHNuOWZhRmIwYnlnZ2Jjc1VpWEljSnhTcXU0ZU9DXzFna3pPMTgzVGYxYlUtQ0tYcWtQTk9VcEM4TFNxS2dEdXJXdzcxNmxraHVQV1Vmc0xUMzl2YWR0UlU0a3BpWkladzZ2YktLRWRVUTU5VDhNOUVqalIwekpnOXdHTWFHYm9B?oc=5",
+   "summary": "",
+   "source_name": "couriernews.com",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Rising bond yields rattle markets worldwide and overshadow hopes for AI stocks",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXl2NUlPUzdUR1IyT0tXQ0hVU0NnZUNjaEd3MldPSXh6NG9pVldhZElDejFCQmlzbXZUYmJzeFM3bkNyeVN5eXhrNUV0QmVMZmFWSTlIMzViMXNVRmZfY3A3c2VuNEh2ZUh5X3pNSVVHRVpmWmlydGJ0Q3lpNkhxaXVJWDY2aVhvejhJTzR6QVhXdno0cmZMUWZ0T2REa2lsV2YzOGJ1c0k5eTJCVnctZGU4SlE2bkN2dEV0VVNXTlk2UWZLbTNOb2ZteEl5YVRiX0JYZ1djcHhockxfZ1BrajJqQlhvM045cTE2ZElWenhQa1hDVjlJNGFXdDJhVW8?oc=5",
+   "summary": "",
+   "source_name": "couriernews.com",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Tech stocks support Wall Street as pressure from rising bond yields rattles markets worldwide",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUl94UVR5NlRZT2hMUWFXdjVBbXdMTVFpUXpWMktkQVVTZ2p2bzhBelRkQVJEb2RkQlRQUDhlZjR6UWdYTlFIbEpjM2Q2UGtnODZoZkRfQWxKWU1tWG02WW9fanJXWFE5UUhyRFliS3A2R1VmM0s0MFRMb3hlMzJicEhZTE9nVS0xeXdHYklkekdQb25RNWtnUGo2bkdfVjUxbGI4TnVxZWtTV3RfOTd2dzU0VnNTVUVybDZZUkpoQ2NPS3Q3eW5CVFgzaG04SlVxcm9tTm9RUk5OczZsVXhqYXc5Y1BTTUxzUldhcHZSM09xMGxyc1JpdmEzRnF0cEd1aXU3Nnh2bndOTDUtb1VEbjY0WQ?oc=5",
+   "summary": "",
+   "source_name": "couriernews.com",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Most US stocks fall after the bond market cranks the pressure higher",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd2tUaUYwNmM0UWJaRkdNUjZpa2NBNk81a04yTFhVOTBBcWh0dUk4MFhLMlIwcDhncHFSTzBDNExGcnBpRWtRWDEzbUxheXVTVzk2QmlsSjZlZW4zR2dyUWQ3NHZBQ2pTREozRmhBQks5UG5IeDIwZHpoeE5hY281bHJES2ZEeVU4QXMtSUg3clQxeVNHYllTbE1YNWpZQmNpMW1zcHV6M1VpT0JGa1pnRTRVVmxBanpHWllwcW5BWjJyc0JrUDVQQ1FLbG9icWtMdmZxTzNNcFVZWFZTQThxZ3lYUFFldlc1aTF1aENsbE5NZw?oc=5",
+   "summary": "",
+   "source_name": "couriernews.com",
+   "official": false,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "S&P 500 Outperforms in Historically Weak Month: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/s-and-p-500-nasdaq-outperform-in-historically-tough-september-stock-market-today",
+   "summary": "Despite sticky inflation and rate-hike concerns, the S&P 500 and Nasdaq showed resilience in September — and seasonality could keep wind at the market's back.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-09-30"
+  },
   {
    "title": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
    "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
@@ -1173,14 +1221,6 @@
    "published": "2026-09-29"
   },
   {
-   "title": "Carnival Q3 Earnings Call Highlights",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlpIREY3ZEdNbm5wUFlvcXpicFNmT2ZBMERBSFdvS21HUGJzTWZFbWsya2JTaVlNQnJjZGx2Y0JtTndQM3UzYTdmQy1jWUIzaDFOa0k3NE1LWFUyWGJCSTRwZmpCb1JvQTVvS0dpWkZ2MTdVeEZod3R3SldwZnlBN2NwOE5vdldDNENVLTkzN3RENWh1QkJISDV6cHNndw?oc=5",
-   "summary": "",
-   "source_name": "tradingview.com",
-   "official": false,
-   "published": "2026-09-29"
-  },
-  {
    "title": "Stocks slip on Wall Street as rising Treasury yields pressure the market",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQm1EdnVrRlBvVGpNaW5oYTVqOGdTOHV6c1pLTW5RNHNEMVBQTHBOMVBoNUpCeU9DaGVzYV9DMWU0dC1Gd0pwUDV2Sk0weU1Nc3lieHg3dUlxRnRhaHJmRkVveGRIM0dmZ08yUmV6UElIdWpGWU5kX2MwVmVtNlJscFNmUUZFd29aeDRJMXIxZjN2ODV4Q2JqMzI4LUItSlhrZ2Q2RkhuckxlbVNodllYQzJfam1ZUjVSbU9fN182S1RJWUJjbUxrVWpUNTlueUZNOXZZUm42VFNOR3ZZZWFxTG9hd0VTRzRVcVlvT2U4TjlqVmhzaU8yN2RxQ3BZLVpsUGVySw?oc=5",
    "summary": "",
@@ -1189,69 +1229,26 @@
    "published": "2026-09-29"
   },
   {
-   "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-   "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-   "summary": "Almost half of the stocks in the S&P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
-   "source_name": "CNBC — Investing",
-   "official": false,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "Stocks Fall on Fog of War and Fear of AI: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/stocks-fall-on-fog-of-war-and-fear-of-ai-stock-market-today",
-   "summary": "As the war in the Middle East between the U.S. and Iran continues to drag on stocks and sentiment, a rogue OpenAI model attacks the United Nations.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "The AI Bubble May Burst: 5 Ways to Protect Your Portfolio",
-   "url": "https://www.kiplinger.com/investing/tech-stocks/the-ai-bubble-may-burst-ways-retirees-can-protect-their-portfolios",
-   "summary": "Tech giants are borrowing heavily to fund the AI boom. Here is what older investors must do if those debts trigger a market crash.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "Why a 'Fee-Based' DST Investing Sales Pitch Is a Red Flag",
-   "url": "https://www.kiplinger.com/real-estate/real-estate-investing/why-a-fee-based-delaware-statutory-trust-sales-pitch-is-a-red-flag",
-   "summary": "An AUM fee on a Delaware statutory trust can cost investors far more than a one-time commission in the long run. So why are fiduciary advisers proposing it?",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "Vail Resorts Q4 Earnings Call Highlights",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWFdHZVBvempnV1J0MDZRUzNOcFRScmJNRFpEWUozbGJDeURneV9XLWhfeF9vbzdLRVpqYS1MZ2pjYmY3cHpBOHdIb2lZLTI1bkEwaE91WXdUVVlCUEZVU0NWOWwzNHRhRHVodHZNN0dOUVBwT0JIa1FDWGI3RDJXQ19wRk9tQWhIXzJnRG1seHdiNzhiYklITHBXdmVWS3BOWVZv?oc=5",
+   "title": "Finance Minister Outlines Strategy to Turn Economic Reforms into High-Impact Investments",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlV3UDlZdGdZMmJKUGRUbmstcnJ2c0lXSHRWLWxZV2o3V0pJVS03UU92MVp0T1ZpYlc5QXlqMnk5VmtyTXp6QnR4Y052UG5Nc0s2ZV9BT0pjQnRWMm1VNXBzMEdkLXAtV1ZMOEhyQXRuYVFFaXRyN0VudDNac3dmRm43VXB2ME14b1F4UVJoaGg4eHdpSklJRC1vX2psYndmbERCZVU1dWQ?oc=5",
    "summary": "",
-   "source_name": "tradingview.com",
+   "source_name": "Sada Elbalad English",
    "official": false,
-   "published": "2026-09-28"
-  },
-  {
-   "title": "Week In Review: Expect More Up And Down Before This Market Reveals Its Hand (SP500)",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVk1aRTRxWHFiajNBS1k3cEtHelZDTUJ1NVYxSzRlM2N3OWtGbGx4Tks0a2VacGxMeklUUmI5OGpDT1ktWUNZcERRa01DUG9VR1NJUUMwLWw3MnVVbXZia2VHYnB1TmEtNnpyN0l1TE1IRHFIUlFyaXdDRnhiNHZLWTgwZDRhcGtTUFpiLUxOY0YzMTdDMEtZVEl4alk1MzRFWExmR01MeDVSUm1uNHBUQ002YktRaUlXQVRjVWlWdTBXaTNjTmNEV1prYXlBbFhx?oc=5",
-   "summary": "",
-   "source_name": "Seeking Alpha",
-   "official": false,
-   "published": "2026-09-27"
-  },
-  {
-   "title": "Why Retirees Hoard Savings and How to Stop Underspending",
-   "url": "https://www.kiplinger.com/retirement/retirement-planning/how-retirees-can-stop-underspending",
-   "summary": "A charitable remainder unitrust (CRUT) can create a lifetime income stream and alleviate worry for retirees who underspend out of fear their money won't last.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-09-26"
-  },
-  {
-   "title": "Why the bond market is freaking out, and what it means for your money",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUpKT3VWbnk3VzVsOU9WMERRZU5HVDNsZkh6TUtnTEFSSS1XWkxPSUViZUFWSm0zX0RpX2hKdmV5aWQ3ZVJrTjlBZE40bkNySDdpSXdSSzR5NjZORW1ta2RILVdualNOOUJneUtSYjdIR2Y2S1NlVktSdG1VZ3FJLU9qemdHYkRfMU5tQll4VUxQQnE1RVYyeA?oc=5",
-   "summary": "",
-   "source_name": "WWAYTV3",
-   "official": false,
-   "published": "2026-09-26"
+   "published": "2026-09-29"
   }
  ],
- "failures": []
+ "failures": [
+  "S&P 500: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Dow Jones Industrial Average: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Nasdaq Composite: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "10-year Treasury yield: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Federal funds rate: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "30-year fixed mortgage rate: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Average gas price (regular): HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Inflation (CPI, year over year): HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Unemployment rate: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Average credit card APR: HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)",
+  "Bureau of Labor Statistics — Jobs report: 403 Client Error: Forbidden for url: https://www.bls.gov/feed/empsit.rss",
+  "Bureau of Labor Statistics — Consumer prices: 403 Client Error: Forbidden for url: https://www.bls.gov/feed/cpi.rss"
+ ]
 }

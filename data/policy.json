@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T15:27:14+00:00",
+ "fetched_at": "2026-10-05T10:17:40+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -57,20 +57,58 @@
  },
  "items": [
   {
-   "id": "9a370eedbc7c",
+   "id": "ec2212559331",
    "kind": "official",
    "origin": "federal_register",
    "jurisdiction": "US",
    "jurisdiction_name": "Federal",
    "number": "",
-   "title": "Rule on Impersonation of Government and Businesses",
-   "summary": "The Federal Trade Commission (\"FTC\" or \"Commission\") proposes to commence a rulemaking proceeding to prevent certain unfair or deceptive acts or practices by search engine, social media, and other digital marketplace platforms that further government and business impersonation scams to defraud consumers. The Commission is soliciting written comment, data, and arguments concerning the need for such rulemaking. Comments due 2026-11-30.",
+   "title": "Federal Scholarship Tax Credit",
+   "summary": "This document contains proposed regulations regarding the nonrefundable Federal tax credit for qualified contributions to scholarship granting organizations to fund qualified elementary and secondary school education scholarships. The proposed regulations would affect taxpayers who make such qualified contributions, States that elect to participate by certifying organizations as scholarship granting organizations, and the organizations that have been certified as scholarship granting… Comments due 2026-12-01.",
    "status": "in_progress",
-   "status_label": "Proposed rule · comments due 2026-11-30",
+   "status_label": "Proposed rule · comments due 2026-12-01",
    "last_action": "Published as a proposed rule",
-   "last_action_date": "2026-10-01",
-   "source_name": "Federal Trade Commission",
-   "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20143/rule-on-impersonation-of-government-and-businesses",
+   "last_action_date": "2026-10-02",
+   "source_name": "Treasury Department, Internal Revenue Service",
+   "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "cbbb87c01f14",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Federal Scholarship Tax Credit",
+   "summary": "This document contains temporary regulations that address the new nonrefundable Federal tax credit for qualified contributions to scholarship granting organizations made in 2027 and later taxable years to fund qualified elementary and secondary education scholarships. The temporary regulations implement certain requirements and procedures for States that make elections to participate in this Federal tax credit and organizations that have been certified as scholarship granting organizations by… Effective 2026-12-01.",
+   "status": "enacted",
+   "status_label": "Final rule · takes effect 2026-12-01",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-10-02",
+   "source_name": "Treasury Department, Internal Revenue Service",
+   "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "a6a68049180c",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "H.R. 10661",
+   "title": "Beyond the Box for Higher Education Act of 2026",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-10-02",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119hr10661ih",
    "topics": [
     "consumer-credit"
    ]
@@ -92,6 +130,25 @@
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPREhGdVRzMjNXZFdYSFVMb2lRa2hmZDU5U0tLYnFoOTdBV2o4SUVuai11RXRYczJaZnJmaHFyeTZvMTRRRGFQQjVyS2xtTVFXOHI3QW9qWEM3UUVGNTFjQnhMaEJtRUtaMTFoN3FfSGRBWkFmUkNuaXYzaXRFOXFGV2tPRzU5UWM1WDQwRURneXNvdy1kY0xEODJSQkF4enA5XzhRLTlreG1GbE9XdzFWSWROcExuZGd0bHpGOERFRFI2eGRoQldoUV9sT0tBQ2Jabi1Ib0ZyanpSNnVBTjV2SUtmTllSSGIxcndtR3FpU2xoRUFwU2o4bndYVkFZTzFTVkhYR2lCQ0pDNGJwUlVHNEFB?oc=5",
    "topics": [
     "student-loans"
+   ]
+  },
+  {
+   "id": "9a370eedbc7c",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Rule on Impersonation of Government and Businesses",
+   "summary": "The Federal Trade Commission (\"FTC\" or \"Commission\") proposes to commence a rulemaking proceeding to prevent certain unfair or deceptive acts or practices by search engine, social media, and other digital marketplace platforms that further government and business impersonation scams to defraud consumers. The Commission is soliciting written comment, data, and arguments concerning the need for such rulemaking. Comments due 2026-11-30.",
+   "status": "in_progress",
+   "status_label": "Proposed rule · comments due 2026-11-30",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-10-01",
+   "source_name": "Federal Trade Commission",
+   "url": "https://www.federalregister.gov/documents/2026/10/01/2026-20143/rule-on-impersonation-of-government-and-businesses",
+   "topics": [
+    "consumer-credit"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-01T15:26:13+00:00",
+ "fetched_at": "2026-10-05T10:16:38+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1079,17 +1079,25 @@
    "source_name": "Bureau of Economic Analysis",
    "official": true,
    "published": "2026-09-30"
-  },
-  {
-   "title": "U.S. International Transactions and Investment Position, 2nd Quarter 2026",
-   "url": "https://bea.gov/news/2026/us-international-transactions-and-investment-position-2nd-quarter-2026",
-   "summary": "The U.S. current-account deficit resulting from international economic transactions widened by $33.4 billion, or 15.7 percent, to $246.0 billion in the second quarter of 2026, according to statistics released today by the U.S. Bureau of Economic Analysis. The revised first-quarter deficit was $212.6 billion. The second-quarter deficit was 3.0 percent of current-dollar gross domestic product, up…",
-   "source_name": "Bureau of Economic Analysis",
-   "official": true,
-   "published": "2026-09-24"
   }
  ],
  "fed": [
+  {
+   "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
+   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
+   "summary": "Speech At the Atlantic Council 2026 CEO & Senior Management Summit, Washington, D.C.",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-10-01"
+  },
+  {
+   "title": "Jefferson, The U.S. Economy and Monetary Policy",
+   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
+   "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-10-01"
+  },
   {
    "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
@@ -1115,22 +1123,6 @@
    "published": "2026-09-29"
   },
   {
-   "title": "Barr, Economic Conditions and Monetary Policy",
-   "url": "https://www.federalreserve.gov/newsevents/speech/barr20260929a.htm",
-   "summary": "Speech At the Detroit Economic Club, Detroit, Michigan",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-09-29"
-  },
-  {
-   "title": "Bowman, Opening Remarks",
-   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260929a.htm",
-   "summary": "Speech At the Community Bank Cyber Workshop, Denver, Colorado (via pre-recorded video)",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-09-29"
-  },
-  {
    "title": "Federal Reserve issues FOMC statement",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
    "summary": "Federal Reserve issues FOMC statement",
@@ -1141,100 +1133,100 @@
  ],
  "commentary": [
   {
-   "title": "Is 'Buy and Hold' Really the Best Investing Strategy? What You Lose From Missing the Market's 30 Best (and Worst) Days",
-   "url": "https://www.kiplinger.com/investing/is-buy-and-hold-really-the-best-investing-strategy",
-   "summary": "Pulling out of the market to avoid lows means you'll miss out on the next highs. But there's another side to the story — and it might alter your perspective.",
-   "source_name": "Kiplinger — Investing",
+   "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+   "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+   "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+   "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-01"
+   "published": "2026-10-05"
   },
   {
-   "title": "What to Expect From the September Jobs Report",
-   "url": "https://www.kiplinger.com/investing/economy/what-to-expect-from-the-september-jobs-report",
-   "summary": "The September jobs report will be released Friday morning. Here's what we expect the data to show.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "AI Stocks: Why AI Is a Supply Chain, Not an Industry",
-   "url": "https://www.kiplinger.com/investing/why-ai-is-a-supply-chain-rather-than-an-industry",
-   "summary": "AI is an interconnected supply chain, so owning different \"AI stocks\" often just means you're placing the same bet on the spending of a few big tech players.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Rising bond yields rattle markets worldwide and offset hopes for AI stocks",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYk9UOHVzWW1JMmt1TkdhcFJlaEkyRUZ2bFFzQnY5VlEwa25wX2x3MjladFRXam5xRlhzNHk5bzRtUU1MSnVXUjNlVGxkVXV0Yi00OVYzeDBrcXhUUWczMVNqM0lBZWJUV2J5bmt2UHZZMEtEcFh4NmNsOHNuOWZhRmIwYnlnZ2Jjc1VpWEljSnhTcXU0ZU9DXzFna3pPMTgzVGYxYlUtQ0tYcWtQTk9VcEM4TFNxS2dEdXJXdzcxNmxraHVQV1Vmc0xUMzl2YWR0UlU0a3BpWkladzZ2YktLRWRVUTU5VDhNOUVqalIwekpnOXdHTWFHYm9B?oc=5",
-   "summary": "",
-   "source_name": "couriernews.com",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Rising bond yields rattle markets worldwide and overshadow hopes for AI stocks",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTXl2NUlPUzdUR1IyT0tXQ0hVU0NnZUNjaEd3MldPSXh6NG9pVldhZElDejFCQmlzbXZUYmJzeFM3bkNyeVN5eXhrNUV0QmVMZmFWSTlIMzViMXNVRmZfY3A3c2VuNEh2ZUh5X3pNSVVHRVpmWmlydGJ0Q3lpNkhxaXVJWDY2aVhvejhJTzR6QVhXdno0cmZMUWZ0T2REa2lsV2YzOGJ1c0k5eTJCVnctZGU4SlE2bkN2dEV0VVNXTlk2UWZLbTNOb2ZteEl5YVRiX0JYZ1djcHhockxfZ1BrajJqQlhvM045cTE2ZElWenhQa1hDVjlJNGFXdDJhVW8?oc=5",
-   "summary": "",
-   "source_name": "couriernews.com",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Tech stocks support Wall Street as pressure from rising bond yields rattles markets worldwide",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUl94UVR5NlRZT2hMUWFXdjVBbXdMTVFpUXpWMktkQVVTZ2p2bzhBelRkQVJEb2RkQlRQUDhlZjR6UWdYTlFIbEpjM2Q2UGtnODZoZkRfQWxKWU1tWG02WW9fanJXWFE5UUhyRFliS3A2R1VmM0s0MFRMb3hlMzJicEhZTE9nVS0xeXdHYklkekdQb25RNWtnUGo2bkdfVjUxbGI4TnVxZWtTV3RfOTd2dzU0VnNTVUVybDZZUkpoQ2NPS3Q3eW5CVFgzaG04SlVxcm9tTm9RUk5OczZsVXhqYXc5Y1BTTUxzUldhcHZSM09xMGxyc1JpdmEzRnF0cEd1aXU3Nnh2bndOTDUtb1VEbjY0WQ?oc=5",
-   "summary": "",
-   "source_name": "couriernews.com",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Most US stocks fall after the bond market cranks the pressure higher",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd2tUaUYwNmM0UWJaRkdNUjZpa2NBNk81a04yTFhVOTBBcWh0dUk4MFhLMlIwcDhncHFSTzBDNExGcnBpRWtRWDEzbUxheXVTVzk2QmlsSjZlZW4zR2dyUWQ3NHZBQ2pTREozRmhBQks5UG5IeDIwZHpoeE5hY281bHJES2ZEeVU4QXMtSUg3clQxeVNHYllTbE1YNWpZQmNpMW1zcHV6M1VpT0JGa1pnRTRVVmxBanpHWllwcW5BWjJyc0JrUDVQQ1FLbG9icWtMdmZxTzNNcFVZWFZTQThxZ3lYUFFldlc1aTF1aENsbE5NZw?oc=5",
-   "summary": "",
-   "source_name": "couriernews.com",
-   "official": false,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "S&P 500 Outperforms in Historically Weak Month: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/s-and-p-500-nasdaq-outperform-in-historically-tough-september-stock-market-today",
-   "summary": "Despite sticky inflation and rate-hike concerns, the S&P 500 and Nasdaq showed resilience in September — and seasonality could keep wind at the market's back.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-09-30"
-  },
-  {
-   "title": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
-   "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
-   "summary": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm.",
+   "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+   "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+   "summary": "Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-09-29"
+   "published": "2026-10-04"
   },
   {
-   "title": "Stocks Grind Lower Under Interest Rate Pressure: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/stocks-grind-lower-under-interest-rate-pressure-stock-market-today",
-   "summary": "It's been a tough month for the Dow Jones Industrial Average, but the seasonal trend for stocks looks good from a historical perspective.",
+   "title": "Inheriting Investments: Why Stocks Can Wreck Estate Plans",
+   "url": "https://www.kiplinger.com/retirement/estate-planning/stock-portfolio-instructions-in-your-estate-plan",
+   "summary": "Without explicit instructions for stocks in your estate plan, your heirs may end up selling everything for simplicity or because they're mired in conflict.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-09-29"
+   "published": "2026-10-04"
   },
   {
-   "title": "Stocks slip on Wall Street as rising Treasury yields pressure the market",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQm1EdnVrRlBvVGpNaW5oYTVqOGdTOHV6c1pLTW5RNHNEMVBQTHBOMVBoNUpCeU9DaGVzYV9DMWU0dC1Gd0pwUDV2Sk0weU1Nc3lieHg3dUlxRnRhaHJmRkVveGRIM0dmZ08yUmV6UElIdWpGWU5kX2MwVmVtNlJscFNmUUZFd29aeDRJMXIxZjN2ODV4Q2JqMzI4LUItSlhrZ2Q2RkhuckxlbVNodllYQzJfam1ZUjVSbU9fN182S1RJWUJjbUxrVWpUNTlueUZNOXZZUm42VFNOR3ZZZWFxTG9hd0VTRzRVcVlvT2U4TjlqVmhzaU8yN2RxQ3BZLVpsUGVySw?oc=5",
+   "title": "Week In Review: I'm Favoring One Count For The Market Now (SP500)",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjB2RVlzSU9faVpkbnlJeGltLXhOSFZrbXRCdXVLNTZMaHdZaXFxOV9xdzB3Mk8zaXVFWkE4aG1YQzc3OGJmamVOVDVBaFRCYnFoZ1JWUENVcFBoN2Z6UDV5ODJ3OXdyS0ZwQVFTcWtCTGk2LXQ2LWx0WE42czVWOWozbDZOcUtRb1NUcTZQY1VJQW5jbGlBTVdxSlVWZDJLQ1AxbE11Q2F3V3RwTTNqUDFuTnd3M2tJ?oc=5",
    "summary": "",
-   "source_name": "couriernews.com",
+   "source_name": "Seeking Alpha",
    "official": false,
-   "published": "2026-09-29"
+   "published": "2026-10-04"
   },
   {
-   "title": "Finance Minister Outlines Strategy to Turn Economic Reforms into High-Impact Investments",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlV3UDlZdGdZMmJKUGRUbmstcnJ2c0lXSHRWLWxZV2o3V0pJVS03UU92MVp0T1ZpYlc5QXlqMnk5VmtyTXp6QnR4Y052UG5Nc0s2ZV9BT0pjQnRWMm1VNXBzMEdkLXAtV1ZMOEhyQXRuYVFFaXRyN0VudDNac3dmRm43VXB2ME14b1F4UVJoaGg4eHdpSklJRC1vX2psYndmbERCZVU1dWQ?oc=5",
+   "title": "Eli Lilly Just Announced Something Big. Here’s What It Means for Investors.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOHN3RjBQVEg3OEwyelFZY2tqMm1DQm9kYzdycm0zNGdZZGJNNWZXUzBoMUxiRjN1MV9rcFJ2dTZZQVY0N2pnSjlRX084NDBLb3BpWEtJR0RIYi11VzNUMFVNREJiQ1F5YVRRQkViS25SN2JuazZ6QnRRdjN1TXVvT2pTVEVkaW43d3NwNXlHUHprRjNTRUUzU2xJSjh5M09SOWpfQ1ViZFVrQl9iWDZYMmFlSm94b0xtSWN6V2duei1EOUJRVG1jUjJrY2thOVVOdnRBbjBSdUo4cUotSlhVeVhOc3pwSzJTcFRULVFjRWc?oc=5",
    "summary": "",
-   "source_name": "Sada Elbalad English",
+   "source_name": "The Globe and Mail",
    "official": false,
-   "published": "2026-09-29"
+   "published": "2026-10-04"
+  },
+  {
+   "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+   "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+   "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions.",
+   "source_name": "CNBC — Investing",
+   "official": false,
+   "published": "2026-10-03"
+  },
+  {
+   "title": "How Playing Dead Can Maximize Your Investment Returns (Seriously)",
+   "url": "https://www.kiplinger.com/investing/wealth-management/how-playing-dead-can-maximize-investment-returns",
+   "summary": "Don't ignore the markets entirely, but don't let your emotions control decisions based on headlines and volatility. Here's what to do instead.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-03"
+  },
+  {
+   "title": "5 Retirement Savings Strategies Beyond Your 401(k) Match",
+   "url": "https://www.kiplinger.com/retirement/retirement-planning/ways-to-supercharge-retirement-savings-while-still-working",
+   "summary": "From HSAs to backdoor Roths and even taxable brokerage accounts, there are plenty of ways to boost retirement savings once you've hit your full 401(k) match.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-03"
+  },
+  {
+   "title": "Men are losing ground in the labor market. Here's why",
+   "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+   "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-02"
+  },
+  {
+   "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+   "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+   "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-02"
+  },
+  {
+   "title": "Nasdaq Adds 319 Points as Rate-Hike Odds Ebb: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-319-points-as-rate-hike-odds-ebb-stock-market-today",
+   "summary": "For now, it looks like there will be no rate hike in October, though the Fed's decision remains subject to the flow of incoming economic data.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-02"
+  },
+  {
+   "title": "Human Capital: The Invisible Risk in Your Investment Portfolio",
+   "url": "https://www.kiplinger.com/investing/wealth-management/the-human-capital-risk-in-your-clients-portfolio",
+   "summary": "While conventional wisdom views a career as a stable bond, human capital carries unique risks, so a client's job shouldn't always be treated as a safe asset.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-02"
   }
  ],
  "failures": [

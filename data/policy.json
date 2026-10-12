@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-05T10:17:40+00:00",
+ "fetched_at": "2026-10-12T10:18:22+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -57,6 +57,82 @@
  },
  "items": [
   {
+   "id": "feee796b8220",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "FL",
+   "jurisdiction_name": "Florida",
+   "number": "",
+   "title": "Florida’s high school financial literacy requirement takes hold this year",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-08",
+   "source_name": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3JhZmd1cGFBLUJjd3J2X01QdDB3ZzdaWW5TLThiNlZGM3VPWm43bmx2Y1Mtd05wMU55Mk5fUXJ2d3RKdkxXYXRJWVBldTFzV2hDa01ySHV4SUlwUkduRWRrV0xsQTdqYnRCVnhXZ2dkVUZDY1RsRm5IZFljRGFCcEF1b3Q2MXpVdlE?oc=5",
+   "topics": [
+    "teaching"
+   ]
+  },
+  {
+   "id": "2af2d14dda4b",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "MN",
+   "jurisdiction_name": "Minnesota",
+   "number": "",
+   "title": "Minnesota graduation requirement puts personal finance in the classroom",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-07",
+   "source_name": "Northern News Now",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUJYOUJHNGl3MWtCYTQyMDQzOTZ6Zllzek5JNmdMY1VwcWVNRHptNS1RdF94clpOay1tUUg5b1FQaEpEVjN1X3BhVWxMdmI3czVxNUtxUGNDbVZUWS1BUklYM3hBYW1DTUVmY3czQW9oNTU4SmMxT2VIMmZ1elphUGtYYUgwSmd6SlptRGh3NEFpNy1hZEcwVlVWYzhlV2hvcjFpX2dJVE1CWXZr0gHAAUFVX3lxTE96MnlPVnZ4WGNVcU1kd3E5QlVQa1piSHUyTE9ybjdhR2ZrbHBSUEpOMlpJWXNHQjNUWjBjREhLaUczNS1ZRkEybGNRM2NTX1pCSlhpRkpxcl9mZkEweHBlRHR1dmF1SVhpcms5RUwzX2pwWUhjdEVxSDYyY19TXzFiZnNMUjV6Z2J5ZlZJTmxkS2RzZjIwRURRT2I3QXROdEhtNjZaemhVSlU2bExjRE5BMUhxRWNOUVVPSkNYV1ZvVA?oc=5",
+   "topics": [
+    "teaching"
+   ]
+  },
+  {
+   "id": "cb976f6d93a0",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "WI",
+   "jurisdiction_name": "Wisconsin",
+   "number": "",
+   "title": "Governor Evers has officially proclaimed October as FAFSA Filing Month across Wisconsin",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-07",
+   "source_name": "Civic Media",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3FzZkM1NDBMYXkxcWMtcGhtZVZaVGgySTNTR05IX3FMV19uRF9janhUZ0F1U0NiZmtvdndlVDRreVpoS3hvTk9Ia2xZYTdjMmxfNGREemZtenRKMGQzVHVQNFlrM2FPbFZJR0IwaEhKSlRXc1FQXy1QeWFjeU1PdHNZTEZGR1BzdTRUMG1Mb1R2MDZPN2daV01oRGFXRGRoQ19TNXltZ3N3bzNTVEFrX1U5NnltSmRmYW90SUcyZ21YSG8?oc=5",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "a6a68049180c",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "H.R. 10661",
+   "title": "Beyond the Box for Higher Education Act of 2026",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-10-02",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119hr10661ih",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
    "id": "ec2212559331",
    "kind": "official",
    "origin": "federal_register",
@@ -92,25 +168,6 @@
    "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20264/federal-scholarship-tax-credit",
    "topics": [
     "fafsa"
-   ]
-  },
-  {
-   "id": "a6a68049180c",
-   "kind": "official",
-   "origin": "congress",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "H.R. 10661",
-   "title": "Beyond the Box for Higher Education Act of 2026",
-   "summary": "",
-   "status": "in_progress",
-   "status_label": "Introduced",
-   "last_action": "New version published: introduced",
-   "last_action_date": "2026-10-02",
-   "source_name": "Congress (GovInfo)",
-   "url": "https://www.govinfo.gov/app/details/BILLS-119hr10661ih",
-   "topics": [
-    "consumer-credit"
    ]
   },
   {
@@ -1025,25 +1082,6 @@
    "last_action_date": "2025-10-28",
    "source_name": "Consumer Financial Protection Bureau",
    "url": "https://www.federalregister.gov/documents/2025/10/28/2025-19671/fair-credit-reporting-act-preemption-of-state-laws",
-   "topics": [
-    "consumer-credit"
-   ]
-  },
-  {
-   "id": "ecfc96dc5011",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B); Extension of Compliance Dates",
-   "summary": "The Consumer Financial Protection Bureau (CFPB or Bureau) is finalizing its June 18, 2025 interim final rule amending Regulation B to extend the compliance dates set forth in its 2023 small business lending rule, as amended by a 2024 interim final rule, and to make other date-related conforming adjustments. Effective 2025-12-01.",
-   "status": "enacted",
-   "status_label": "Final rule",
-   "last_action": "Published as a final rule",
-   "last_action_date": "2025-10-02",
-   "source_name": "Consumer Financial Protection Bureau",
-   "url": "https://www.federalregister.gov/documents/2025/10/02/2025-19370/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b-extension-of-compliance",
    "topics": [
     "consumer-credit"
    ]

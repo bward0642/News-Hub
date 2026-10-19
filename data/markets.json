@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T10:17:20+00:00",
+ "fetched_at": "2026-10-19T10:29:20+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1063,17 +1063,24 @@
   }
  ],
  "brief": [],
- "releases": [
-  {
-   "title": "U.S. International Trade in Goods and Services, August 2026",
-   "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-august-2026",
-   "summary": "The U.S. goods and services trade deficit increased in August 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit increased from $92.8 billion in July (revised) to $105.6 billion in August, as imports increased more than exports. The goods deficit increased $12.8 billion in August to $136.6 billion. The services surplus increased less than $0.1 billion…",
-   "source_name": "Bureau of Economic Analysis",
-   "official": true,
-   "published": "2026-10-06"
-  }
- ],
+ "releases": [],
  "fed": [
+  {
+   "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
+   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+   "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-10-15"
+  },
+  {
+   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+   "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "source_name": "Federal Reserve — Monetary policy",
+   "official": true,
+   "published": "2026-10-13"
+  },
   {
    "title": "Waller, The Signaling Value of the Summary of Economic Projections",
    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
@@ -1083,142 +1090,110 @@
    "published": "2026-10-08"
   },
   {
-   "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-   "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-   "source_name": "Federal Reserve — Monetary policy",
-   "official": true,
-   "published": "2026-10-07"
-  },
-  {
    "title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
    "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
    "published": "2026-10-06"
-  },
-  {
-   "title": "Bowman, Modernizing Financial Regulation: Initial Observations from eSLR",
-   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261001a.htm",
-   "summary": "Speech At the Atlantic Council 2026 CEO & Senior Management Summit, Washington, D.C.",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Jefferson, The U.S. Economy and Monetary Policy",
-   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261001a.htm",
-   "summary": "Speech At the Darden School of Business, University of Virginia, Charlottesville, Virginia",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-10-01"
-  },
-  {
-   "title": "Waller, The Data Version of Godzilla versus Kong: FRED Takes on AI",
-   "url": "https://www.federalreserve.gov/newsevents/speech/waller20261001a.htm",
-   "summary": "Speech At \"Navigating Trust, AI and Storytelling in a World of Data,\" FRED Con 2026, Federal Reserve Bank of St. Louis, St. Louis, Missouri",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-10-01"
   }
  ],
  "commentary": [
   {
-   "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-   "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-   "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-10-12"
-  },
-  {
-   "title": "Top Wall Street analysts prefer these 3 dividend stocks for stable income",
-   "url": "https://www.cnbc.com/2026/10/11/top-analysts-prefer-these-3-dividend-stocks-for-stable-income.html",
-   "summary": "Given a volatile backdrop, investors seeking stable income can consider enhancing their portfolios by adding dividend-paying stocks.",
+   "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+   "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+   "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-10-11"
+   "published": "2026-10-18"
   },
   {
-   "title": "Rate Hikes Are Back: What It Means for Retirees",
-   "url": "https://www.kiplinger.com/retirement/retirement-planning/what-rate-hike-means-for-retirees",
-   "summary": "Retirees could take advantage of better yields on cash and annuities while paying down variable debt and navigating a tougher housing market.",
+   "title": "Tech Stocks Hold This Baron Emerging Markets Fund Back",
+   "url": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
+   "summary": "The Baron Emerging Markets Fund has generated an impressive return so far this year, but a rough patch for tech shares has capped its performance.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-11"
+   "published": "2026-10-18"
   },
   {
-   "title": "Is Your Financial Plan Sustainable if You Live to 95?",
-   "url": "https://www.kiplinger.com/retirement/retirement-planning/your-retirement-plan-if-you-live-to-age-95",
-   "summary": "Your financial plan may need to support you for 35 years of retirement, not 25. Here's how to redo the maths on withdrawals, inflation and lifetime income.",
+   "title": "A Dividend Strategy Shines for This Top iShares ETF",
+   "url": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
+   "summary": "Big dividend payouts and stock buybacks are a winning combination for the iShares Core Dividend ETF, one of Kiplinger's favorite exchange-traded funds.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-11"
+   "published": "2026-10-18"
   },
   {
-   "title": "STI falls 4.1% as bank stocks slide: Weekly Market Recap",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hUk0waFg4TF9TSmVXb0tkVFB1UlY3ZXRPZjFIZ1V3NFNZYW5tZmRsVTJjS0wwNG8tOU1KcEE3Z01uSG9RQkV4X29INzFiY2lBakZfVFFKa041QkhuR0Fpckh3?oc=5",
+   "title": "US stocks fall as AI sell-off intensifies: Weekly Market Recap",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMTUtkOS1YYXQ3TUJCblFoYXRESFdhSnRqd2w3S2RZNjZmZ3g5SUdRTXRjZ2lGYjRxNXhhT2VZNk9LSGZ2Q0VOSzB0S1JJOHVuaTlHOUVOR3RubmszN010bTR3?oc=5",
    "summary": "",
    "source_name": "Beansprout",
    "official": false,
-   "published": "2026-10-11"
+   "published": "2026-10-18"
   },
   {
-   "title": "Why Tanzania’s Inflation Is No Longer Mainly About Food",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xbHpyZlJJb0tpTFFwekdHOGZCaFZJYmVldGFweDBld19NSzNCXzlXcnByeEo2Vk9qMWo1djVwNkZQV0hxR1l6bzdOZXJ4eW9CTE1fZ0F2Mlh6TjVHbFFxelpFb29zSTR1UVE?oc=5",
-   "summary": "",
-   "source_name": "Uchumi360",
-   "official": false,
-   "published": "2026-10-11"
-  },
-  {
-   "title": "How to Invest for Higher Rates",
-   "url": "https://www.kiplinger.com/investing/how-to-invest-for-higher-rates",
-   "summary": "Interest rates declined from 1981 until 2020, but we may now be in a long-term trend in the opposite direction. Here's how investors can prepare.",
+   "title": "Tax Strategies for 4 Types of Real Estate Investors",
+   "url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
+   "summary": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged real estate strategy.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-10"
+   "published": "2026-10-17"
   },
   {
-   "title": "Mint Money Compass | Higher rates, falling markets: What it means for your money",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0dBMWVlN0tjOFZmNHBVTTJxcjZzZ0RIRUs4Q0g0cXhDTzJLc2FOLVFqNDREU1B3MTQ4UzNiSnZCb1ROWnhGa29MV0xPSEVvSVRwYzB6RGpkeXBKSm80UkVwcV9nb2xYWk14OVByRS1GU040bHFiYXVkeXNGcURfN3EzSUthQ3k1aDFaTjUwZl9rdDZjTFdKODNUU3pvc3lOM01WQ2ZjV2t1MktHcW5vZ1FvUy1KZHctb195LVNmUEsySUdaWnV5eEZxS2M3UdIB0wFBVV95cUxOS2F0QndKZU45N2tNTTlRQzR2MFVqeHNqVlBENjJ6Z2xBUWhIdkxqOExzSU94NHpnMkRScUhZUWNQU2xCZnVSa0Q2N3VpSXNXUjBONWVuNTBtWGhZcmlyR2pSMmd4enp5NkExd25FWEtNZ3B1Z1hmWWdSSW1aNWRFTHVvc2lrblJ0MjlVT3hNZTVZVl9pMXRHVTM3UE1hUTBVZ2VVQ201RldKQ0VTdURRMGxZcExNVzNrS3VNYUswc1lHLTZHQTlxWElmaVMtWjlSS1RZ?oc=5",
-   "summary": "",
-   "source_name": "Livemint",
-   "official": false,
-   "published": "2026-10-10"
-  },
-  {
-   "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-   "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-   "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+   "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+   "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-09"
+   "published": "2026-10-16"
   },
   {
-   "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-   "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-   "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-09"
+   "published": "2026-10-16"
   },
   {
-   "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
-   "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-   "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-   "source_name": "CNBC — Investing",
+   "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+   "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+   "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-09"
+   "published": "2026-10-16"
   },
   {
-   "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-   "url": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-   "summary": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here’s how leverage can amplify stock losses.",
-   "source_name": "CNBC — Investing",
+   "title": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-buckles-on-fear-this-boom-is-an-ai-bubble-stock-market-today",
+   "summary": "Fed Chair Kevin Warsh spoke up for the benefits of an AI boom, but markets are still showing more concern about an AI bubble.",
+   "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-09"
+   "published": "2026-10-16"
+  },
+  {
+   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+   "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-15"
+  },
+  {
+   "title": "Economists: Hot PPI shows Fed's work is not done",
+   "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+   "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-15"
+  },
+  {
+   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-15"
   }
  ],
  "failures": [

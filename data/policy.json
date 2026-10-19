@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-12T10:18:22+00:00",
+ "fetched_at": "2026-10-19T10:30:22+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -57,6 +57,82 @@
  },
  "items": [
   {
+   "id": "e8b9cb895ea3",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "NV",
+   "jurisdiction_name": "Nevada",
+   "number": "",
+   "title": "Report: Tax bills to soar for Nevadans with long-term student debt",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-19",
+   "source_name": "Big News Network.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlgwR2ZSM2hJM3AzdElqZUtjcHJyN1ljMDByWmRXWHJTUTBkY1RmTUhqNmVnTWIxamwwSnVybEMwRlgycEY1SW56Yjc0WEpTbnM0elhTRl9ONzdueUdidDgzVUxOU3RlRnY2RU1BdG5SZkExenY4NnV5WDdsX09xSi01UDdtVlRZa2dnUC00UTcyZ21tNmhHWlNNZjhqNER1Sk9OYm1lYzBKTzlvcXdGcw?oc=5",
+   "topics": [
+    "student-loans"
+   ]
+  },
+  {
+   "id": "15585df92dd5",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Premium Tax Credit",
+   "summary": "This document contains proposed regulations that would amend regulations regarding an individual taxpayer's eligibility for a premium tax credit (PTC), the computation of a PTC, and an individual's tax liability due to excess advance payments of the PTC. The proposed regulations would affect taxpayers who enroll themselves or a family member in individual health insurance coverage through a Health Insurance Exchange and may be allowed a PTC for this coverage. This document also provides a… Comments due 2026-11-30.",
+   "status": "in_progress",
+   "status_label": "Proposed rule · comments due 2026-11-30",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-10-15",
+   "source_name": "Treasury Department, Internal Revenue Service",
+   "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21056/premium-tax-credit",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "2b7ae4ca92a1",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "H.R. 10771",
+   "title": "Emergency Preparedness in Higher Education Act",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-10-14",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119hr10771ih",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "c44c4dac1c22",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "H.R. 10786",
+   "title": "Civic Literacy in Higher Education Act",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-10-14",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119hr10786ih",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
    "id": "feee796b8220",
    "kind": "news",
    "origin": "news",
@@ -73,6 +149,25 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3JhZmd1cGFBLUJjd3J2X01QdDB3ZzdaWW5TLThiNlZGM3VPWm43bmx2Y1Mtd05wMU55Mk5fUXJ2d3RKdkxXYXRJWVBldTFzV2hDa01ySHV4SUlwUkduRWRrV0xsQTdqYnRCVnhXZ2dkVUZDY1RsRm5IZFljRGFCcEF1b3Q2MXpVdlE?oc=5",
    "topics": [
     "teaching"
+   ]
+  },
+  {
+   "id": "272c1f59bd11",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "DC",
+   "jurisdiction_name": "District of Columbia",
+   "number": "",
+   "title": "Washington, D.C. Bans Medical Debt from Credit Reports",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-08",
+   "source_name": "The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVm16Z2hlR1NUNnBGWS04azVKTGpsdHN3N3dMcTJGNW9GUlllLTBKUzVxOGJDUnhFbkZIU0JEUEx0RTZITzJmX3J5czdUeW85VjdaZHFRY1Fad1ZqSlJpTEpZczJaSnhQM2NYNHh4bURyUGljWHZLZnJyLXlRSjlVNnJHbEZKd9IBiwFBVV95cUxOTTRsTGRDTEE4dFRtMmZvamVjZ0J5WTFDSFdWNGZnZlZIbjBDTTlSYlU2Yi1jazdzOWxlUmR4M05ob1EyZzZzVXk0YXdwZVBCQ0VUcEVSSzZpZGlfVmstNU1wQXF5dFV3UG1GTEZsS1piNEtCS2RKbjV6SF9pbVVHd016enJ4aHcwUWlN?oc=5",
+   "topics": [
+    "consumer-credit"
    ]
   },
   {

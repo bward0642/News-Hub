@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T10:30:22+00:00",
+ "fetched_at": "2026-10-26T10:35:17+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -56,6 +56,25 @@
   "WY": "Wyoming"
  },
  "items": [
+  {
+   "id": "9e5d0afdd915",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "NV",
+   "jurisdiction_name": "Nevada",
+   "number": "",
+   "title": "Report: Tax bills to soar for Nevadans with long-term student debt",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-10-20",
+   "source_name": "This Is Reno",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6dnRXdW13OVFxb1I1T1JxZU5MTnRER2VDLXRzdDZXeDVpUjljNkNPaWRBTm9XaWdhUnFvMjNndV9OSlUxYTd4OFEtN0V0NlU1azZha2czXzZVRVc1ZHV0NXliaVFvYXNpcFlGTQ?oc=5",
+   "topics": [
+    "student-loans"
+   ]
+  },
   {
    "id": "e8b9cb895ea3",
    "kind": "news",

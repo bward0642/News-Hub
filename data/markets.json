@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-19T10:29:20+00:00",
+ "fetched_at": "2026-10-26T10:34:14+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1080,120 +1080,104 @@
    "source_name": "Federal Reserve — Monetary policy",
    "official": true,
    "published": "2026-10-13"
-  },
-  {
-   "title": "Waller, The Signaling Value of the Summary of Economic Projections",
-   "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
-   "summary": "Speech At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Istanbul, Türkiye",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-10-08"
-  },
-  {
-   "title": "Bowman, Modernizing the Regulatory and Supervisory Landscape",
-   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
-   "summary": "Speech At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri",
-   "source_name": "Federal Reserve — Speeches",
-   "official": true,
-   "published": "2026-10-06"
   }
  ],
  "commentary": [
   {
-   "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-   "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-   "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-   "source_name": "CNBC — Investing",
-   "official": false,
-   "published": "2026-10-18"
-  },
-  {
-   "title": "Tech Stocks Hold This Baron Emerging Markets Fund Back",
-   "url": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
-   "summary": "The Baron Emerging Markets Fund has generated an impressive return so far this year, but a rough patch for tech shares has capped its performance.",
+   "title": "6 Ways the Drawdown Phase Catches New Retirees By Surprise",
+   "url": "https://www.kiplinger.com/retirement/retirement-planning/drawdown-phase-catches-new-retirees-by-surprise",
+   "summary": "You've aced saving for retirement, but having to spend your money may come as a shock. This is what's likely to trip you up and how to adjust your habits.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-18"
+   "published": "2026-10-25"
   },
   {
-   "title": "A Dividend Strategy Shines for This Top iShares ETF",
-   "url": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
-   "summary": "Big dividend payouts and stock buybacks are a winning combination for the iShares Core Dividend ETF, one of Kiplinger's favorite exchange-traded funds.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-18"
-  },
-  {
-   "title": "US stocks fall as AI sell-off intensifies: Weekly Market Recap",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMTUtkOS1YYXQ3TUJCblFoYXRESFdhSnRqd2w3S2RZNjZmZ3g5SUdRTXRjZ2lGYjRxNXhhT2VZNk9LSGZ2Q0VOSzB0S1JJOHVuaTlHOUVOR3RubmszN010bTR3?oc=5",
+   "title": "US stocks decline amid AI concerns and rising oil prices: Weekly Market Recap",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0walFUNW5rdU1Gc2JTU25LeTZoSC1Rbm9mVjl3TzNsYldOa2NnNTlCX3NxS1BCZnlzdGhscXdiU2JYSFpiZzRnZzljZWMtWkxnMkpxNEJNMThJQnE5bVhEOUln?oc=5",
    "summary": "",
    "source_name": "Beansprout",
    "official": false,
-   "published": "2026-10-18"
+   "published": "2026-10-25"
   },
   {
-   "title": "Tax Strategies for 4 Types of Real Estate Investors",
-   "url": "https://www.kiplinger.com/real-estate/real-estate-investing/real-estate-investor-tax-strategies",
-   "summary": "Not every real estate investor needs the same playbook. Here's how to match your situation to the right tax-advantaged real estate strategy.",
+   "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
+   "url": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+   "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+   "source_name": "CNBC — Investing",
+   "official": false,
+   "published": "2026-10-24"
+  },
+  {
+   "title": "Weekly Market Recap (October 24) - Copper: A Surplus Today, a Severe Shortage Tomorrow",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkZ3TjRWSlVTRUFyTUJLZ1FhVmxDQTB0VEpOdWs3S0p6MHVSZWdxLTE4LTI4Z3pjY0N1MVAyajdnNkE5R2xkSUczSmtMN0xCaWlIREpDR2hoLXNhTmdqN1VlTjFTVWVGa1VrcFg1YlFxQTgtZ0E5V0NLZGZvYmphbzlwMEEtWm5VdTZpYmVYekE4OHVqTmIwemNXVDFSNGNIeXFkcThDU0JXTTZiZEp6Smx1bw?oc=5",
+   "summary": "",
+   "source_name": "NAI500",
+   "official": false,
+   "published": "2026-10-24"
+  },
+  {
+   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+   "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-10-23"
+  },
+  {
+   "title": "Dow Drops 652 Points as Oil, Treasury Yields Rise: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today",
+   "summary": "Tensions between the U.S. and Iran rattled markets and lifted oil prices ahead of next week's Fed meeting.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-17"
+   "published": "2026-10-23"
   },
   {
-   "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-   "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-10-16"
-  },
-  {
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-10-16"
-  },
-  {
-   "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-   "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-10-16"
-  },
-  {
-   "title": "Nasdaq Buckles on Fear This Boom Is an AI Bubble: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-buckles-on-fear-this-boom-is-an-ai-bubble-stock-market-today",
-   "summary": "Fed Chair Kevin Warsh spoke up for the benefits of an AI boom, but markets are still showing more concern about an AI bubble.",
+   "title": "How Much Do You Know About Stock Market Seasonality?",
+   "url": "https://www.kiplinger.com/puzzles/quizzes/how-much-do-you-know-about-stock-market-seasonality-take-our-quiz-to-find-out",
+   "summary": "Is stock market seasonality signal or noise? Let's talk about patterns and tendencies we see across the trading and investing calendar.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-16"
+   "published": "2026-10-23"
   },
   {
-   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-   "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones.",
-   "source_name": "CNBC — Economy",
+   "title": "How Much International Exposure (If Any) Should Your ETF Portfolio Have?",
+   "url": "https://www.kiplinger.com/investing/etfs/international-exposure-in-etf-portfolio",
+   "summary": "International stocks can improve diversification, but U.S. investors still need to decide how much foreign exposure belongs in an ETF portfolio.",
+   "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-15"
+   "published": "2026-10-23"
   },
   {
-   "title": "Economists: Hot PPI shows Fed's work is not done",
-   "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-   "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
-   "source_name": "CNBC — Economy",
+   "title": "Nasdaq Sinks 694 Points as Meta Stock Slumps: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today",
+   "summary": "Post-earnings drops for Meta and Tesla weighed on the broader tech sector, while Procter & Gamble's results signaled a resilient consumer.",
+   "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-15"
+   "published": "2026-10-22"
   },
   {
-   "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-   "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-   "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
-   "source_name": "CNBC — Economy",
+   "title": "5 Stocks to Avoid as Interest Rates Rise This Fall",
+   "url": "https://www.kiplinger.com/investing/stocks-to-avoid-as-interest-rates-rise",
+   "summary": "Rising interest rates mean higher borrowing costs and challenge companies with bad balance sheets. Here are five stocks to avoid as interest rates rise.",
+   "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-15"
+   "published": "2026-10-22"
+  },
+  {
+   "title": "3 Changes to Treasury Direct You Need to Know",
+   "url": "https://www.kiplinger.com/investing/changes-to-treasury-direct-you-need-to-know",
+   "summary": "If you need to redeem savings bonds or use other services, be aware of these changes to Treasury Direct.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-22"
+  },
+  {
+   "title": "Why Avoiding Capital Gains Can Sometimes Cost You More",
+   "url": "https://www.kiplinger.com/investing/why-avoiding-capital-gains-can-sometimes-cost-you-more",
+   "summary": "High-net-worth investors often resist selling highly appreciated stocks because they dread the tax bill. But avoiding taxes can leave retirement wealth dangerously concentrated — and turn a manageable capital gain into a much larger portfolio loss.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-22"
   }
  ],
  "failures": [

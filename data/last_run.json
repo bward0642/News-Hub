@@ -1,7 +1,8 @@
 {
- "fetched_at": "2026-10-19T10:29:18+00:00",
+ "fetched_at": "2026-10-26T10:34:12+00:00",
  "failures": [
   "FTC Consumer Alerts: HTTPError: 404 Client Error: Not Found for url: https://consumer.ftc.gov/blog/rss",
-  "FTC Consumer Protection News: HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/feeds/press-release-consumer-protection.xml"
+  "FTC Consumer Protection News: HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/feeds/press-release-consumer-protection.xml",
+  "MyMoney.gov: HTTPError: 404 Client Error: Not Found for url: https://www.mymoney.gov/rss.xml"
  ]
 }

@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T10:34:14+00:00",
+ "fetched_at": "2026-11-02T10:52:22+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1063,121 +1063,130 @@
   }
  ],
  "brief": [],
- "releases": [],
- "fed": [
+ "releases": [
   {
-   "title": "Bowman, Supervisory Modernization After Silicon Valley Bank",
-   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
-   "summary": "Speech At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
-   "source_name": "Federal Reserve — Speeches",
+   "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+   "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+   "summary": "Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026 (July, August, and September), according to the advance estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer…",
+   "source_name": "Bureau of Economic Analysis",
    "official": true,
-   "published": "2026-10-15"
+   "published": "2026-10-29"
   },
   {
-   "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-   "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+   "title": "Personal Income and Outlays, September 2026",
+   "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+   "summary": "Personal income increased $54.5 billion (0.2 percent at a monthly rate) in September, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)–personal income less personal current taxes–increased $52.7 billion (0.2 percent), and personal consumption expenditures (PCE) increased $113.1 billion (0.5 percent). Personal outlays–the sum of…",
+   "source_name": "Bureau of Economic Analysis",
+   "official": true,
+   "published": "2026-10-29"
+  }
+ ],
+ "fed": [
+  {
+   "title": "Federal Reserve issues FOMC statement",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "summary": "Federal Reserve issues FOMC statement",
    "source_name": "Federal Reserve — Monetary policy",
    "official": true,
-   "published": "2026-10-13"
+   "published": "2026-10-28"
   }
  ],
  "commentary": [
   {
-   "title": "6 Ways the Drawdown Phase Catches New Retirees By Surprise",
-   "url": "https://www.kiplinger.com/retirement/retirement-planning/drawdown-phase-catches-new-retirees-by-surprise",
-   "summary": "You've aced saving for retirement, but having to spend your money may come as a shock. This is what's likely to trip you up and how to adjust your habits.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-25"
-  },
-  {
-   "title": "US stocks decline amid AI concerns and rising oil prices: Weekly Market Recap",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0walFUNW5rdU1Gc2JTU25LeTZoSC1Rbm9mVjl3TzNsYldOa2NnNTlCX3NxS1BCZnlzdGhscXdiU2JYSFpiZzRnZzljZWMtWkxnMkpxNEJNMThJQnE5bVhEOUln?oc=5",
-   "summary": "",
-   "source_name": "Beansprout",
-   "official": false,
-   "published": "2026-10-25"
-  },
-  {
-   "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-   "url": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-   "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
+   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+   "url": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+   "summary": "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-10-24"
+   "published": "2026-11-01"
   },
   {
-   "title": "Weekly Market Recap (October 24) - Copper: A Surplus Today, a Severe Shortage Tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkZ3TjRWSlVTRUFyTUJLZ1FhVmxDQTB0VEpOdWs3S0p6MHVSZWdxLTE4LTI4Z3pjY0N1MVAyajdnNkE5R2xkSUczSmtMN0xCaWlIREpDR2hoLXNhTmdqN1VlTjFTVWVGa1VrcFg1YlFxQTgtZ0E5V0NLZGZvYmphbzlwMEEtWm5VdTZpYmVYekE4OHVqTmIwemNXVDFSNGNIeXFkcThDU0JXTTZiZEp6Smx1bw?oc=5",
+   "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+   "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+   "summary": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+   "source_name": "CNBC — Investing",
+   "official": false,
+   "published": "2026-11-01"
+  },
+  {
+   "title": "QQQ vs SPY: What $1,000 Invested 20 Years Ago Is Worth Now",
+   "url": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now",
+   "summary": "Mega-cap tech and communications stocks deliver outsized rewards — and greater risk.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-01"
+  },
+  {
+   "title": "2 Sectors, 4 Stocks to Buy This November",
+   "url": "https://www.kiplinger.com/investing/stocks/2-sectors-4-stocks-to-buy-november-2026",
+   "summary": "Black Friday. Cyber Monday. The midterm elections. We ignore them all when looking for the best stocks to buy this November.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-10-31"
+  },
+  {
+   "title": "TradFi News |TradFi Week in Review: Silver Drops 18% in October, Intel Has Its Worst Day Since 1974, and a 10-2 Fed Hold Keeps a December Hike in Play",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVENvNDJhbHhXOXJVN0cwVW5aTGpJcHpIX2NLdWg5SW9fdXl2dFlmalhGTjd4cVZ6MFJZQUc4eXAycVdUWFQzYUxkTU1VaU9qaHdnNHYtMVNtaE5sUDY5MGgwS0I?oc=5",
+   "summary": "",
+   "source_name": "Binance",
+   "official": false,
+   "published": "2026-10-31"
+  },
+  {
+   "title": "Weekly Market Recap (October 31) - Copper Falls in October, but World Bank Lifts Long-Term Price Outlook",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ3l0aXlGY2E4eHJPOUVnNERVVk0tNGhMMHE4bFBralRnSEpJSUJsQmNPV2NFMTJSVVBNeVc0VXctY0tabGttUzVkcExVU1JiRTlncngyREJvTXo4QlptNUdTbGhFTGl6N0hBM2VpZTZwa0FCdmZac01teGZVSjFQRmNwODVlUWxBMU9mS0Z0MVVHSlJRcVVVaUwxeVNid1hmdUJYeU5vaUFYRVRZbFJtSzJDcEtpMnJPZUFUZFFHLVN1X1lZTlo0R0QwM3E?oc=5",
    "summary": "",
    "source_name": "NAI500",
    "official": false,
-   "published": "2026-10-24"
+   "published": "2026-10-31"
   },
   {
-   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-   "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+   "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+   "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+   "summary": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-23"
+   "published": "2026-10-30"
   },
   {
-   "title": "Dow Drops 652 Points as Oil, Treasury Yields Rise: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today",
-   "summary": "Tensions between the U.S. and Iran rattled markets and lifted oil prices ahead of next week's Fed meeting.",
+   "title": "Nasdaq Falls Another 747 Points as Intel Is Way Outside: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-falls-another-747-points-as-intel-is-way-outside-stock-market-today",
+   "summary": "Earnings reports from companies laying the foundation for the AI revolution continued to drive risk-off price action into the Halloween weekend.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-23"
+   "published": "2026-10-30"
   },
   {
-   "title": "How Much Do You Know About Stock Market Seasonality?",
-   "url": "https://www.kiplinger.com/puzzles/quizzes/how-much-do-you-know-about-stock-market-seasonality-take-our-quiz-to-find-out",
-   "summary": "Is stock market seasonality signal or noise? Let's talk about patterns and tendencies we see across the trading and investing calendar.",
+   "title": "5 ETFs to Buy for Rising Interest Rates",
+   "url": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy-for-rising-interest-rates",
+   "summary": "Investors spooked by the possibility of more Federal Reserve hawkishness may find refuge in these ETFs.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-23"
+   "published": "2026-10-30"
   },
   {
-   "title": "How Much International Exposure (If Any) Should Your ETF Portfolio Have?",
-   "url": "https://www.kiplinger.com/investing/etfs/international-exposure-in-etf-portfolio",
-   "summary": "International stocks can improve diversification, but U.S. investors still need to decide how much foreign exposure belongs in an ETF portfolio.",
+   "title": "HSA Eligibility Changes: What to Know Before Open Enrollment",
+   "url": "https://www.kiplinger.com/personal-finance/health-savings-accounts/hsas-health-insurance-bronze-catastrophic-plans",
+   "summary": "HSAs can be a useful tax-advantaged savings channel for business owners and the self-employed, and more people are eligible this year than ever.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-10-23"
+   "published": "2026-10-30"
   },
   {
-   "title": "Nasdaq Sinks 694 Points as Meta Stock Slumps: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today",
-   "summary": "Post-earnings drops for Meta and Tesla weighed on the broader tech sector, while Procter & Gamble's results signaled a resilient consumer.",
-   "source_name": "Kiplinger — Investing",
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+   "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-22"
+   "published": "2026-10-29"
   },
   {
-   "title": "5 Stocks to Avoid as Interest Rates Rise This Fall",
-   "url": "https://www.kiplinger.com/investing/stocks-to-avoid-as-interest-rates-rise",
-   "summary": "Rising interest rates mean higher borrowing costs and challenge companies with bad balance sheets. Here are five stocks to avoid as interest rates rise.",
-   "source_name": "Kiplinger — Investing",
+   "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
+   "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+   "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-22"
-  },
-  {
-   "title": "3 Changes to Treasury Direct You Need to Know",
-   "url": "https://www.kiplinger.com/investing/changes-to-treasury-direct-you-need-to-know",
-   "summary": "If you need to redeem savings bonds or use other services, be aware of these changes to Treasury Direct.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-22"
-  },
-  {
-   "title": "Why Avoiding Capital Gains Can Sometimes Cost You More",
-   "url": "https://www.kiplinger.com/investing/why-avoiding-capital-gains-can-sometimes-cost-you-more",
-   "summary": "High-net-worth investors often resist selling highly appreciated stocks because they dread the tax bill. But avoiding taxes can leave retirement wealth dangerously concentrated — and turn a manageable capital gain into a much larger portfolio loss.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-22"
+   "published": "2026-10-29"
   }
  ],
  "failures": [

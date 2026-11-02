@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-26T10:35:17+00:00",
+ "fetched_at": "2026-11-02T10:53:24+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -56,6 +56,25 @@
   "WY": "Wyoming"
  },
  "items": [
+  {
+   "id": "ef8985fb234b",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
+   "summary": "The Department revises the existing accrediting agency recognition regulations to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden. Effective 2027-07-01.",
+   "status": "enacted",
+   "status_label": "Final rule · takes effect 2027-07-01",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-10-30",
+   "source_name": "Education Department",
+   "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
+   "topics": [
+    "student-loans"
+   ]
+  },
   {
    "id": "9e5d0afdd915",
    "kind": "news",

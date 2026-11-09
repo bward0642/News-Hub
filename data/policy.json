@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T10:53:24+00:00",
+ "fetched_at": "2026-11-09T20:31:39+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -1158,63 +1158,6 @@
    "last_action_date": "2025-11-13",
    "source_name": "Consumer Financial Protection Bureau",
    "url": "https://www.federalregister.gov/documents/2025/11/13/2025-19864/equal-credit-opportunity-act-regulation-b",
-   "topics": [
-    "consumer-credit"
-   ]
-  },
-  {
-   "id": "7d2faed18c04",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "William D. Ford Federal Direct Loan (Direct Loan) Program",
-   "summary": "The Secretary establishes new regulations on the Public Service Loan Forgiveness (PSLF) program in the William D. Ford Federal Direct Loan (Direct Loan) program under 34 CFR 685.219 by adding or clarifying provisions to exclude employers that engage in specific enumerated illegal activities such that they have a substantial illegal purpose, including defining obligations and processes tied to making such a determination of an employer, clarifying that borrowers will receive full credit for work… Effective 2026-07-01.",
-   "status": "enacted",
-   "status_label": "Final rule",
-   "last_action": "Published as a final rule",
-   "last_action_date": "2025-10-31",
-   "source_name": "Education Department",
-   "url": "https://www.federalregister.gov/documents/2025/10/31/2025-19729/william-d-ford-federal-direct-loan-direct-loan-program",
-   "topics": [
-    "student-loans"
-   ]
-  },
-  {
-   "id": "5ceab242df00",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections; Withdrawal of Proposed Rule",
-   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is withdrawing its Notice of Proposed Rule: Registry of Supervised Nonbanks That Use Form Contracts To Impose Terms and Conditions That Seek To Waive or Limit Consumer Legal Protections, published on February 1, 2023 (Proposed Rule), and is providing this notice of withdrawal. The Bureau has determined that legislative rulemaking is not necessary or appropriate at this time to address the subject matter of the Proposed Rule. The Bureau…",
-   "status": "in_progress",
-   "status_label": "Proposed rule",
-   "last_action": "Published as a proposed rule",
-   "last_action_date": "2025-10-29",
-   "source_name": "Consumer Financial Protection Bureau",
-   "url": "https://www.federalregister.gov/documents/2025/10/29/2025-19690/registry-of-supervised-nonbanks-that-use-form-contracts-to-impose-terms-and-conditions-that-seek-to",
-   "topics": [
-    "consumer-credit"
-   ]
-  },
-  {
-   "id": "303cccd36737",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "Fair Credit Reporting Act; Preemption of State Laws",
-   "summary": "The Consumer Financial Protection Bureau (Bureau) is issuing this interpretive rule to clarify that the Fair Credit Reporting Act (FCRA) generally preempts State laws that touch on broad areas of credit reporting, consistent with Congress's intent to create national standards for the credit reporting system. This interpretive rule replaces a July 2022 interpretive rule that the Bureau withdrew in May 2025.",
-   "status": "enacted",
-   "status_label": "Final rule",
-   "last_action": "Published as a final rule",
-   "last_action_date": "2025-10-28",
-   "source_name": "Consumer Financial Protection Bureau",
-   "url": "https://www.federalregister.gov/documents/2025/10/28/2025-19671/fair-credit-reporting-act-preemption-of-state-laws",
    "topics": [
     "consumer-credit"
    ]

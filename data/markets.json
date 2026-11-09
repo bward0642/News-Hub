@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T10:52:22+00:00",
+ "fetched_at": "2026-11-09T20:30:35+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1065,20 +1065,12 @@
  "brief": [],
  "releases": [
   {
-   "title": "GDP (Advance Estimate), 3rd Quarter 2026",
-   "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
-   "summary": "Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026 (July, August, and September), according to the advance estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the second quarter, real GDP increased 2.2 percent. The contributors to the increase in real GDP in the third quarter were increases in investment, consumer…",
+   "title": "U.S. International Trade in Goods and Services, September 2026",
+   "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
+   "summary": "The U.S. goods and services trade deficit decreased in September 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit decreased from $105.7 billion in August (revised) to $105.0 billion in September, as exports increased more than imports. The goods deficit decreased $0.7 billion in September to $135.9 billion. The services surplus decreased less than…",
    "source_name": "Bureau of Economic Analysis",
    "official": true,
-   "published": "2026-10-29"
-  },
-  {
-   "title": "Personal Income and Outlays, September 2026",
-   "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
-   "summary": "Personal income increased $54.5 billion (0.2 percent at a monthly rate) in September, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)–personal income less personal current taxes–increased $52.7 billion (0.2 percent), and personal consumption expenditures (PCE) increased $113.1 billion (0.5 percent). Personal outlays–the sum of…",
-   "source_name": "Bureau of Economic Analysis",
-   "official": true,
-   "published": "2026-10-29"
+   "published": "2026-11-04"
   }
  ],
  "fed": [
@@ -1093,100 +1085,100 @@
  ],
  "commentary": [
   {
-   "title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-   "url": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
-   "summary": "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
+   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-11-09"
+  },
+  {
+   "title": "How to Invest in Real Estate Before Housing Recovers",
+   "url": "https://www.kiplinger.com/investing/housing-will-recover-eventually-heres-how-to-invest-in-real-estate-until-then",
+   "summary": "The housing market has been slow, which may also mean there are attractive opportunities in the stock market for investors.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-09"
+  },
+  {
+   "title": "Are We in an AI Earnings Bubble? 3 Warning Signs to Watch",
+   "url": "https://www.kiplinger.com/investing/ai-bubble-how-valuations-may-be-distorted",
+   "summary": "Should we look more deeply into company earnings driven by unsustainable cash flow, allegations of aggressive accounting and circular financing?",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-09"
+  },
+  {
+   "title": "October CPI Report: What the Inflation Data Is Expected to Show",
+   "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect",
+   "summary": "The October CPI report is a key inflation update the Fed will see before its next policy meeting. Here's what economists are saying about the data.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-09"
+  },
+  {
+   "title": "ABS-CBN News. . Follow the latest in the world of business as ANC talks to analysts and decision-makers on Market Edge.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHI1ajNkQm54Sm9sM29pNm9vU0RrRTloNlJUQlViZE1xWU4wQV9QZXNuSWstNG8xNDgzc0hidGhGV2lrNDlfWk4tbkw4T2E5T1pIbzBEckRsaHd4ZUVnSkxEdWJRTGRaN2tIbWxlbUoxQS0zd3FTcUxGakVXdkNkTVhvNUZqY3VvVHhxRzBMZjRoZnk4UC1z?oc=5",
+   "summary": "",
+   "source_name": "Facebook",
+   "official": false,
+   "published": "2026-11-09"
+  },
+  {
+   "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+   "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+   "summary": "Three dividend-paying stocks that are highlighted by Wall Street’s top pros, as tracked by TipRanks.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-01"
+   "published": "2026-11-08"
   },
   {
-   "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-   "url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
-   "summary": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+   "title": "How to Beat Inflation and Future-Proof Long-Term Wealth",
+   "url": "https://www.kiplinger.com/personal-finance/how-to-outsmart-rising-costs-and-protect-your-nest-egg",
+   "summary": "No single asset class is a perfect defense against inflation and a long retirement. Protect your portfolio with a mix of tools to maintain your purchasing power.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-08"
+  },
+  {
+   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-11-06"
+  },
+  {
+   "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-01"
+   "published": "2026-11-06"
   },
   {
-   "title": "QQQ vs SPY: What $1,000 Invested 20 Years Ago Is Worth Now",
-   "url": "https://www.kiplinger.com/what-1000-invested-in-qqq-etf-spy-etf-is-worth-now",
-   "summary": "Mega-cap tech and communications stocks deliver outsized rewards — and greater risk.",
+   "title": "Nasdaq Adds 264 Points in Tech Rebound: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today",
+   "summary": "Several beaten-down tech stocks bounced on Friday, but it wasn't enough to erase weekly losses.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-11-01"
+   "published": "2026-11-06"
   },
   {
-   "title": "2 Sectors, 4 Stocks to Buy This November",
-   "url": "https://www.kiplinger.com/investing/stocks/2-sectors-4-stocks-to-buy-november-2026",
-   "summary": "Black Friday. Cyber Monday. The midterm elections. We ignore them all when looking for the best stocks to buy this November.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-31"
-  },
-  {
-   "title": "TradFi News |TradFi Week in Review: Silver Drops 18% in October, Intel Has Its Worst Day Since 1974, and a 10-2 Fed Hold Keeps a December Hike in Play",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EVENvNDJhbHhXOXJVN0cwVW5aTGpJcHpIX2NLdWg5SW9fdXl2dFlmalhGTjd4cVZ6MFJZQUc4eXAycVdUWFQzYUxkTU1VaU9qaHdnNHYtMVNtaE5sUDY5MGgwS0I?oc=5",
-   "summary": "",
-   "source_name": "Binance",
-   "official": false,
-   "published": "2026-10-31"
-  },
-  {
-   "title": "Weekly Market Recap (October 31) - Copper Falls in October, but World Bank Lifts Long-Term Price Outlook",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ3l0aXlGY2E4eHJPOUVnNERVVk0tNGhMMHE4bFBralRnSEpJSUJsQmNPV2NFMTJSVVBNeVc0VXctY0tabGttUzVkcExVU1JiRTlncngyREJvTXo4QlptNUdTbGhFTGl6N0hBM2VpZTZwa0FCdmZac01teGZVSjFQRmNwODVlUWxBMU9mS0Z0MVVHSlJRcVVVaUwxeVNid1hmdUJYeU5vaUFYRVRZbFJtSzJDcEtpMnJPZUFUZFFHLVN1X1lZTlo0R0QwM3E?oc=5",
-   "summary": "",
-   "source_name": "NAI500",
-   "official": false,
-   "published": "2026-10-31"
-  },
-  {
-   "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-   "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-   "summary": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
+   "title": "The October jobs report is out Friday. Here's everything to expect",
+   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+   "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-30"
+   "published": "2026-11-05"
   },
   {
-   "title": "Nasdaq Falls Another 747 Points as Intel Is Way Outside: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-falls-another-747-points-as-intel-is-way-outside-stock-market-today",
-   "summary": "Earnings reports from companies laying the foundation for the AI revolution continued to drive risk-off price action into the Halloween weekend.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-30"
-  },
-  {
-   "title": "5 ETFs to Buy for Rising Interest Rates",
-   "url": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy-for-rising-interest-rates",
-   "summary": "Investors spooked by the possibility of more Federal Reserve hawkishness may find refuge in these ETFs.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-30"
-  },
-  {
-   "title": "HSA Eligibility Changes: What to Know Before Open Enrollment",
-   "url": "https://www.kiplinger.com/personal-finance/health-savings-accounts/hsas-health-insurance-bronze-catastrophic-plans",
-   "summary": "HSAs can be a useful tax-advantaged savings channel for business owners and the self-employed, and more people are eligible this year than ever.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-10-30"
-  },
-  {
-   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-   "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-   "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+   "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+   "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-10-29"
-  },
-  {
-   "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-   "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-   "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-10-29"
+   "published": "2026-11-05"
   }
  ],
  "failures": [

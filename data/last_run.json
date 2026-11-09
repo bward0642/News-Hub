@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-02T10:52:21+00:00",
+ "fetched_at": "2026-11-09T20:30:33+00:00",
  "failures": [
   "FTC Consumer Alerts: HTTPError: 404 Client Error: Not Found for url: https://consumer.ftc.gov/blog/rss",
   "FTC Consumer Protection News: HTTPError: 404 Client Error: Not Found for url: https://www.ftc.gov/feeds/press-release-consumer-protection.xml",

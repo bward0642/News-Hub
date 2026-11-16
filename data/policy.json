@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T20:31:39+00:00",
+ "fetched_at": "2026-11-16T20:05:16+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -56,6 +56,44 @@
   "WY": "Wyoming"
  },
  "items": [
+  {
+   "id": "4356ef9ff2a3",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Privacy of Consumer Financial Information",
+   "summary": "The NCUA Board (Board) is issuing a final rule to make technical corrections to provisions of the NCUA's regulations. The technical amendments improve clarity by removing obsolete references to the privacy of consumer financial information regulation, which the NCUA no longer administers. Effective 2026-11-16.",
+   "status": "enacted",
+   "status_label": "Final rule",
+   "last_action": "Published as a final rule",
+   "last_action_date": "2026-11-16",
+   "source_name": "National Credit Union Administration",
+   "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23286/privacy-of-consumer-financial-information",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "f6a2d52976bc",
+   "kind": "official",
+   "origin": "federal_register",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "",
+   "title": "Federal Scholarship Tax Credit; Hearing",
+   "summary": "This document announces that the public hearing scheduled for December 15, 2026, at 10 a.m. ET, for the notice of proposed rulemaking and notice of public hearing (REG-117199-25) published in the Federal Register on October 2, 2026, has been changed to a telephonic-only hearing. These proposed regulations would provide guidance regarding the non-refundable Federal tax credit for qualified contributions to scholarship granting organizations to fund qualified elementary and secondary school…",
+   "status": "in_progress",
+   "status_label": "Proposed rule",
+   "last_action": "Published as a proposed rule",
+   "last_action_date": "2026-11-12",
+   "source_name": "Treasury Department, Internal Revenue Service",
+   "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23032/federal-scholarship-tax-credit-hearing",
+   "topics": [
+    "fafsa"
+   ]
+  },
   {
    "id": "ef8985fb234b",
    "kind": "official",
@@ -1163,5 +1201,14 @@
    ]
   }
  ],
- "failures": []
+ "failures": [
+  "State news (Georgia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Georgia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (Idaho): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Idaho%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (Illinois): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Illinois%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (Maine): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Maine%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (New Hampshire): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22New+Hampshire%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (Tennessee): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Tennessee%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (Virginia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Virginia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
+  "State news (West Virginia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22West+Virginia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
+ ]
 }

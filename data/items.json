@@ -1,5 +1,837 @@
 [
  {
+  "id": "2a31c6e4cd78",
+  "title": "Where does New York rank for student debt? See 2026 rankings",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXV6X3ppSkZOM2VqbmRra2s3MzluTDUxZzBuYVhqY0xPcEwyOUI3NWpSZDFDcGVhaTVNcm0tQi1fcjE0ZVVTQVNrcU91eXRJaUFycjY3c0RsR2d2enA1ek10WjRWaXFOQzMtQ2JfZ2F4X2RwUFlOM1NKLVI0WXc0amxMOGc5alRKM0RBTDJTeUk1ZkVrTlczV2lMWkVOLXhHOUp0WFVtSQ?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "Lohud",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a5920a48641c",
+  "title": "When to use buy now, pay later this holiday shopping season, and when to avoid it",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVk04MktxSEE5N2hrNzR0bkdnMVZOb0k2cG1TeFB2Z0FpOE1ZNmZ1RmxqQ0h4SmtGa2NUQmJDNDhPUzUzbFZNZVZxeUU2NG1QZEkxNzI2TWw3c0VBTm82NHJIRDJDcTZHQ1JiZnlIUkUzdEpHNm9BYktUeU8wbllDN3pYalBnVUw0VmxBcFN2eHZNMDgzQ2JWWmR6MVJqYnlVSUpQcGZrbTVEcWtBTS03LWcwdm1INjZYRFdWZE42V0w?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "CBS News",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "057bdc7ad731",
+  "title": "USA Today: Should you use a HELOC to pay off debt? Weigh the risks and savings",
+  "url": "https://www.nclc.org/usa-today-should-you-use-a-heloc-to-pay-off-debt-weigh-the-risks-and-savings/",
+  "summary": "Appearing in USA Today on November 10, 2026, Dan Simms looks at how a HELOC can turn high-interest debts into one potentially lower-rate payment, but warns that borrowing against your home comes with serious risks. The article references NCLC’s report, Predatory Installment Lending in the States: How Well Do the States Protect Consumers Against High-Cost… The post USA Today: Should you use a…",
+  "source_id": "nclc",
+  "source_name": "National Consumer Law Center",
+  "official": true,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "ae9dc3f8da03",
+  "title": "US Banks’ Overdraft Fees Hit Four-year High as Charges Rise",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmRNQnVNQ3dRMmgyMEFVdDBEbzRRZzBDUGZ2UkRHeEFzQmxIX3hqRGZzUmo4bnlMTEtMSnE2b3dPSEg0Qm1hbTVJMmgxaXFoa3prdkFHbkl0b01IU0NlajBJYXNxdEZ5aWh1d3ZjVWg3UDMtUWhFaGItMUtDYzRKbDNZeVAxZ2RqS1pSWGpaVnhPdUVxQmM5VGxYLXo0a1RodUNnWkR0bDgwZ1BXcm1abA?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "Banking Exchange",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f4f07e9fef31",
+  "title": "UAH secures $3.2 million grant to develop ‘high-potential’ student talent in Limestone, Marshall counties",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdWFrYk5vbnNhc3U0WnhvU1pYanRtdE1QaUxIZktid0JkelBFQmV2RE1jTWRzQ3E2bjV1TWNaUGJxdVVVamp2aHkwYmVFZWo2eVZLRjNlcDZ2eWJ3S1p3ZGpCUmVHRFlwNmNDcDJabXRmUXlXVTBGUGNDUE85VlpXWGM4cHlCeGFXbmZONVhudV90OXE1MFVmZGhrWlQ0aFlqcE1KVU9UQ1A3X0tWcjVSamVMZFdNcTFUTlM0VXZCWjVtNEM5akJQRktpRlBYb2pBTVJ5Xw?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "Athens The News Courier",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "c88687b9f1ed",
+  "title": "Students tackle financial challenges at Gesa-supported AI hackathon",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTJOZ0ZQNGktbUFqdUktVGN0bFI2dFRremNGZk93MkpGamhQWmJvcllIUkRLdW5kNTNTalFUS2xCaTR2OXhHOW1NVkpqWHliVEM3TUlBUWZVQWJnNUVMaGlvWGpVT013b1VxOGlhNHNXSTN2R3g2UEpWTFZCcFJoOENJX0xzUm5PNXNQMHBPaTBmSHB5MHppakg0WQ?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "cedarnews.net",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "590dbc6ada09",
+  "title": "Rising federal loan bills under new Trump rules put financial squeeze on California students",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSTJraDk2U3luWmd4UFhNYWQta2Nmak14Z0xqcTJFUEFyWjFGcENTbklBN1JBbFhpMmxiaHFlekg5RWN6RERXTklCc3BhWE5LMFN2X25NbWx0Y1hOR1hSUmtUY1NiNmNq0gFwQVVfeXFMTkliMzlyOTFsQ0FMUHVnMVdlXzd2cE0tNW9JNDZZTnprcTItRkRrV3dGeW9uTnI5OXBNLVQxQ0NUUWVqRHRuWk5EUVJuRk5qSVhTVlhXZ3dua0hvRFJfc1BaaG5mNm55VFE1QjA4SE04bw?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "EdSource",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a7a6073e397d",
+  "title": "On-time Sezzle Up users starting below 600 gained an average of 17.6 credit-score points in four months.",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGxmTFVaNERoa2JEVHBXVUVCZmdUOTBySzM0SVk3VDVLYlNzV29qNTg5SVdXR0tvZnN3TW13cHBSVHZMSll3VlJhc3paNDF1Tzh6ZE56QW5EbkZ6bnNscFE1Mk9jeUlEQlpTSVk4cXpzeWhoSXJpem5wejZxVUxmb3paampDTFNrWmFrYTR0Z19TVVNYWWY4WGZiWU8yQjNPd2hreWNzZWxiM2lTemg3SVNHSEdTNUx2eUJvMw?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "Stock Titan",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "d64426d5488e",
+  "title": "More people are using ‘buy now, pay later’ for basic expenses",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVhSY2RnMkh5bVpkMW55a1lLdElqM0lOQ2tReTdIRmc2QnY4am1ZZ0xSTWhuaTkyMHJuZmxSSDFKSjBGcUZkenlJSHF0dlAzTnBmMWd0QmYtdjBleW51OUtQQ08tS0tqNk1WcFRHVnpYaEUzbTBzS09RZzZRdXVNM0ttdk1LM28yWjN4ZDRST2M?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "KLTV.com",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "6badfc8cd01d",
+  "title": "Misen’s Carbon Nonstick Frying Pan Is My New Kitchen Go-To",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0ZwUFcydk5oTHhid0pjWThYVkNfLVFpdm9XUDlFWUtfSkRSbnRtREliMFBwVHZxcVlXR2VPX0lWLTBVbl9KRHBLSUtINFZmYU8yR0J6V2c4VGk5ZkNHdU1pWkRRMzBQb3ZwVEFWa1oybVZVck1XdFNJUHJwbkt2VF93RGJfY0dYWEYtRkMxWVJZV3BlNUZMMllOSzd4SHE1dnlITlVtUTlySUE2aFJORkc2QzFTZzdkeWgzTVF3?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "WSJ",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "632c52d5ecbb",
+  "title": "Local nonprofit to share ‘A Vision of Love’ through financial literacy events",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRy1ZbG1GVFFYTWlDOEdQTUpKZWNyc25HbkJoWlU1MUpKbG5iZ0FDeUZPY201RWIyOHN4MUNKaTlKSVdHckNyY0JxMVM0ak1wRTd0dFZnbGJRMzhsVk9Ld0ZLZWtpOURyX2RfSkVtOXFSclhMeW5sSzd2QzJYOUNsR01GYVhkRzNvcDZNR1lYT0Q0cmMwWExUek5uQWplb1VpUjd6R0JGX2E3RnVZNGxVMGRIR0RWSVFO?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "The Daily Lobo",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "181267ea92ad",
+  "title": "Lenders increasingly pull with new credit score model, but few use it for pricing",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNBS3dBYTdsRkNpZkxnNUs2ZU5BLWk5cU8zSGJTQXVwZmZsNi1kaFZSY0JqWEJObUtTaUxPTUhPWWE1U0dYRXN6YTRxLVhJUXEzczdFVklndjJoS0FWR2Q1VS1qNHpYTXdVUnpwNDdDYmdlUnNHcDduckFES3dTUjFpRHhPRWMwS2oyMkF4VFgwdV8wVkZHZQ?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "HousingWire",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "16cac7dc7284",
+  "title": "Klarna and Afterpay, or a credit card? How to choose the right payment option this holiday season",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYld4dFl4RlVwa0Y4b2RiWkQ3dGRoZG84ellJV1YwTHI5aUd3M0lFVnZiT0VpNzlBN1Q4c2ZES282RDdUWjNIZjg0X3k3Umwxbk5ZU1J5QjZoZEZva1ZJYVhaVEk2MUNINzhtdEJNTlpwNVVQTEc3S09Rb1hDOEFUak83ek1OVldWY1J6dzU5ZmJhUUd2VHhZcUpaQ1k2dmpfbUVZZENB?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "CBS News",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "03dae30b3dbf",
+  "title": "JCCC Updates: Complete the FAFSA over Thanksgiving Break with help from JCCC!",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXRHUGo4TjlFNE9xYy1HS3BYSVJrcVJxelNkdmtVdFZmUGdWTEdVaVpveTB5a043V05Ya0gyZkYxLXlUU1NWRUVnQnROVzVIZTNvdl9QY2ZtUVFZUWo2VTZBdTFxaWlBOUNCdFE4a1pkQlRYNks4ZHdad3BoQUE1VFE2TGVsVG9NZ3FKX2ZwcDhQSnVWZndDdktxWXJpdlJ3Um9iTXNLekRkTjA1YlYzQ2FMUWV1bEVSamhBUnc2ZE5IZw?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "Johnson County Post",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "9c41b14810a9",
+  "title": "How To Cut Your Student Loan Rate 1% by the Dec. 31 Deadline and Save Thousands",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQSzY2Q1ZLUk4xcURReE9vN2RweGVsSnBUTFJJa2ZiWUVSMTBaS1Q4WEdtSjYwSTV4WGhsM2haeFktNjdOaFd3czJLYlU2c3FrUUdiektEcnp4d3poQ3NPUGF5eTg2bFVNNUQ5X0h5ZHFzaGxuSHc?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "AOL.com",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": true,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "38034e8d3eda",
+  "title": "Family matters for Afterpay co-founder as he steps away from buy now pay later specialist Afterpay",
+  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd3BLX0MwMW5pNElNUzR0NC0wejBHMk5VM2ZBbXFtc3NyYW9vcm1EVGMyd0JXMGh1ODgxREF2bGFheW1LYmg2bFE4YnV3QTF1bnFzaVAyN3BhOUZQVGlFSW53T0Y5M3QtNkNjbDlfUXRzNGZaelUyWXRaMkk4elE2RmFJalprZFVGMkdadXVmSHh1NVVfUzB5RU5QOWItalRmeGprLWFOQklfVjJ3bld4N05Oa2VsVTFHeElBaGFmQnZfN0E1TWRmdTRtWEVrUVdySnFnUTZta3R4VTZtNFIzQUdRa19jWTZROVE?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "Retail Technology Innovation Hub",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "3156bd459da7",
+  "title": "FAFSA season",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWWgxM0RqN2ctYTFNQ1F0dExjc29Td2plXzl4QXhRLTZBVm8xaVFicFZWX2JqSVIwRkxsYlZ2RDNvTm8yZzNKc24zYThpRnhyUWczbXNRcEtITjZRbWpVcGtwNEdKZWRU?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "The Guilfordian",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "737eddb0acc3",
+  "title": "Ex Leaves Her With His Cell Phone Bill, So Woman Gets Even By Making Sure He Can No Longer Avoid His Student Loan Payments",
+  "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdzFYSmh2TTVhZFZHeGQ1SDRBQ1otT2t3SUtuanh5RG1jOXlETUFnVkx1Wm1EcVBnQko5QTNjNm4tTHktMEVrMlNzRE5NUlZXcWpjWW4xMmc4Mm1RY0FEY09od1lrMzVXZ3hNTzc4b3E1LU43UGxhNGY3Y2dUaHZFc2d5N1c3akFIYldVamxnOW1mLUJkS1hQclJlNF9sN3IzMHpXa1BKMm0zRFlZMlNHTXA5aXZ5WlBmd285UHdPd2NUNnM0aHNqZnlFT0Y2TTdZMV9aR0Q2VHVyaDlxS0lYdnF6U0NadVl3RUdmWg?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "TwistedSifter",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b01ffe4e74f3",
+  "title": "Deal of the Day: Save 25% on Misen's New Stainless Steel Food Containers and Carbon Nonstick Frying Pan",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblBxY3FGTnNiMnBMbDYyN3ZKeEpaOVRDUFlNa1EzZWp0VEY3OU5NbG42RUxPUUZUVU5WaXAwUUQ1RVBqQ2wyempHdG9rN1VjdlQyTnV1RlJ4R2JYcTYxVnYweGpqTXBuNjJOeGgxRUlHRkRxYzB0NGVrMWlWTTFRUi10NEpGZDRM?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "WSJ",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a0565329939a",
+  "title": "CFPB cross-moves for summary judgment in defense of Regulation B amendments",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGdmWVk3ckE5QjNTa1Y0YzFyYnJabjJCWG9wdjg5NFVYTENTVk54NmotSzZ3dUc4bGNCTjIzZ09xZktxelhZdlpCWnpnRHdXX004V3F6emlZMWZSNzN0ME54YkhrRFdDcTJoWS1YRGsxLW1nZEhtX1pCZzRkeWU1NktRTUdrMkk?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "JD Supra",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a288822cec3c",
+  "title": "CFPB Spent 2025 Reversing Fair Lending Efforts, Bureau Said in Annual Report",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUZFVkdyMWg3elZRZVMzd1V4cGJZQ1lJM2xfRnpncmpmOVZ2SG5FaDZEZUdUY2ZCWkRtWWItU2ZSRUFQTm45NDBNeXVpeWRhOWx5X0I5cWQ2c1JqVVVGSlpzQk5ocm5aTXNCN3lFMzcyV2lnanVDNElhOUZxbnd6anEza2c4VHNYQ3FEcUFWdU9LSUwyNHZsN0pqRnNUbE9QOVhxTjhzRWPSAa4BQVVfeXFMTUNGdGxqaHVadVI1b3BHaFFQXzRfYXR2alRidUZUN2dPRjBZS3FHS0Jpb0hiaFFicFQyd1hGV3BRRHhaMmkxUVAtU0dTU29CaHVubEUzZE1NX0pzTWxRSFBtNTJjYU44bXpsUTN6V2h4QTJ1azYwN0MtTDhndjIwZmsxSk54bUR3STZ4MmlmQ3RiV0VCV3hRZXV6OS1MVHgxTW9VX0xic3lQMmdEUlZ3?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "The National Law Review",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "cf908928c5be",
+  "title": "CFPB Moves Closer To Overhauling Mortgage Servicing Rules",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM04zUGlqT0hpS3k4YkdhVmNlQlEyRzdNRmY3S21OYUxzZTR1NXE4cEczZDNnSUNXZHNrR1NmUlQ2MlFoWTA3Tk1yTkdPSUxJRFk4dVlVQ3I2MHVCcFpHdGpvSEwyY0pWV2lSTmNNMmxLMVZ6LVh2bEVTYkVmWFlDMGhqQjBFYmRZejRnTXFLSkxfN0ttQU9Ua2lKXzZmaEZLeEE?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "National Mortgage Professional",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "bed313f662e7",
+  "title": "Best Student Loan Refinance Lenders Of 2026",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm9KV2psSzZUeUhsY25sOGFsQnN2U2ZaN2QtQjQxdUxndzVCbEFhQVV5cjNiQzdjSm1MdVlXUjhfTmxYQkNFeU51bk5BY09MX3NRZUNab19Pc1lGVGEtUnNxOW1aZjU2dkI0d3pncHZPZmI3YXZqR0JsZnlLU2VITTdBTnB4QXlQ?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "Forbes",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "111280e3938d",
+  "title": "Best Private Student Loans Of 2026",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9idHQ1ZVdpRHkwNkl6Y2tXdHdlZ3hfcloxNDdwdC1sa0ZhMHVEb1JMRlFZWGgyUHNiVVhMbXlCcERhalJueFFxMXBKRXdWa3VITHJsaDR3TENOSjJMRHlGOUdSOUdYUkRmQnJKbElIQkNYa3RXNXVXdlB5SmM?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "Forbes",
+  "official": false,
+  "published": "2026-11-16",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "72b02cc40678",
+  "title": "Weyay Bank launches exclusive ‘Jeel’ card for ACA students",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd29HZHVKVGtSVjctRUNobzFyd0lWcHNHZGxFdlRsM3dmLWY0YU5OYTVpaEkzQ0tVYTQ5cnhqRkNSSzlqdV9ZQTVRejBVNEl0Z2VzMDk0RllwV01OSWJhMVZpLXJnb1F6MUtRQ1VvQXpOc09ZRC1MaUFkeWJRUmtncG1CenNfUHdHRHFjVzB1U3g0NTExZXQ2bF9Xczh2VDlVa1owVNIBqAFBVV95cUxOVEFqS3NqbHJqT3lTWnhfcGNVLXdkbU1mV3VEdTg0WXdUMVp6LXNjclFPajd1MlptbkdzNHJNZUVyS2VLNjhDMnFfcDRjeUxBTTBES1NvZ2o4SEhaZnd2V0dLNUlYNEI0VEJ4NGxFeWdMcnpJRHFxTWJVd2Y5RmY3OThETkN3TjZ2QldqZ1JUb1NRVUJNWnZsTktXVHlJdE1GTDBKNm9Pc2E?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "Kuwait Times",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f04e94e799c9",
+  "title": "They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZEpmRXFTTHZfbzVnTE5obUxaR18zWXdFMEg4amg3T0RjMFd0MC1CUFF2aDkyMDRIelNYS1VXaTRyQ0dJSllEY0Vob19rWDNHeEwtaE0xM3h5OTlrQmJWbjBLZVAySmhQMzV5TjlsTVZSNHNZVFZJX0FEekFsZzVsLXYzd3p5UEly?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "The New York Times",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f35a854517d9",
+  "title": "TCC trustees to weigh $57M in software overhaul for registration, financial aid, payroll",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzhncjdmdElRTmE1dEhrTlIzWVdQVmtqS1lhMjg3YnJ0MEs3Ujhqc0tNSm1mMmNLMUlhb3NXVXE0WEZEVlpHa1VpR1FlNG1ucEwtWjZqWHZrLXJrTFlKSm9SRW9IcGpmLTd6R084SUsyZllodHJKQlFTX09JTXVVUlA5STk2Zi0tVjBsTDF1TVlVSTdfRUxNSFhMcXAyQTktUTlxalRxN1NhZUp0OC1vNXJBOHdZSFpwSTZISk9MQ1NXWkE?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "Fort Worth Report",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "116e0a8f8216",
+  "title": "Student Loan Interest Cap Plans: 0%, 2% And A 10% Credit Card Cap",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjFCWlFJV2RSVVJXTUhJWWFTaDJLa0xFSjdXUVgtTkdRT3VwNG9iY0VlU29MZnhWT0hSS3RPRkFhQ3hSa0F4d2x6LV90RlIta0MtRVJFS2hiZFhCZ01fT29ydUV1bXdWN3FEdi1IdWtlaGRSVWlPZzVYQ19MRnpFbA?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "The College Investor",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "student-loans",
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "811657ba8757",
+  "title": "NCC Bank tops student account opening in Feni",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1NJbnpuaXl1Mm16Zl96QndnTkxKU0oxU2RwNHNGcTYycXZENndpdjdmS1ZNZHVpSUxUdnN2NHhhOUZCeGpLYXBQZzZBRHk3U2ZUZ3JGNGkxWHlLWDhCdjgxeXZiOXlQX1hsMDZTUm5HbkxjS1dTU0xyTjdqNUZrSGo3dlBIRjdsZExfRHgzLUs4ZEU1QjI1R3duc1VjX3Q1UjBQWUhiUGNaUUZ3VUtBcw?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "The Daily Star",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b16b8690e565",
+  "title": "Meet Washington state student Siddhi Tandon, who did not know where to deposit her first paycheck and cre",
+  "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOZnFIY25Ya255U29Lc1ZhaWl0aDNXaWZETjB1VzNXXzgzMEtsaFRrZ0p6c2tIMjRFbzRjOGdRblpTaUdwOU5vQU5XNXRuWVFkWjBFUDNLdVVPNG9ENU84ZHYzY29pSGVSYmxjRFJfQU5ETFFmbUlvMlRyWUs4NGNZM083QjB5YXl1ZFprT0tFVzEzVVIxRFU3emE4d2hROFUwYlo5UjFjaS0xbjJFWEUwSGhuQVlPcmN4Qm5aUEQxOENjZlZWSnFfdWlMZjlVTC0yUHJYY1Z2UFhGNnVsdzVoNU1MVF9xZUdUNDRqZW9KcXFmX1pEek5oVWhyMU1CdHd6cXAxY3JVS2dzeV9RdHNQTFJJNUhnSnBPcFdPSW82TVh2bGZjaUZYM3VIaWlxc2NPNmpFbEZJU0hudXk3aGpJLUJVZXJqQ0h0ZVk0S25WUHAxQlhRbWlKQXFfTF9Ma2JtLTNRZ2VlVm00MzZlbWJlUVJneERXbWdVLTc3Rk5JNGNrQWMwVlRz0gGMA0FVX3lxTFBpNk1EVmhNVFdlelQwWmlaYWs5a2JvcXR4SHNVUzdYNGFzNlhubzAzckxKQ0Z3M2FuTEtmYTRrdHJsa2NkdVV3NEhRc2o2VkVxb2Z5UGhkT0dtM21UekdlbS1EMElXOHFNa0U4ZHdyVk1sWU10Rng4WlRkQ1BWS2cxV1QyYlJFOGRPM0stMy0zSlh1UHRrWWJNVXVHMEdoblRSRDJPYzFFd0h3OF9pZEswOVFicmNXY2s0WmFhdXdILW5ha2NGeU9pMlFpY0QzQlZva1pPQkRZcU5HOUlNcFN1bVVPb0xOWTI2U0tsc1c2ZGhMZy00OEYzTGtDdE1IYjFtNkRtMUpPYWYxSVZaTDdDX3pzZUdQaDdwdW40VmRwbndQOWZOVzlrOHVoTHRCYXcweFpSUW1WdkFVakJjRnRlUlFMdmdvMlpjaGYteG1TMzBEb1VUajZYT3JwcS1VY19iTU1UcVFTZVVBMDNiRXdDM1hDaUtnQWVYd2YzM2dEOWtOVXZKUWtjV2s2Vg?oc=5",
+  "summary": "",
+  "source_id": "gn-teaching",
+  "source_name": "The Times of India",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "d974dc9a711a",
+  "title": "I Stopped Using Buy Now, Pay Later — And It Changed My Monthly Budget",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wZERSVjlKYVZFSVVLYW1vNGtEX3hDeWZhNHB5b0c3bVZQVGpEaHFTcXFJNjV2aXZWVkNwXzBkbHVDYUR6b2Q3R0c2T3FmdTdoai1vZ2RaR1YwNXRHc1VQOXdhM1N2TVhIQWVITnJRajkwejcxNDljSg?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "AOL.com",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "10c45ca95a9f",
+  "title": "Group Gifting vs. Buy Now, Pay Later: Find Out Which Way Makes More Sense To Divide a Gift Purchase",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HZ1I5b1BVc0pBY2wwM1dCR2tBUWZEa3o1Zkh2cXZESktwb0c5ajF6MDBTX2pqMnoxR0cyWno5SEJQMWE3MHNLNGxJUk5TdkJhRGlFVHgxdkxZUmUzV21uTzN0aHk0a2JlT2w2UEdGamh4X3BSQUNB?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "AOL.com",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "121a51fdb32b",
+  "title": "Free Federal Student Aid Workshop Offered by MassBay Community College",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcldzTDVpSDh0ekNwXzUtSkR4Nzd5eGx4bnI3SEMxWHpSYTFxa3VVV01TYnRReWpKbWNLNjIyZ2JOVjhnUzBwcE9ZeWlOTEVrUWZNZ05rc254MU5zenpFR2h2WGtmRmRjVllodmUxeFpOQ2t0Wjg2SEpKa2ptQ0JMTUtyWnM3aEtheGx6ZUR1YjdpUW5kNko1RTJVWDZ2TnlyTThPQmpzLVRFc3ctT0k0?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "watertownmanews.com",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "student-loans",
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f9e860b2aeea",
+  "title": "At 71 With $950,000, He'll Be Asked to Co-Sign His Grandson's Private Student Loan. He'd Owe Every Dollar If the Payments Stop",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS1daMjhncUtEZnc2OXZodGZMZVoxZDFBUlhaVXhhZU44enZSak9Edmxhd04yaFJWMWNROEV6OE4zN2FCVGZyZ0ZxbDd6MVk2VWFDdUMycmlVdHZ0Qmt5TS1Ud0FSYXY0blo0QkVJU09YWWE2TzNxT051eUcxOGhjN09ZMFdrS2hGYjhYemlyRmZkdDBiNE1NdTZmX1hlejByRWtNR3h2NDJpNDQwX3YyYzVJR2VWWXBHVThOb3U5TVpGcV8xaDFOOFBSVFRjU3dYdGRVSHUxSHVSRkkxaTBCVjU4ZWU3dDdfYjBLNmp4Yl8tMTd6Sll6aEdQT29KMnc?oc=5",
+  "summary": "",
+  "source_id": "gn-student-loans",
+  "source_name": "24/7 Wall St.",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "student-loans"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "a53fe1401f69",
+  "title": "Army veteran Terrance Adams lived in his Dodge Charger for 8 months due to a credit score in the 500s — then hit 756",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWxtQmtWR3RDdlVwMUJ3Qk5wbS1md2hlRnJBT1doYWhQUFFnSHNpNDRnNWhJanlfamRkdnpZa19pR3JidzAyTHZLLU1EUlhYTmZOUmQ4SndsenFHU2JlSm9IblcwbDR0Yjl3ZmZIUENmclFmMnVxUm14TFFWcTVFZUJoLXRyekd5a0UxQWswYy0?oc=5",
+  "summary": "",
+  "source_id": "gn-credit",
+  "source_name": "MoneyWise.com",
+  "official": false,
+  "published": "2026-11-15",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "c5f960449c7b",
+  "title": "Lewes Library to host free college financial aid and FAFSA workshop",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcEo3NHlnQnFKZUc0OERNYjdCZ0JIU2pjMVJ2ZG5zMWVpVk9yN2t3WFE1c0pnRkpORUhQYVVYamdKa1dRdVM4WkVHSnNoMFhhZ09QWGJGVkFGUGlVUkY1ZzRLQjF6dUE0SnNoRzhiNUJCWFh6akdKLUREaWplVzJYRUZNTDgyVVBEUGJhanVNa3VhcHJrUjAzdXhORldVY0JKbmdfOFNTVkNVRjgyY1dtU3M2T1Y4NUprdW5oaHloSzBSQjlocUxLYS1sMFBZRzNidzczS29LNjNrZFdwYmN3?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "CoastTV",
+  "official": false,
+  "published": "2026-11-14",
+  "topics": [
+   "fafsa",
+   "teaching"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "ce094479b711",
+  "title": "College-readiness: financial aid & FAFSA help sessions",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGRZeURKR290bmg2UnBmdVBibGlSQnlvck93UlRYU3JISVlORHhBeHNvVlZrWF9XZFNGRDl2T2JWOGtCcF9XeFMwcmZhR0hVYVVpVldTYUlJeEttMHpjOG5aRmFVdGxmcHktMlBXeTZBREFTMGwzS1pmbHF2b1UyZ012VU9BZlpE?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "Albany City School District",
+  "official": false,
+  "published": "2026-11-14",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "6ba4f0444dda",
+  "title": "The cost of college is confusing. Some schools are trying to change that",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WQ2xGR2s3TGxzaXliZTE3azFmanZuR0w2V0xFLW9LOW9mYjRhc25XQmZqb21RaVdNa3J4LWhtazl6aVRQcGMzWG9pQ1NyLWlKdTVyYTRPYTJPZkZzWEZhTDlFZzl1U29sTHpoSkpSWERIVEtOSjRhSEpiTVczQQ?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "NPR",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "ea44ed5c8ee3",
+  "title": "PennWest Offers Scholarships to Help Students Offset College Costs",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFY0T1JSX3N3alpid0t6eVAzTzBibmt4S1UyRVdfekFnLXQxazEwQkM1bk5faGllVWtHT25HZ2VVRGJhNVVfZk5NTXF3RTVDTTBQZUxfcTM4TXh6Ul91Y3B6MjZfYlRFOHplOXNBQVI2VXNTVHZJSHMxSE9yQ1FpU0xKVWFSRndWX3o3dlZUTThoM2tvajQ3cXM3YWFWaFloUXlzZTBn?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "Cal Times",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "f9a0e7d1ce44",
+  "title": "Need more financial aid for college? This new law will make it easier to ask for it",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeUdlYUFmeHVNRnVKOE03aGg2UmxFTllVQmFXeUtZVlh0bU1jN1k0U1R2dXlnQmMwd3B2Sm5fV25OeXZhemZrTDhlZ18wSGlfV0xvaWFIa0sxMnd1U2s2QmN6NEtXNldpUFhTcGxJckxLcEN5TFBfdVlXR25kWWtleS1lOUJqblh1UXVmWE1xOXpWWFNJTFhFX2E2LXBMLWFYNTQxdEVrTjEzMkhjbkNUS0RtUExZSDJMUFBONA?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "el-observador.com",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "97500ea57477",
+  "title": "Indiana to hold key financial aid award at current rates",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1RRRkhIejE5MEx4TkFNbGxsRlZjYVRHSkdZd1I1X3Fqd2pSX3haMkJsYkNaME9XLWxWMXZuUDgxUDRCb1g4bHNHM0xXZFNLeHUwdEVvdEd3OG9QNHNiRWVBdlI2RU5vMHdodDlfckxSbEZxWk5VQzNkdV91Vm1iSHlKWk5xYmRpRjhnZG1OeUo2NHFxaVhKeDZ6c1p4Uk5fSmpfRDVoWQ?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "Indiana Capital Chronicle",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "924715f3ea52",
+  "title": "How To Avoid Student Loan Scams",
+  "url": "https://studentaid.gov/articles/scams/",
+  "summary": "Scammers’ tricks are always evolving, but we can help you stay one step ahead. Learn about the most common student loan repayment, discharge, and forgiveness scams, how to avoid them, and what to do if you think you’ve been scammed.",
+  "source_id": "studentaid",
+  "source_name": "StudentAid.gov",
+  "official": true,
+  "published": "2026-11-13",
+  "topics": [
+   "student-loans",
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b6d063ea8e1b",
+  "title": "Financial aid season starts now. Here’s what Oregonians need to know",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80Q3V4QkJpNHQ3a0xYOHFzakFodHh5cGdpYVVKYTlnRV9Tc3h1bWgzbUlKbDF3SzJzb0xid2dtRFUzLVJvbzNRWlRGbDladVZqSkl6MGhvU1Fmd00tZzB5cEY5SHk4a0dMNk1wbTZMLXBBTFF4YkE?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "OPB",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "c618876bdcce",
+  "title": "Financial Aid: The Struggles of Paying for College",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ZXJURGtLM3pWanA4YUhxWktDY29ldmZHanVRWnBseDVXUjNTbWlHRkM0ZFBkd0hLeDBxSFdKaWNvNEtua3ZkcDRhb05QQlhlMk90MVE5bkF2STVmcjJKdmhEV2JRYlo2YjZFSllB?oc=5",
+  "summary": "",
+  "source_id": "gn-fafsa",
+  "source_name": "The Wittenberg Torch",
+  "official": false,
+  "published": "2026-11-13",
+  "topics": [
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "b132593a5ef4",
+  "title": "Pennsylvania Can Bring Down Unaffordable Utility Bills",
+  "url": "https://www.nclc.org/pennsylvania-can-bring-down-unaffordable-utility-bills/",
+  "summary": "Policymakers Must Adopt Programs to Help Pennsylvanians Stay Connected The post Pennsylvania Can Bring Down Unaffordable Utility Bills appeared first on NCLC .",
+  "source_id": "nclc",
+  "source_name": "National Consumer Law Center",
+  "official": true,
+  "published": "2026-11-10",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
+  "id": "40bae75f5f9c",
+  "title": "Maryland Can Bring Down Unaffordable Utility Bills",
+  "url": "https://www.nclc.org/maryland-can-bring-down-unaffordable-utility-bills/",
+  "summary": "Policymakers Must Adopt Programs to Help Marylanders Stay Connected The post Maryland Can Bring Down Unaffordable Utility Bills appeared first on NCLC .",
+  "source_id": "nclc",
+  "source_name": "National Consumer Law Center",
+  "official": true,
+  "published": "2026-11-10",
+  "topics": [
+   "consumer-credit"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
+ },
+ {
   "id": "48d5b254758e",
   "title": "UA students weigh uncertain financial futures amid economic concerns",
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY0NJcVFldk41VzgwRi1tNF90NUYtQjh2QVVZQ2xCNzhnU1RUVlJXM05TSDhzR19tVzdHLS1HMEJmb2FCV2YwMzVyMHNILXVaRlRmcU5Lclhmbm1XRlNvLXpXZlFFUWFyeV9DcUZNUXNMUnpka0diMVVSaGRnakc3SlFlYUg4WGVhd3pDdWFPQTJldlQxSXdsM0VzUFhBR2tsNjc3Z1g3TXdmWUdHQnVVN3NuY3UzeWNXRmluV0l4WXAyR0NlNXc?oc=5",
@@ -70,6 +902,25 @@
   "effective_on": null,
   "comments_close_on": null,
   "first_seen": "2026-11-09"
+ },
+ {
+  "id": "5e8f0bdfca41",
+  "title": "Subsidized vs. Unsubsidized Student Loans: Interest Rates and Loan Limits",
+  "url": "https://studentaid.gov/articles/subsidized-vs-unsubsidized-loans/",
+  "summary": "Does your financial aid offer include Direct Subsidized Loans and Direct Unsubsidized Loans? Learn how they compare so you can make a more informed choice.",
+  "source_id": "studentaid",
+  "source_name": "StudentAid.gov",
+  "official": true,
+  "published": "2026-11-09",
+  "topics": [
+   "student-loans",
+   "fafsa"
+  ],
+  "urgent": false,
+  "doc_type": null,
+  "effective_on": null,
+  "comments_close_on": null,
+  "first_seen": "2026-11-16"
  },
  {
   "id": "a7336666d635",

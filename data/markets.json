@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-09T20:30:35+00:00",
+ "fetched_at": "2026-11-16T20:04:14+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1063,122 +1063,153 @@
   }
  ],
  "brief": [],
- "releases": [
-  {
-   "title": "U.S. International Trade in Goods and Services, September 2026",
-   "url": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026",
-   "summary": "The U.S. goods and services trade deficit decreased in September 2026 according to the U.S. Bureau of Economic Analysis and the U.S. Census Bureau. The deficit decreased from $105.7 billion in August (revised) to $105.0 billion in September, as exports increased more than imports. The goods deficit decreased $0.7 billion in September to $135.9 billion. The services surplus decreased less than…",
-   "source_name": "Bureau of Economic Analysis",
-   "official": true,
-   "published": "2026-11-04"
-  }
- ],
+ "releases": [],
  "fed": [
   {
-   "title": "Federal Reserve issues FOMC statement",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "summary": "Federal Reserve issues FOMC statement",
+   "title": "Warsh, Opening Remarks",
+   "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
+   "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-11-16"
+  },
+  {
+   "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
+   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
+   "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-11-16"
+  },
+  {
+   "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+   "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-11-14"
+  },
+  {
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
    "source_name": "Federal Reserve — Monetary policy",
    "official": true,
-   "published": "2026-10-28"
+   "published": "2026-11-12"
+  },
+  {
+   "title": "Barr, American Inequality and the Future of AI",
+   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+   "summary": "Speech At Yale University, New Haven, Connecticut",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-11-12"
+  },
+  {
+   "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
+   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
+   "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.",
+   "source_name": "Federal Reserve — Speeches",
+   "official": true,
+   "published": "2026-11-10"
   }
  ],
  "commentary": [
   {
-   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-11-09"
+   "published": "2026-11-16"
   },
   {
-   "title": "How to Invest in Real Estate Before Housing Recovers",
-   "url": "https://www.kiplinger.com/investing/housing-will-recover-eventually-heres-how-to-invest-in-real-estate-until-then",
-   "summary": "The housing market has been slow, which may also mean there are attractive opportunities in the stock market for investors.",
+   "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
+   "url": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
+   "summary": "There are bullish signs surrounding the Anthropic IPO in the derivatives market.",
+   "source_name": "CNBC — Investing",
+   "official": false,
+   "published": "2026-11-16"
+  },
+  {
+   "title": "Nvidia Earnings: Live Updates and Commentary November 2026",
+   "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026",
+   "summary": "Nvidia reports earnings after Tuesday's close, and Wall Street is waiting to see what the chipmaker's fiscal 2027 third-quarter results signal about AI demand.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-11-09"
+   "published": "2026-11-16"
   },
   {
-   "title": "Are We in an AI Earnings Bubble? 3 Warning Signs to Watch",
-   "url": "https://www.kiplinger.com/investing/ai-bubble-how-valuations-may-be-distorted",
-   "summary": "Should we look more deeply into company earnings driven by unsustainable cash flow, allegations of aggressive accounting and circular financing?",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-11-09"
-  },
-  {
-   "title": "October CPI Report: What the Inflation Data Is Expected to Show",
-   "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect",
-   "summary": "The October CPI report is a key inflation update the Fed will see before its next policy meeting. Here's what economists are saying about the data.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-11-09"
-  },
-  {
-   "title": "ABS-CBN News. . Follow the latest in the world of business as ANC talks to analysts and decision-makers on Market Edge.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHI1ajNkQm54Sm9sM29pNm9vU0RrRTloNlJUQlViZE1xWU4wQV9QZXNuSWstNG8xNDgzc0hidGhGV2lrNDlfWk4tbkw4T2E5T1pIbzBEckRsaHd4ZUVnSkxEdWJRTGRaN2tIbWxlbUoxQS0zd3FTcUxGakVXdkNkTVhvNUZqY3VvVHhxRzBMZjRoZnk4UC1z?oc=5",
+   "title": "Week In Review: Answers To The Market Can Come Quickly Now (SP500)",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFdIbHNfVWdmOW1zZUxMWDA2bkJRaGtfQ3Zob2gwWjdtaU9SWmhsd3dVUWxFZ3pJellheHp6VzZKMUQ0Y0t0enhqUDlnSGY1c3hRTTM2bmlSWGY4XzlDbzlHMkhlVVZzdWxOZUgxcThYemRkNWZNdXlLWnJ1Q01TYUhObXZiVWJqSUVyWWVwMUY3M28yTWhxVjNhcUIyMUZrSDBjeFREMllibGN1YVV1SVhyOEN4dnpZUVE?oc=5",
    "summary": "",
-   "source_name": "Facebook",
+   "source_name": "Seeking Alpha",
    "official": false,
-   "published": "2026-11-09"
+   "published": "2026-11-15"
   },
   {
-   "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-   "url": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
-   "summary": "Three dividend-paying stocks that are highlighted by Wall Street’s top pros, as tracked by TipRanks.",
+   "title": "Stocks rebound despite Nvidia’s slide and higher bond yields: Weekly Market Recap",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV1RFWXM0bDVuUlFiQU9iRkpVRjN3YVk2aGxzclNCSkxfTVNkS0stbFZqYUZnZ0RuOFR1TWRuLU0xWUs0MEtxRFNsRjlIampPUGJlRlpjODU2emNkRXdvSmln?oc=5",
+   "summary": "",
+   "source_name": "Beansprout",
+   "official": false,
+   "published": "2026-11-15"
+  },
+  {
+   "title": "Stock Market Week in Review – 11/9 - 11/13",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96QlU5bHNhM0Ewd0xSZjg4NnNtMUV4dDVNLVQ3djZJUmt4UXV5RTAyYU5FOXBtWmdVT1R4Ti1fbUhPRzEtV1ZpcTBSRV9VVE9hSGNoREExdkZ2Smk1NnFCelU1UDlfNnEyVldBZ3hFSkpZeHlZZm1weXIyZnUwZw?oc=5",
+   "summary": "",
+   "source_name": "MarketBeat",
+   "official": false,
+   "published": "2026-11-14"
+  },
+  {
+   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+   "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-11-13"
+  },
+  {
+   "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+   "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+   "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+   "source_name": "CNBC — Economy",
+   "official": false,
+   "published": "2026-11-13"
+  },
+  {
+   "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+   "summary": "Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-08"
+   "published": "2026-11-13"
   },
   {
-   "title": "How to Beat Inflation and Future-Proof Long-Term Wealth",
-   "url": "https://www.kiplinger.com/personal-finance/how-to-outsmart-rising-costs-and-protect-your-nest-egg",
-   "summary": "No single asset class is a perfect defense against inflation and a long retirement. Protect your portfolio with a mix of tools to maintain your purchasing power.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-11-08"
-  },
-  {
-   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-   "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-   "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-11-06"
-  },
-  {
-   "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-   "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+   "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+   "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+   "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-06"
+   "published": "2026-11-13"
   },
   {
-   "title": "Nasdaq Adds 264 Points in Tech Rebound: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today",
-   "summary": "Several beaten-down tech stocks bounced on Friday, but it wasn't enough to erase weekly losses.",
+   "title": "Nasdaq Drops Friday But Ends the Week Up: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today",
+   "summary": "Tech stocks pulled back Friday and inflation fears lingered, but markets still finished with weekly gains.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-11-06"
+   "published": "2026-11-13"
   },
   {
-   "title": "The October jobs report is out Friday. Here's everything to expect",
-   "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-   "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
-   "source_name": "CNBC — Economy",
+   "title": "What Inflation and High Prices Mean for Your Retirement",
+   "url": "https://www.kiplinger.com/personal-finance/inflation/what-inflation-and-high-prices-mean-for-retirement",
+   "summary": "Inflation can be a puzzle for retirees. Moving to a more conservative portfolio feels safer, but can it support the lifestyle you want as prices rise?",
+   "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-11-05"
-  },
-  {
-   "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-   "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-   "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-11-05"
+   "published": "2026-11-13"
   }
  ],
  "failures": [

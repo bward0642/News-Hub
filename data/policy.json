@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T20:05:16+00:00",
+ "fetched_at": "2026-11-23T21:57:04+00:00",
  "default_state": "PA",
  "states": {
   "US": "Federal",
@@ -57,6 +57,63 @@
  },
  "items": [
   {
+   "id": "72ab90536236",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "S. 5741",
+   "title": "Less Bureaucracy, Better Higher Education Act",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-11-21",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119s5741is",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "e304f961175e",
+   "kind": "official",
+   "origin": "congress",
+   "jurisdiction": "US",
+   "jurisdiction_name": "Federal",
+   "number": "S. 5744",
+   "title": "Less Bureaucracy, Better Student Aid Act",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Introduced",
+   "last_action": "New version published: introduced",
+   "last_action_date": "2026-11-21",
+   "source_name": "Congress (GovInfo)",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119s5744is",
+   "topics": [
+    "consumer-credit"
+   ]
+  },
+  {
+   "id": "a560f07eedb1",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "CA",
+   "jurisdiction_name": "California",
+   "number": "",
+   "title": "California Law Forces Colleges To Show Students How To Get More Financial Aid By 2027",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "In the news",
+   "last_action": "",
+   "last_action_date": "2026-11-19",
+   "source_name": "The College Investor",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNlpTOUpXa0RYU1I0cnJCSkNWMFZRd2dFUERuU1k3OGh2ZEE1WTkyRlNCZjZoYmh1Z2l0MTFiUFlwSFdMMHhmSG9mbFM4NWZHOGgtYnB3X0Y5cVNuNzFYMDgzUTRpME8wWThPUDZ2OV9mU3lDTEpqS3J3cG1DYTcySGY3b0JWM09paTVHSjZVeDBsWDg2Q0FqTXcybVRoUzdvYzBjMl9jVXZ1aUYxSEJ5ekozMkhqUQ?oc=5",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
    "id": "4356ef9ff2a3",
    "kind": "official",
    "origin": "federal_register",
@@ -90,6 +147,25 @@
    "last_action_date": "2026-11-12",
    "source_name": "Treasury Department, Internal Revenue Service",
    "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23032/federal-scholarship-tax-credit-hearing",
+   "topics": [
+    "fafsa"
+   ]
+  },
+  {
+   "id": "7b7db265b6c8",
+   "kind": "news",
+   "origin": "news",
+   "jurisdiction": "CA",
+   "jurisdiction_name": "California",
+   "number": "",
+   "title": "2027 California Bill aims to increase financial aid transparency between students and universities",
+   "summary": "",
+   "status": "in_progress",
+   "status_label": "Reported: proposed",
+   "last_action": "",
+   "last_action_date": "2026-11-11",
+   "source_name": "Annenberg Media",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmNJTmlOWUFBZ25JU0NGQzgtelJZZmFMNWJ6V0loNFZpaE1XZ0lNbm5ZTzh0SVdjaEdOSUlJZTduTmpSMFBFVmxTMjhJRUd2M0JOZ3JCdU9vRnlBUUx2OFhJcTdpSVNRekxGMHVxYy1jZkhTQXBoUUxsRnlPUDdrTml6V3ViU29lUEt2V2lZN2Q3NDVCVEJOQ1NPV3NVUlJuUmxvMDdhaUVQZVdNMlBNaTRGYnRqTXlFRWxfU29IaWVZdnRSbUhreUFXX2JPLThwajB6ZVlnZ284dmZV?oc=5",
    "topics": [
     "fafsa"
    ]
@@ -1161,54 +1237,7 @@
    "topics": [
     "consumer-credit"
    ]
-  },
-  {
-   "id": "88d436b8738b",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)",
-   "summary": "The Consumer Financial Protection Bureau (CFPB or Bureau) proposes revisions to certain provisions of Regulation B, subpart B, implementing changes to the Equal Credit Opportunity Act made by section 1071 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. The Bureau is reconsidering coverage of certain credit transactions and financial institutions; the small business definition; inclusion of certain data points and how others are collected; and the compliance date. The CFPB… Comments due 2025-12-15.",
-   "status": "in_progress",
-   "status_label": "Proposed rule",
-   "last_action": "Published as a proposed rule",
-   "last_action_date": "2025-11-13",
-   "source_name": "Consumer Financial Protection Bureau",
-   "url": "https://www.federalregister.gov/documents/2025/11/13/2025-19865/small-business-lending-under-the-equal-credit-opportunity-act-regulation-b",
-   "topics": [
-    "consumer-credit"
-   ]
-  },
-  {
-   "id": "af33fccdb2dd",
-   "kind": "official",
-   "origin": "federal_register",
-   "jurisdiction": "US",
-   "jurisdiction_name": "Federal",
-   "number": "",
-   "title": "Equal Credit Opportunity Act (Regulation B)",
-   "summary": "The Consumer Financial Protection Bureau (Bureau or CFPB) is issuing a proposed rule for public comment that amends provisions related to disparate impact, discouragement of applicants or prospective applicants, and special purpose credit programs under Regulation B, the regulation implementing the Equal Credit Opportunity Act (ECOA or Act). The amendments would facilitate compliance with ECOA by clarifying the obligations imposed by the statute. Comments due 2025-12-15.",
-   "status": "in_progress",
-   "status_label": "Proposed rule",
-   "last_action": "Published as a proposed rule",
-   "last_action_date": "2025-11-13",
-   "source_name": "Consumer Financial Protection Bureau",
-   "url": "https://www.federalregister.gov/documents/2025/11/13/2025-19864/equal-credit-opportunity-act-regulation-b",
-   "topics": [
-    "consumer-credit"
-   ]
   }
  ],
- "failures": [
-  "State news (Georgia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Georgia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (Idaho): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Idaho%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (Illinois): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Illinois%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (Maine): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Maine%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (New Hampshire): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22New+Hampshire%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (Tennessee): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Tennessee%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (Virginia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Virginia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en",
-  "State news (West Virginia): 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22West+Virginia%22+%28%22student+loan%22+OR+%22student+loans%22+OR+%22student+debt%22+OR+%22financial+literacy%22+OR+%22personal+finance%22+OR+FAFSA+OR+%22financial+aid%22+OR+%22medical+debt%22+OR+overdraft+OR+%22debt+collection%22+OR+%22earned+wage%22+OR+%22buy+now%2C+pay+later%22+OR+%22credit+report%22+OR+%22payday%22%29+%28bill+OR+law+OR+legislature+OR+lawmakers+OR+governor+OR+%22signed+into+law%22%29+when%3A14d&hl=en-US&gl=US&ceid=US:en"
- ]
+ "failures": []
 }

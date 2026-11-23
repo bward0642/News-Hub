@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-16T20:04:14+00:00",
+ "fetched_at": "2026-11-23T21:56:03+00:00",
  "indicators": [
   {
    "id": "SP500",
@@ -1063,153 +1063,162 @@
   }
  ],
  "brief": [],
- "releases": [],
+ "releases": [
+  {
+   "title": "Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+   "url": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+   "summary": "The value added of the outdoor recreation economy accounted for 2.3 percent ($704.2 billion) of current-dollar gross domestic product (GDP) for the nation in 2025. Across states and the District of Columbia, value added for outdoor recreation as a share of state GDP ranged from 6.1 percent in Hawaii to 1.0 percent in the District of Columbia.",
+   "source_name": "Bureau of Economic Analysis",
+   "official": true,
+   "published": "2026-11-18"
+  }
+ ],
  "fed": [
   {
-   "title": "Warsh, Opening Remarks",
-   "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
-   "summary": "Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California",
+   "title": "Cook, The U.S. Economy in Global Context",
+   "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+   "summary": "Speech At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
-   "published": "2026-11-16"
+   "published": "2026-11-20"
   },
   {
-   "title": "Barr, Some Potential Financial Stability Implications of Artificial Intelligence",
-   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261116a.htm",
-   "summary": "Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy",
+   "title": "Waller, Opening Remarks",
+   "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+   "summary": "Speech At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
-   "published": "2026-11-16"
+   "published": "2026-11-20"
   },
   {
-   "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
+   "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
+   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
+   "summary": "Speech At the International Monetary Fund and Central Bank of Brazil Conference “A Quarter Century of Inflation Targeting in Latin America: Progress, Challenges, and the Road Ahead,” Brasília, Brazil",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
-   "published": "2026-11-14"
+   "published": "2026-11-19"
   },
   {
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+   "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
    "source_name": "Federal Reserve — Monetary policy",
    "official": true,
-   "published": "2026-11-12"
+   "published": "2026-11-18"
   },
   {
-   "title": "Barr, American Inequality and the Future of AI",
-   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-   "summary": "Speech At Yale University, New Haven, Connecticut",
+   "title": "Barr, Investing in America’s Underserved Communities",
+   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+   "summary": "Speech At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
-   "published": "2026-11-12"
+   "published": "2026-11-18"
   },
   {
-   "title": "Bowman, The U.S. Economy and Considerations for Monetary Policy",
-   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
-   "summary": "Speech At the C. Peter McColough Series on International Economics Council on Foreign Relations, Washington, D.C.",
+   "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+   "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+   "summary": "Speech At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York",
    "source_name": "Federal Reserve — Speeches",
    "official": true,
-   "published": "2026-11-10"
+   "published": "2026-11-17"
   }
  ],
  "commentary": [
   {
-   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+   "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+   "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
    "source_name": "CNBC — Economy",
    "official": false,
-   "published": "2026-11-16"
+   "published": "2026-11-23"
   },
   {
-   "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
-   "url": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
-   "summary": "There are bullish signs surrounding the Anthropic IPO in the derivatives market.",
+   "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+   "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-16"
+   "published": "2026-11-23"
   },
   {
-   "title": "Nvidia Earnings: Live Updates and Commentary November 2026",
-   "url": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026",
-   "summary": "Nvidia reports earnings after Tuesday's close, and Wall Street is waiting to see what the chipmaker's fiscal 2027 third-quarter results signal about AI demand.",
-   "source_name": "Kiplinger — Investing",
-   "official": false,
-   "published": "2026-11-16"
-  },
-  {
-   "title": "Week In Review: Answers To The Market Can Come Quickly Now (SP500)",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFdIbHNfVWdmOW1zZUxMWDA2bkJRaGtfQ3Zob2gwWjdtaU9SWmhsd3dVUWxFZ3pJellheHp6VzZKMUQ0Y0t0enhqUDlnSGY1c3hRTTM2bmlSWGY4XzlDbzlHMkhlVVZzdWxOZUgxcThYemRkNWZNdXlLWnJ1Q01TYUhObXZiVWJqSUVyWWVwMUY3M28yTWhxVjNhcUIyMUZrSDBjeFREMllibGN1YVV1SVhyOEN4dnpZUVE?oc=5",
-   "summary": "",
-   "source_name": "Seeking Alpha",
-   "official": false,
-   "published": "2026-11-15"
-  },
-  {
-   "title": "Stocks rebound despite Nvidia’s slide and higher bond yields: Weekly Market Recap",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV1RFWXM0bDVuUlFiQU9iRkpVRjN3YVk2aGxzclNCSkxfTVNkS0stbFZqYUZnZ0RuOFR1TWRuLU0xWUs0MEtxRFNsRjlIampPUGJlRlpjODU2emNkRXdvSmln?oc=5",
-   "summary": "",
-   "source_name": "Beansprout",
-   "official": false,
-   "published": "2026-11-15"
-  },
-  {
-   "title": "Stock Market Week in Review – 11/9 - 11/13",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96QlU5bHNhM0Ewd0xSZjg4NnNtMUV4dDVNLVQ3djZJUmt4UXV5RTAyYU5FOXBtWmdVT1R4Ti1fbUhPRzEtV1ZpcTBSRV9VVE9hSGNoREExdkZ2Smk1NnFCelU1UDlfNnEyVldBZ3hFSkpZeHlZZm1weXIyZnUwZw?oc=5",
-   "summary": "",
-   "source_name": "MarketBeat",
-   "official": false,
-   "published": "2026-11-14"
-  },
-  {
-   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-11-13"
-  },
-  {
-   "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-   "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-   "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-   "source_name": "CNBC — Economy",
-   "official": false,
-   "published": "2026-11-13"
-  },
-  {
-   "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-   "summary": "Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
+   "title": "The biggest money-making energy trade looks over. What to buy instead",
+   "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
+   "summary": "The epic boom in refinery-related stocks is unwinding.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-13"
+   "published": "2026-11-23"
   },
   {
-   "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-   "url": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-   "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
+   "title": "Nasdaq Soars 1,471 Points as Jensen Huang Returns to Nvidia: Stock Market Today",
+   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-soars-1-471-points-as-huang-returns-to-nvidia-stock-market-today",
+   "summary": "Jensen Huang's return as Nvidia CEO sparked a historic $1 trillion surge for the chip stock — and lifted the Dow and S&P 500 out of correction territory.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "Year-End Real Estate Investing Q&A on Opportunity Zone Funds",
+   "url": "https://www.kiplinger.com/real-estate/real-estate-investing/opportunity-zone-funds-q-and-a-with-industry-experts",
+   "summary": "As year-end approaches, investors have a unique opportunity to make tax-advantaged, long-term real estate investments through Opportunity Zone (OZ) funds.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "Copper's Bull Case: 3 Less Obvious Stocks to Invest In",
+   "url": "https://www.kiplinger.com/investing/commodities/coppers-bull-case-ways-to-invest",
+   "summary": "Enthusiasm for copper has grown and tightening supplies could cause prices to heat up further. These three routes could allow investors to bypass the crowds.",
+   "source_name": "Kiplinger — Investing",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "Nvidia and the TSP C Fund: How Much Can One Stock Matter?",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LOEFBQVFOM2tiMjhmeERhVXdXUzBEUUlvSUFLSUpudzh4SlBhUHhDV19FQ3l0ZUFHLXpXNTFpeHJ4aGM0S0ZTZkllX2YyS1NOYUFiUU5CMEREWnJmSTlQOWpjTm5nRHVJ?oc=5",
+   "summary": "",
+   "source_name": "MyFederalRetirement",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "The National Police have revealed Khimprom's rates for purchasing information and exerting pressure on officials",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbi1oYU12QloySmhkQXBmLXY1MjNPQ3d6RjRlMXNfSjJrU2RSYWNldncyUWpsTVdGeTFaemdBSjZDc2NpbHFNSGp1UU9yaEEwOHZEbUpja0pnclBKUXAwemRCOE9Ob2dRWVlzN013MFVScVdybDVrcUxDdGF5cDFDREVIQmJVMlp1LWRoaEFGWWlpRXZVa0VZcE4xV0pUR3VyaGdaX0tDeGVGYkQ4MXpEY0tMand5RG1JYlNZUEFET1dab1pxbTRSRC00ckVwZUxlYkJVZW9FSy1zb1NHZGZHX3NjLXXSAeoBQVVfeXFMTlh3NlhLck1ibTVVT3Nkd2hZOFgyVVVTUjB4bzdISTFDV3IzdmpmVl84QXV0Q1VsUXFQTUNwTnRiQlZyd1ZUQUlaaHo0X0VUT2t0bEd2aWVEaFUzUzI5djZKWWU5cXhRNXp5bm03M1BXeWd6UGh3bkVGYWtTQ3V3cHhQMjBtVkI3MTlsRlkxdFVJdURaN0xZS1hsTmNQaFVTbGNjR0ZiRV84Xy1fVVp4VkZqUUpNcWtuam1NaDJxRFV4aXAtNWdFS3MyNS1YUTFQM3pZWkhoalRkTUhubXMwZW8xZjlTVHNlclV3?oc=5",
+   "summary": "",
+   "source_name": "LIGA.net",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "Ukrainian Railways' freight rates will increase by an average of 15% starting January 1: draft order",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRU9GQWh3RF9aNkdVdVRZS2hoWC1LMFVNZUtTX20tekRGVmh6Ny1abEoxYUdxYTNOUVh5ZWtHQ2JOVEZaelF6a1hXX3RGMjkzSUhmcHFPN0ttMmMwTTVod3dnUl9PTi1BUUswRmZBQ21JT0xzQ3VSdUEyeXM4allITmZQZlZrRi05VUpORDI2Tkc3Q0JCZW9JT2FxRXloM28yNmhKdFpoU2tDSEc1NkJHNktSTUhtaHgyWWhic2tvaVV6aVFRcGVScTJxQTJOZ2Zqd1HSAdcBQVVfeXFMT29DNFdadGxjaDY2cXB6YUhvenE0d05WNmJJQTZqdVktYjNuUzNVd1puZFo4NjR2ZWU5bHROSTlfaVktY3Vvdi1odmQzYzBZckhFeHE1blk3aHZfVy1PNy1kYkNraWF0TGVvMkdZOFQtSWt4b0t1QW9fLWtTYkI5bS00R050dVdIRzVJU002ckw0bmFBbU9nUGc5elVUeDd4LXRrbXNEUG1ZUGZZUTNGRjN6OXFWenc5VzkzSk4tdEU3bllUZzNvbDJHTTFrZXAyWUlyWWpIcnM?oc=5",
+   "summary": "",
+   "source_name": "LIGA.net",
+   "official": false,
+   "published": "2026-11-23"
+  },
+  {
+   "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+   "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
+   "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
    "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-13"
+   "published": "2026-11-22"
   },
   {
-   "title": "Nasdaq Drops Friday But Ends the Week Up: Stock Market Today",
-   "url": "https://www.kiplinger.com/investing/stocks/nasdaq-drops-friday-on-nvidia-fallout-but-ends-the-week-up-stock-market-today",
-   "summary": "Tech stocks pulled back Friday and inflation fears lingered, but markets still finished with weekly gains.",
-   "source_name": "Kiplinger — Investing",
+   "title": "The Nasdaq is in freefall. Here's one stock to look at",
+   "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+   "summary": "Elevated options premiums are creating an opportunity in Amazon",
+   "source_name": "CNBC — Investing",
    "official": false,
-   "published": "2026-11-13"
+   "published": "2026-11-22"
   },
   {
-   "title": "What Inflation and High Prices Mean for Your Retirement",
-   "url": "https://www.kiplinger.com/personal-finance/inflation/what-inflation-and-high-prices-mean-for-retirement",
-   "summary": "Inflation can be a puzzle for retirees. Moving to a more conservative portfolio feels safer, but can it support the lifestyle you want as prices rise?",
+   "title": "Financial Adviser Fees: The View From a Consumer Advocate",
+   "url": "https://www.kiplinger.com/investing/wealth-management/consumer-advocates-take-on-financial-adviser-fees",
+   "summary": "When it comes to financial advice, how can you tell you're getting your money's worth? The first step is knowing what help you need before hiring an adviser.",
    "source_name": "Kiplinger — Investing",
    "official": false,
-   "published": "2026-11-13"
+   "published": "2026-11-22"
   }
  ],
  "failures": [
